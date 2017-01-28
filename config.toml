@@ -1,0 +1,30 @@
+title = "ChaosBlog"
+baseurl = "http://blog.networkchallenge.de/"
+languageCode = "de-de"
+paginate = 10
+theme = "startbootstrap-clean-blog"
+copyright = "Copyright © ChaosBlog 2017"
+
+[permalinks]
+post = "/post/:title"
+
+[params]
+Author = "Andreas"
+dateForm = "2. Jan 2006"
+dateFormDateTime = "2006-01-02"
+
+[[params.social]]
+  title = "google-plus-official"
+  url = "https://plus.google.com/+AndreasGroll"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/adulescentulus"
+
+[[menu.main]]
+  name = "Über"
+  url = "/about"
+  weight = -200
+[[menu.main]]
+  name = "Archiv"
+  url = "/post/"
+  weight = -180
