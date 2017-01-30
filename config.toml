@@ -4,9 +4,10 @@ languageCode = "de-de"
 paginate = 10
 theme = "startbootstrap-clean-blog"
 copyright = "Copyright © ChaosBlog 2017"
+disqusShortname = "thechaosblog"
 
 [permalinks]
-post = "/post/:title"
+post = "/post/:filename"
 
 [params]
 Author = "Andreas"
