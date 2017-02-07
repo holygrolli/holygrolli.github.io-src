@@ -11,6 +11,7 @@ post = "/post/:filename"
 
 [params]
 Author = "Andreas"
+description = "Ein Blog über alles aus dem Leben mit den Schwerpunkten DevOps, Fotos, Reisen, Technik und Gadgets."
 dateForm = "2. Jan 2006"
 dateFormDateTime = "2006-01-02"
 
