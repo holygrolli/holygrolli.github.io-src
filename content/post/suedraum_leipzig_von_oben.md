@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 description = "Noch keine zwei Wochen ist die Mavic mein neues Spielzeug. Fest steht, die Fotos werden echt spitze!"
 coverimage = "/img/DJI_0171-HDR_s160.jpg"
 image = "/img/vonoben-bg.jpg"
