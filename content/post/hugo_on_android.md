@@ -20,6 +20,7 @@ Nach dem Entpacken steht einem nun die Hugo Binary zur Verfügung und kann genau
 Überraschend ist auch die funktionierende Möglichkeit, die Live-Ansicht mit `hugo server` im Browser unter `http://localhost:1313` aufrufen zu können.
 
 Das ganze ermöglicht dann doch eine recht mobile Variante des Bloggens, wie dieses Bild beweist:
-<img src="/img/IMG_20171229_130724_HDR.jpg" class="img-responsive" >
+
+![Hugo auf dem Tablet](/img/IMG_20171229_130724_HDR.jpg)
 
 [hugo]: https://github.com/gohugoio/hugo/releases
