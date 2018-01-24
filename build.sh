@@ -2,7 +2,7 @@
 #set -o errexit
 
 #s3cmd sync -n --access_key=${AWS_ACCESS_KEY} --
-aws s3 sync static/img/ s3://img.networkchallenge.de 
+aws s3 sync static/img/ s3://img.networkchallenge.de --size-only
 #--dryrun
 
 git clone https://github.com/adulescentulus/adulescentulus.github.io.git /tmp/target
