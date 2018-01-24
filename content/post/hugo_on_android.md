@@ -5,8 +5,6 @@ tags = ["hugo"]
 title = "Hugo auf einem Android Tablet"
 comments = true
 description = "Challenge: den Blog auf Reisen aktualisieren - nur mit einem Android-Device"
-image = "/img/home-bg.jpg"
-
 +++
 
 Gerade beginnt Woche 3 in Sri Lanka und während wir auf unseren Fahrer warten habe ich 2 Stunden Zeit zum Basteln. 

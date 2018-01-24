@@ -1,8 +1,8 @@
 +++
 draft = false
 description = "Noch keine zwei Wochen ist die Mavic mein neues Spielzeug. Fest steht, die Fotos werden echt spitze!"
-coverimage = "/img/DJI_0171-HDR_s160.jpg"
-image = "/img/vonoben-bg.jpg"
+coverimage = "DJI_0171-HDR.jpg"
+image = "DJI_0157-HDR.jpg"
 date = "2017-02-07T18:18:29+01:00"
 title = "Von oben im Südraum von Leipzig"
 tags = ["fotos","mavic","drohne"]

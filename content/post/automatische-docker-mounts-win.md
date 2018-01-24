@@ -5,8 +5,6 @@ tags = ["docker","devops","virtualbox"]
 title = "Automatische Docker-Mounts in Windows"
 comments = true
 description = "Docker mit VirtualBox unter Windows macht es einem nicht sehr leicht, andere Verzeichnisse als das Benutzer-Verzeichnis als Volume bereitzustellen."
-image = "/img/home-bg.jpg"
-
 +++
 
 Standardmäßig wird bei der Installation der _Docker Toolbox_ die freie Virtualisierungssoftware _VirtualBox_ installiert. Um nun im Docker-Container auf Dateien des Windows-Hosts zuzugreifen, wird standardmäßig der Pfad `/c/Users` im Gastsystem gemountet. Dies ist aber nicht optimal, da man als Windows-Nutzer oft mit Leerzeichen in Pfaden geplagt ist und auch sonst eher z.B. mit einem anderen Arbeitsverzeichnis z.B. `c:\dev` arbeitet.

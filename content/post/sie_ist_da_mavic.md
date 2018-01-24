@@ -4,9 +4,9 @@ comments = true
 date = "2017-01-29T17:52:46+01:00"
 title = "Sie ist da"
 description = "Als Gadget-Liebhaber, Traveler und Fotoliebhaber gab es ein großes Ziel: eine DJI Mavic Pro!"
-image = "/img/vonoben-bg.jpg"
+image = "vonoben-bg.jpg"
 categories = ["vonoben"]
-coverimage = "/img/DJI_0083-HDR-2_s160.jpg"
+coverimage = "DJI_0083.jpg"
 
 +++
 

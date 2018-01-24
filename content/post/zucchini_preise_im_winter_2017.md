@@ -1,6 +1,5 @@
 +++
 description = "Hat sich schon einmal jemand gefragt, wieso die Zucchini-Preise gerade so hoch sind?"
-image = "/img/home-bg.jpg"
 title = "Die Zucchini-Preise"
 comments = true
 categories = ["allgemein"]
