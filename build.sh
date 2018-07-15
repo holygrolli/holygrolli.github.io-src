@@ -27,9 +27,9 @@ do
 done
 
 if [[ $OPT_DRYRUN -eq 1 ]]; then
-    aws s3 sync static/img/ s3://img.networkchallenge.de --size-only --dryrun
+    aws s3 sync static/img/ s3://imgs.networkchallenge.de --size-only --dryrun
 else
-    aws s3 sync static/img/ s3://img.networkchallenge.de --size-only
+    aws s3 sync static/img/ s3://imgs.networkchallenge.de --size-only --metadata-directive REPLACE --cache-control max-age=2419200
 fi
 
 if [[ $OPT_PUBLISH -eq 1 ]]; then

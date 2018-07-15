@@ -1,5 +1,5 @@
 title = "ChaosBlog"
-baseurl = "http://blog.networkchallenge.de/"
+baseurl = "https://blog.networkchallenge.de/"
 languageCode = "de-de"
 paginate = 10
 theme = "startbootstrap-clean-blog"
@@ -14,7 +14,7 @@ Author = "Andreas"
 description = "Ein Blog über alles aus dem Leben mit den Schwerpunkten DevOps, Fotos, Reisen, Technik und Gadgets."
 dateForm = "2. Jan 2006"
 dateFormDateTime = "2006-01-02"
-imgurl = "http://img.networkchallenge.de"
+imgurl = "https://imgs.networkchallenge.de"
 
 [[params.social]]
   title = "google-plus-official"
