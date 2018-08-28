@@ -1,5 +1,6 @@
 +++
 date = "2018-08-28T20:02:00+02:00"
+title = "Kontaktloses Bezahlen mit dem Moto G6"
 tags = [
     "handy",
     "payment"]
