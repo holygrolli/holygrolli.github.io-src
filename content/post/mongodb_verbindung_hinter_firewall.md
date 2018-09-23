@@ -26,7 +26,7 @@ Das ganze Setup habe ich unter Windows (Git Bash) und MacOS getestet und erwarte
 ## SSH Tunnel
 Auf dem lokalen Rechner wird nun eine SSH Verbindung und insgesamt 3 Tunnel zu den einzelnen Knoten des Replica Sets aufgebaut. Die Namen der einzelnen Rechner bekommt man in der Weboberfläche von MongoDB Atlas im Menüpunkt _Connect_ (Details für MongoDB 3.4 Clients). Nun machen wir in einer SSH-Verbindung insgesamt 3 Tunnel auf:
 
-`ssh -g -L 27017:your-shard-00.gcp.mongodb.net:27017 -L27018:your-shard-01.gcp.mongodb.net:27017 -L27019:your-shard-02.gcp.mongodb.net:27017`
+`ssh -g -L 27017:your-shard-00.gcp.mongodb.net:27017 -L27018:your-shard-01.gcp.mongodb.net:27017 -L27019:your-shard-02.gcp.mongodb.net:27017 jumphost`
 
 Alle drei Verbindungen lauschen lokal auf drei verschiedenen Ports (27017-27019). Notwendig ist nun noch das Flag `-g`, um den Port "von außen" (dem Docker-Netzwerk) zugänglich zu machen.
 
