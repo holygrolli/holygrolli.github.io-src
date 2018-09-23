@@ -24,7 +24,7 @@ Vergleicht man das Ergebnis mit der Lightroom Android App, die begrenzte kostenl
 ![Moto G6 RAW mit Android Lightroom](/img/LRM_EXPORT_20180527_132635.jpg)
 
 Sieht man sich dann noch die HDR-Aufnahme der Motorola-Kamera-App an, dann muss man echt feststellen, dass das Bild schon initial sehr gut aussieht:
- 
+
 ![Moto G6 HDR mit Motorola App](/img/IMG_20180527_131407847_HDR.jpg)
 
 Zu guter Letzt und wegen der Vollständigkeit hier die normale Aufnahme, ohne HDR:
