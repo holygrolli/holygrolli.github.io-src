@@ -8,7 +8,7 @@ categories = [
 #image - "home-bg.jpg" is the default
 #coverimage = "some.jpg"
 description = "Nach langer Optimierung steht nun endlich die komplette Route für die Weltreise fest."
-draft = true
+draft = false
 comments = true
 date = 2018-09-23T09:31:28+02:00
 title = "Die Reiseroute steht fest"
