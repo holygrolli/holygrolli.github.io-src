@@ -24,6 +24,10 @@ imgurl = "https://imgs.networkchallenge.de"
   url = "https://github.com/adulescentulus"
 
 [[menu.main]]
+  name = "Weltreise"
+  url = "/rtw"
+  weight = -210
+[[menu.main]]
   name = "Über"
   url = "/about"
   weight = -200
