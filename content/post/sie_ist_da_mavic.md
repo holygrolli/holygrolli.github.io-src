@@ -6,7 +6,7 @@ title = "Sie ist da"
 description = "Als Gadget-Liebhaber, Traveler und Fotoliebhaber gab es ein großes Ziel: eine DJI Mavic Pro!"
 image = "vonoben-bg.jpg"
 categories = ["vonoben"]
-coverimage = "DJI_0083.jpg"
+coverimage = "DJI_0083.JPG"
 
 +++
 
