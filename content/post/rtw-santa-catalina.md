@@ -10,7 +10,7 @@ categories = [
     "reise"
 ]
 #image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
+coverimage = "IMG_20181104_163759.jpg"
 description = "Drei Nächte im Surfparadies von Panama"
 draft = false
 comments = true
@@ -38,7 +38,39 @@ Ist man dann am Stran angelangt und erwischt nicht den höchsten Stand der Gezei
 
 ![Strand 3](/img/IMG_20181105_085746.jpg "Panama 2018")
 
-Der Strand ist nicht nur wegen seines Sandes beliebt, sondern auch unter Surfern beliebt. Tatsächlich kommen hier im Sekundentakt nacheinander angenehme Wellen an den Strand. Zusätzlich hat das Wasser auch noch eine sehr angenehme Temperatur, bei der man sich stundenlang dort aufhalten kann.
+Der Strand ist nicht nur wegen seines Sandes beliebt, sondern auch unter Surfern beliebt. Tatsächlich kommen hier im Sekundentakt nacheinander angenehme Wellen an den Strand. Zusätzlich hat das Wasser auch noch eine sehr angenehme Temperatur, bei der man sich stundenlang im Wasser aufhalten kann.
 
+Am ersten Tag entspannten wir wunderbar am Strand und holten uns unseren ersten Sonnenbrand. Ich als Sonnenblocker überhaupt zeigt so gut wie keine Haut. Allerdings haben schmale Streifen zwischen Füßen und Hose auf auf den Handrücken gereicht, um für _leicht_ rote Färbung zu sorgen. Was lernen wir daraus? Immer schön ans Eincremen denken. Wir hatten uns zum Schutz der Meere extra eine Sonnencreme von _Eco_ auf Basis von Naturkosmetik geholt. Leider ein totaler, teurer Reinfall.
 
+Am zweiten Tag holten wir uns ein Surfbrett für $10. Das letzte Mal auf einem Surfbrett war schon einige Jahre her. Und nun weiß ich auch wieder warum: es ist schon sehr frustrierend und anstrengend. Das Anpaddeln gegen die Wellen, der verzweifelte Versuch nicht vom Brett zu fallen und schlussendlich eine Welle zu erwischen, auf die man dann auch noch Aufspringen kann. Am Ende stand ich einige Male auf dem Brett und konnte ein kleines Wellchen mitnehmen ... immerhin ...
+
+## Von Oben
+
+Den Strand von Santa Catalina nutzte ich auch für den allerersten Einsatz der Drohne. Gegen 7 Uhr früh gab es keine Probleme.
+
+![Von Oben 1](/img/rtw-DJI_0010.JPG "Santa Catalina von oben")
+
+![Von Oben 2](/img/rtw-DJI_0019.JPG "Santa Catalina von oben")
+
+![Von Oben 3](/img/rtw-DJI_0028.JPG "Santa Catalina von oben")
+
+## Kulinarische Empfehlungen
+
+Da wir kein Frühstück im AirBnB dabei hatten, mussten wir eine Alternative finden. Diese fanden wir dann für alle unsere morgendlichen Genüsse in Form der [La Panaderia Vieja](https://goo.gl/maps/2JVMrNnT4WF2). Diese bot echt leckere Sandwiches auf selbstgemachtem Olivenbrot und andere italienische Speisen an.
+
+![Frühstück](/img/IMG_20181103_093810.jpg "Sandwiches in der La Panaderia Vieja")
+
+Das Essen war so gut, dass wir hier jeden Tag frühstückten.
+
+![Bekanntschaften](/img/IMG_20181103_093810.jpg "Sandwiches in der La Panaderia Vieja")
+
+Die zwei Abendessen genehmigten wir uns im [El Chillinguito](https://goo.gl/maps/z4kKMJAAQHr) und im [Hotel Iguanito](https://goo.gl/maps/hoDuFzpSHBq) dessen Besitzer ein deutscher Auswanderer ist. Der hier servierte _tropical Sangria_ war ein Traum! Wir hatten hier auch wunderbare Thunfischfilets, einmal als Art Teriyaki und einmal mit Sesamkruste.
+
+![Abendessen](/img/IMG_20181104_210002.jpg "Thunfisch im Iguanito")
+
+## Bekanntschaften
+
+Am vorletzten Tag trafen wir beim Frühstück noch Gabriel, einen Panamesen, mit dem wir ins Gespräch kamen. Katrin's Charme verleitete ihn irgendwie dazu, dass er uns als Andenken an Panama neben einem Foto mit ihm noch sein altes Motorradkennzeichen schenkte. Das wird ein übergroßer Kühlschrankmagnet. Bei der Ausreise hatten wir auch keine Probleme mit einem eventuell geklauten Nummernschild :-D
+
+![Gabriel](/img/IMG_20181104_095857.jpg "Das Nummernschild von Gabriel als Andenken")
 

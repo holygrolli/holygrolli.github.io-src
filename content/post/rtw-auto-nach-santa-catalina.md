@@ -2,6 +2,7 @@
 tags = [
     "essen",
     "rtw",
+    "panama"
     ]
 categories = [
     "reise"
