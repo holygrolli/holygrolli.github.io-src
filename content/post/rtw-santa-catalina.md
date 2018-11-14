@@ -30,7 +30,7 @@ Bei Ebbe sieht das alles schon sehr unspektakulär aus.
 
 ![Flußdurchquerung 2](/img/IMG_20181103_173745.jpg "Flußdurchquerung, oder Bächlein")
 
-Ist man dann am Stran angelangt und erwischt nicht den höchsten Stand der Gezeiten, dann erstreckt sich der Strand wortwörtlich soweit das Auge reicht.
+Ist man dann am Strand angelangt und erwischt nicht den höchsten Stand der Gezeiten, dann erstreckt sich der Strand wortwörtlich soweit das Auge reicht.
 
 ![Strand 1](/img/IMG_20181104_163609.jpg "Endloser Strand mit einem dünnen Wasserfilm")
 
