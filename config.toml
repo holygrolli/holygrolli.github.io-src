@@ -1,5 +1,5 @@
 title = "ChaosBlog"
-baseurl = "https://blog.networkchallenge.de/"
+baseURL = "/"
 languageCode = "de-de"
 paginate = 10
 theme = "startbootstrap-clean-blog"
