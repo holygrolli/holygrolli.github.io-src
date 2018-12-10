@@ -38,3 +38,10 @@ imgurl = "https://imgs.networkchallenge.de"
   name = "Archiv"
   url = "/post/"
   weight = -180
+
+[[params.authoren]]
+key = "grolland"
+name = "Andreas Groll"
+[[params.authoren]]
+key = "katrin"
+name = "Katrin Seifert"
