@@ -61,7 +61,7 @@ Bei unserer Runde durch die Altstadt sind wir auch wieder an einem der typischen
 
 ![Mercado](/img/IMG_20181124_120749.jpg "Obstauswahl im Mercado San Camilo")
 
-![Mercado](/img/IMG_20181124_120749.jpg "verschiedenste Kartoffeln im Mercado San Camilo")
+![Mercado](/img/IMG_20181124_121157.jpg "verschiedenste Kartoffeln im Mercado San Camilo")
 
 ![Mercado](/img/IMG_20181124_121237.jpg "Auswahl an Oliven im Mercado San Camilo")
 
