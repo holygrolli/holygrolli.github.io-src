@@ -12,7 +12,7 @@ description = "Ein Huawei-Gerät in Verbindung mit dem Microsoft Unternehmenspor
 draft = false
 comments = true
 date = 2018-12-13T19:50:11-05:00
-title = "Microsoft Unternehmensportal auf Huawei-Telefonen"
+title = "Microsoft Unternehmens&shy;portal auf Huawei-Telefonen"
 +++
 
 Mein privates Telefon synchronisierte seit ein paar Tagen keine Mails mehr. Für die Synchronisation müssen alle Geräte explizit den Sicherheitsrichtlinien der Firma entsprechen. Trotz der Erfüllung dieser Anforderungen wollte partout keine Mail mehr synchronisiert werden, vielmehr informierte mich immer wieder eine automatische Mail, dass ich doch das Unternehmensportal (früher Microsoft Intune bzw. Company Portal) installieren soll ... cleverer Tipp...
