@@ -131,7 +131,7 @@ Hier zusammengefasst die wichtigsten Tipps und Fakten zum Machu Picchu mit Stand
 
 6. Ohne Reisepass kein Eintritt!
 5. Will man Stress vermeiden, dann ist das Ticket vorher auszudrucken.
-1. Obwohl auf den Tickets explizit vermerkt ist kein persönlicher Tourguide notwendig.
+1. Obwohl auf den Tickets explizit vermerkt, ist kein persönlicher Tourguide notwendig.
 2. Die Zeitfenster auf dem Ticket sind nur für den Eintritt relevant. Es schaut niemand, wenn man länger dort ist.
 3. Der Aufpreis für den Machu Picchu Mountain lohnt sich auch, wenn man den Berg nicht hoch will/kann. Wenn man bei Bewölkung startet und nichts sieht, wartet man nach ca. [550 Metern](https://goo.gl/maps/Hta3pdzsTYo) bzw. nach ca. [910 Metern](https://goo.gl/maps/NGj1SZPEhBs) auf perfekte Sicht (vgl. mein [aufgezeichnete Route](https://connect.garmin.com/modern/activity/3188895435
 )).
