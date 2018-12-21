@@ -84,7 +84,7 @@ Zusätzlich besuchten wir noch das [Monumento Inca Pachacutec](https://goo.gl/ma
 
 ![Pachacutec](/img/IMG_20181207_144557.jpg "Das Momument für den Inkaherrscher Pachacutec")
 
-Die letzten beiden Museen waren Teil des [Cusco Touristic Tickets](https://www.cuscoperu.com/en/useful-information/touristic-tickets/cusco-touristic-ticket), darin sind 16 Attraktionen enthalten, Museen und archeologische Anlagen. Zu letzteren werde ich noch etwas eigenes schreiben. Das Cusco Touristic Ticket kostet nur 130 Soles (weniger als 33€) und erlaubt den einmaligen Eintritt innerhalb von 10 Tagen. Wenn man sich auf weniger Attraktionen einschränken kann, dann kostet es auch weniger, allerdings waren für uns die verfügbaren Kombinationen nicht attraktiv genug.
+Die letzten beiden Museen waren Teil des [Cusco Touristic Tickets](https://www.cuscoperu.com/en/useful-information/touristic-tickets/cusco-touristic-ticket), darin sind 16 Attraktionen enthalten, Museen und archeologische Anlagen. Zu letzteren werde ich noch etwas [eigenes](/tags/cusco/) schreiben. Das Cusco Touristic Ticket kostet nur 130 Soles (weniger als 33€) und erlaubt den einmaligen Eintritt innerhalb von 10 Tagen. Wenn man sich auf weniger Attraktionen einschränken kann, dann kostet es auch weniger, allerdings waren für uns die verfügbaren Kombinationen nicht attraktiv genug.
 
 ![Ticketübersicht](/img/IMG_20181205_100124.jpg "Optionen und Preise des Touristic Ticket")
 
