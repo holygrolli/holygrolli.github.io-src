@@ -10,7 +10,7 @@ categories = [
 ]
 #image = "home-bg.jpg"
 #coverimage = "some.jpg"
-description = "Verabschiedung von Cusco und Fahrt zu neuen Abenteuer"
+description = "Verabschiedung von Cusco und Fahrt zu neuen Abenteuern"
 draft = false
 comments = true
 date = 2018-12-22T19:04:15-04:00
