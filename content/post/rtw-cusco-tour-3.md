@@ -13,7 +13,7 @@ description = "Tagestour nach Chinchero, Moray und den Salzminen im Nordwesten v
 draft = false
 comments = true
 date = 2018-12-22T09:50:00-04:00
-title = "Ruinen und Sehenswürdigkeiten um Cusco Teil 3"
+title = "Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 3"
 +++
 
 Unser Taxifahrer Ricardo holte uns an Tag 41 schon um 8 Uhr ab. Diesmal sollte es in den Nordwesten von Cusco gehen. Eigentlich ist das die Richtung vom Machu Picchu. Reist man zum Machu Picchu nicht mit der Bahn, dann kann man sicher eine der Sehenswürdigkeiten auch mit in seine Anfahrt oder Rückfahrt mit einbauen. Wir fanden es aber so wieder sehr komfortabel, nur einen Dreivierteltag mit Sightseeing beschäftigt zu sein. Eigentlich hätte zum [Cusco Touristic Tickets](https://www.cuscoperu.com/en/useful-information/touristic-tickets/cusco-touristic-ticket) noch _Ollantaytambo_ gehört. Darauf haben wir aber verzichtet, denn _Ollantaytambo_ wäre nochmal mindestens eine halbe Stunde weiter weg von Cusco gewesen. So blieben wir bei unserer "kleinen" Tour und Ricardo fuhr uns wieder für 80 Soles durch die Berge.

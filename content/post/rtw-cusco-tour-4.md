@@ -13,7 +13,7 @@ description = "Tagestour nach Pisac im Norden von Cusco - Ruinen und Marktbesuch
 draft = false
 comments = true
 date = 2018-12-22T18:12:43-04:00
-title = "Ruinen und Sehenswürdigkeiten um Cusco Teil 4"
+title = "Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 4"
 +++
 
 Am 9. Dezember machten wir unsere letzte Tagestour ins Umland von Cusco. Diesmal starteten wir ein bisschen später, da unser Taxifahrer Ricardo an diesem Sonntag noch wählen gehen durfte. Allerdings erklärte er uns auf der Fahrt, dass es eine Art Wahlpflicht gibt, denn Nichtwähler müssen eine "Strafe" zahlen.
