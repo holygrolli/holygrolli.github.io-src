@@ -2,7 +2,8 @@
 tags = [
     "rtw",
     "peru",
-    "machu picchu"
+    "machu picchu",
+    "alpaka"
     ]
 categories = [
     "reise"

@@ -2,7 +2,8 @@
 tags = [
     "rtw",
     "peru",
-    "cusco"
+    "cusco",
+    "alpaka"
     ]
 categories = [
     "reise"

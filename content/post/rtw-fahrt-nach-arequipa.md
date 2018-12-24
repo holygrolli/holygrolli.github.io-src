@@ -3,7 +3,8 @@ tags = [
     "rtw",
     "peru",
     "nazca",
-    "arequipa"
+    "arequipa",
+    "alpaka"
     ]
 categories = [
     "reise"
