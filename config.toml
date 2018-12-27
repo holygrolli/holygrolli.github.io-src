@@ -2,7 +2,7 @@ title = "ChaosBlog"
 baseURL = "https://blog.networkchallenge.de/"
 languageCode = "de-de"
 paginate = 10
-theme = "startbootstrap-clean-blog"
+theme = "blomp"
 copyright = "Copyright © ChaosBlog 2018"
 disqusShortname = "thechaosblog"
 
