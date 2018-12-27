@@ -23,15 +23,15 @@ Der Park wird als grüne Lunge der Stadt bezeichnet und ist das einzige Natursch
 
 Insgesamt geht es auf allen Wegen ca. 3 bis 4 Kilometer durch den Wald, in der Mitte erreicht man den höchsten Punkt des Parks, um von dort einen Überblick über die Stadt mit seinen Wolkenkratzern zu bekommen. Man kann nur unschwer die Nähe zu den USA erkennen.
 
-![Stadtblick](/img/IMG_20181031_122337.jpg "Panorama über die Stadt")
+{{< postimg src="IMG_20181031_122337.jpg" alt="Stadtblick" title="Panorama über die Stadt" >}}
 
 Zurück am Besucherzentrum haben wir uns noch für den Besuch eines Schmetterlingsgeheges entschieden. Dieses war selbst zwar nicht sonderlich riesig, die Schmetterlinge umso mehr.
 
-![Schmetterling](/img/IMG_20181031_140534.jpg "Schmetterling 1")
+{{< postimg src="IMG_20181031_140534.jpg" alt="Schmetterling" title="Schmetterling 1" >}}
 
-![Schmetterlinge](/img/IMG_20181031_140909_1.jpg "viele große Schmetterlinge")
+{{< postimg src="IMG_20181031_140909_1.jpg" alt="Schmetterlinge" title="viele große Schmetterlinge" >}}
 
-![Schmetterling](/img/IMG_20181031_141645.jpg "kontaktfreudiger Schmetterling")
+{{< postimg src="IMG_20181031_141645.jpg" alt="Schmetterling" title="kontaktfreudiger Schmetterling" >}}
 
 Der Park hat pro Person $4 Eintritt gekostet plus $5 für die Schmetterlinge, nicht gerade ein Schnäppchen, wenn es aber dem Erhalt der Natur zu Gute kommt, dann gern.
 
@@ -39,49 +39,49 @@ Der Park hat pro Person $4 Eintritt gekostet plus $5 für die Schmetterlinge, ni
 
 Auf dem Rückweg vom Park mussten wir zur Metrostation Albrook, die direkt an den zentralen Busbahnhof und [angeblich](https://en.wikipedia.org/wiki/Albrook_Mall) die größte Mall Amerikas. Diese war wirklich zum Verlaufen. Als wir nach etwas zu Essen gesucht haben, haben wir auch den ersten tropischen Regen erlebt. Der Regen prasselte mit solch einer Intensität aufs Blechdach, dass man kaum sein eigenes Wort verstand. Amerikanisch typisch gibt es mehrere Essensbereiche, wo ein Imbiss nach dem anderen seine Speisen anbietet:
 
-![Food Court](/img/IMG_20181031_163301.jpg "ein Food Court in der Albrook Mall")
+{{< postimg src="IMG_20181031_163301.jpg" alt="Food Court" title="ein Food Court in der Albrook Mall" >}}
 
 Außen konnte man noch den riesigen Busbahnhof bewundern, wo es schon abgefahren aussehende Busse gab:
 
-![Bus](/img/IMG_20181031_170338.jpg "Kurz- und Langstreckenbusse in Panama")
+{{< postimg src="IMG_20181031_170338.jpg" alt="Bus" title="Kurz- und Langstreckenbusse in Panama" >}}
 
 ## Altstadt "Casco Vieja"
 
 Von der Metrostation "5 de Mayo" muss man sich noch ca. 1,5 km zu Fuß Richtung Altstadt bewegen, dabei kann man auch die etwas weniger touristischen Ecken bewundern. Hier wirkte die Stadt nicht mehr so modern und US-amerikanisch, eher dreckig-chaotisch wie unser letzter Besuch von Sri Lanka.
 
-![Altstadt](/img/IMG_20181101_124426-PANO.jpg "Panama ist bunt")
+{{< postimg src="IMG_20181101_124426-PANO.jpg" alt="Altstadt" title="Panama ist bunt" >}}
 
 In der Altstadt angekommen war es ein Mix aus renovierten Kolonialhäusern und im Bau befindlichen Ruinen. Ein paar touristisch teure Restaurants und Souvenirshops durften auch nicht fehlen. Ich fand es aber recht übersichtlich. Einige Souvenirshops hatten zusätzlich noch eine angeschlossene Bar, deren Sitzgelegenheiten aus Paletten zusammengezimmert wurden und Cocktails und Fruchtsäfte zu einigermaßen günstigen Preisen anboten.
 
-![Altstadt](/img/IMG_20181101_130921.jpg "Blick in die Altstadt")
+{{< postimg src="IMG_20181101_130921.jpg" alt="Altstadt" title="Blick in die Altstadt" >}}
 
-![Altstadt](/img/IMG_20181101_131408.jpg "Blick in die Altstadt")
+{{< postimg src="IMG_20181101_131408.jpg" alt="Altstadt" title="Blick in die Altstadt" >}}
 
-![Altstadt](/img/IMG_20181101_165845.jpg "Blick in die Altstadt")
+{{< postimg src="IMG_20181101_165845.jpg" alt="Altstadt" title="Blick in die Altstadt" >}}
 
-![Skyline](/img/IMG_20181101_181643.jpg "Nächtlicher Blick uf die Skyline")
+{{< postimg src="IMG_20181101_181643.jpg" alt="Skyline" title="Nächtlicher Blick uf die Skyline" >}}
 
 Die historischen Mauern um den Plaza de Francia bieten den wohl interessantesten Blick über Stadt und Küste. Hier warten viele Straßenhändler darauf, dass sie ihre Waren an Touristen loswerden können. 
 
-![Altstadt](/img/IMG_20181101_150624.jpg "Platz auf den alten Festungsmuern")
+{{< postimg src="IMG_20181101_150624.jpg" alt="Altstadt" title="Platz auf den alten Festungsmuern" >}}
 
-![Altstadt](/img/IMG_20181101_150631.jpg "Die alten Festungsmauern")
+{{< postimg src="IMG_20181101_150631.jpg" alt="Altstadt" title="Die alten Festungsmauern" >}}
 
 In der Altstadt haben wir dann in zwei Restaurants noch drei verschiedene Ceviches probiert, die alle vorzüglich geschmeckt haben.
 
-![Ceviche](/img/IMG_20181101_160501_1.jpg "Ceviche 1")
+{{< postimg src="IMG_20181101_160501_1.jpg" alt="Ceviche" title="Ceviche 1" >}}
 
-![Ceviche](/img/IMG_20181101_171540.jpg "Ceviche 2 und 3")
+{{< postimg src="IMG_20181101_171540.jpg" alt="Ceviche" title="Ceviche 2 und 3" >}}
 
 ## Kulinarisches
 
 In all den Tagen in Panama City hatten wir uns abends immer wieder im gleichen Restaurant aufgehalten und die Speisekarte von oben nach unten durchprobiert. Dort hatten wir natürlich die lokalen Spezialitäten wie Ceviche und Ropa Vieja probiert. Generell gab es auf der Speisekarte eigentlich nur Fleischgerichte. Vegetarische Speisen hat man kaum gefunden. Da musste ich mein schlechtes Gewissen einfach abschalten und die lokalen Speisen genießen.
 
-![Essen](/img/IMG_20181031_154439.jpg "Grillspieße")
+{{< postimg src="IMG_20181031_154439.jpg" alt="Essen" title="Grillspieße" >}}
 
-![Essen](/img/IMG_20181031_213856.jpg "Muscheln in Knoblauch")
+{{< postimg src="IMG_20181031_213856.jpg" alt="Essen" title="Muscheln in Knoblauch" >}}
 
-![Essen](/img/IMG_20181031_214936.jpg "Fleisch mit Gemüse und Reis")
+{{< postimg src="IMG_20181031_214936.jpg" alt="Essen" title="Fleisch mit Gemüse und Reis" >}}
 
 ## Unterkunft
 

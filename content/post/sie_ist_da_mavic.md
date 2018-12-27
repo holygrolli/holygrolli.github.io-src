@@ -19,7 +19,7 @@ Als ich dann Anfang Januar las, dass im offziellen [DJI Shop](http://store.dji.c
 
 Da die Mavic erst am Abend ankahm, musste ich mich noch einen vollen Tag gedulden, bis ich sie in die freie Wildbahn entlassen konnte. Am Anfang hat man ein echt komisches Gefühl, dass man gleich ein kleines Vermögen kaputt machen könnte. (Und ehrlich gesagt ist das Gefühl nach fast einer Woche noch nicht wirklich weg.) Zuerst einmal habe ich die Mavic im *Beginner Mode* gesteuert, aber in der gleichen Session noch in dem normalen *GPS Mode*. Die Erkenntnis dabei: ein krasses Stück Technik! Gleich in der ersten Session habe ich die Möglichkeiten der "maximalen" Höhe ausgereizt (es wird erstmal per Software auf 120 Höhenmeter begrenzt).
 
-![von oben](/img/DJI_0051.JPG)
+{{< postimg src="DJI_0051.JPG" alt="von oben">}}
 
 Ich bin mit dem Ergebnis sehr zufrieden, zumal die Mavic alle möglichen Aufnahmeeinstellungen unterstützt, die auch eine "große" Kamera bieten würde.
 
@@ -27,10 +27,10 @@ Mit diesem Bild eröffne ich auch die Kategorie "vonoben" hier im Blog. Diese Pe
 
 Alle Tage des vergangenen Wochenendes haben wir also dann an den Leipziger Seen verbracht, um unsere Flugfähigkeiten weiter zu trainieren. Auch Katrin fand die Steuerung angenehm für 	jemanden, der sonst fast nie einen Controller in der Hand hält. Am Ende haben wir dann auf schlechtem Boden auch mehrere Hand Takeoffs und Landings hinbekommen und alle Finger sind noch dran. Das Ergebnis des Wochenendes in einer minimalen Auswahl:
 
-![von oben](/img/DJI_0060.JPG)
+{{< postimg src="DJI_0060.JPG" alt="von oben">}}
 
-![von oben](/img/DJI_0083.JPG)
+{{< postimg src="DJI_0083.JPG" alt="von oben">}}
 
-![von oben](/img/DJI_0106.JPG)
+{{< postimg src="DJI_0106.JPG" alt="von oben">}}
 
 In einem folgenden Post werde ich dann noch weiter berichten. Auch möchte ich kurz was zum Thema Versicherung schreiben, etwas was mich zuvor schon mehrere Wochen beschäftigt hat.

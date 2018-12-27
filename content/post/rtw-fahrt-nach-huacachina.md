@@ -36,17 +36,17 @@ Von Lima aus ging es nun zum ersten Zwischenstopp nach Paracas. Entlang der Küs
 
 Als wir wie geplant gegen 09:45 Uhr in Paracas ankamen, gab es für 50S, umgerechnet also ca. 12€ eine Tour mit dem Speedboat zu den _Islas Ballestas_, dem sogenannten Galapagos des armen Mannes. Ich finde allerdings, dass der Vergleich ein wenig an den Haaren herbeigezogen ist, denn der Schwerpunkt der Tour liegt meiner Meinung nach auf der Vogelbeobachtung und Galapagos hat über und unter Wasser viel mehr zu bieten. Die _Islas Ballestas_ bieten dafür aus meiner Sicht eine riesige Menge mehr an Vögeln. Als wir die ca. 45 Minuten mit dem Boot in Richtung der Inseln fuhren zeichneteten kurz vor den Inseln am Horizont schon riesige schwarze Schleier am Horizont ab. Am Anfang hätte man Umrisse von weit entfernten Bergen vermuten können, aber je näher wir den Inseln kamen umso klarer wurde es: gewaltige Vogelschwärme zogen am Horizont vorbei und sammelten sich auf den Inseln. Die Oberfläche der Inseln war teilweise komplett schwarz bedeckt, d.h. ein Vogel direkt neben dem anderen.
 
-![Birds](/img/IMG_20181122_112344-01.jpeg "Unmengen Vögel an Land und in der Luft")
+{{< postimg src="IMG_20181122_112344-01.jpeg" alt="Birds" title="Unmengen Vögel an Land und in der Luft" >}}
 
-![Birds](/img/IMG_20181122_113409-01.jpeg "Die Steilküste war nur aus sicherer Entfernung zu beobachten")
+{{< postimg src="IMG_20181122_113409-01.jpeg" alt="Birds" title="Die Steilküste war nur aus sicherer Entfernung zu beobachten" >}}
 
 Wir fuhren also mit dem Boot die Inseln ab, konnten aber im Gegensatz zu den Galapagosinseln keinen Fuß an Land setzen. Vom Boot aus konnte man daher auch die Menge der Vögel nur erahnen und musste sich mit den Vögeln direkt am Rand der felsigen Steilküste begnügen. Dafür sahen wir hier auch unsere ersten Pinguine, neben den obligatorischen Seelöwen, die wirklich an den unzugänglichsten Stellen im Trockenen lagen.
 
-![Seelöwe](/img/IMG_20181122_112622.jpg "Die Seelöwen hatten auch mit dem steilen Anstieg zu kämpfen")
+{{< postimg src="IMG_20181122_112622.jpg" alt="Seelöwe" title="Die Seelöwen hatten auch mit dem steilen Anstieg zu kämpfen" >}}
 
 Nach der zweistündigen Tour hatten wir in Paracas noch ca. 45 Minuten Zeit. Allerdings bot Paracas auch nicht viel Sehenswertes. An der Promenade gab es die typischen Souvenirshops, die in der Glut der Mittagssonne versuchten, die Aufmerksamkeit der wenigen Touristen zu erhalten.
 
-![Paracas](/img/IMG_20181122_122412.jpg "Der Hafen von Paracas")
+{{< postimg src="IMG_20181122_122412.jpg" alt="Paracas" title="Der Hafen von Paracas" >}}
 
 ## Laguna Huacachina
 
@@ -54,27 +54,27 @@ Ungefähr 90 Minuten dauerte nun die Fahrt nach Huacachina. Auf dem Weg dahin fu
 
 In Huacachina liefen wir nun mit Gepäck in glühender Nachmittagssonne zu unserer Unterkunft. Auch hier hatten wir wieder eine gute Wahl getroffen. Das [Desert Nights Hostel](https://goo.gl/maps/iY81KAkTFnq) war in der ersten Reihe zur Lagune, bot uns für nicht einmal $50 ein Familienzimmer mit zwei großen Betten und zusätzlich einem Doppelstockbett. Weiterer Vorteil: ein direkt angeschlossenes, leckeres Restaurant, in dem wir mit unserem Peruhop-Armband Rabatt bekamen. Ebenso gab es eine große Dachterrasse mit Blick auf die Lagune!
 
-![Salat](/img/IMG_20181122_162836.jpg "Sehr leckerer Salat mit Hähnchen, das muss gesund sein!")
+{{< postimg src="IMG_20181122_162836.jpg" alt="Salat" title="Sehr leckerer Salat mit Hähnchen, das muss gesund sein!" >}}
 
 Nach der Stärkung im Restaurant ging es am Nachmittag an die Besteigung der Düne hinter dem Hotel. Es ging echt weit und steil nach oben! Der beschwerliche Anstieg (gefühlt: ein Schritt vor, zwei zurück) dauerte keine 30 Minuten. Das GPS war der Meinung, dass die Düne "nur" 150m hoch war. Klingt für den Anblick eigentlich nicht viel, aber ist trotzdem eine Menge Sand!
 
-![Lagune](/img/IMG_20181122_172247.jpg "Blick auf die Laguna, auf dem Weg auf die Spitze")
+{{< postimg src="IMG_20181122_172247.jpg" alt="Lagune" title="Blick auf die Laguna, auf dem Weg auf die Spitze" >}}
 
 Auf dem Gipfel angekommen zeigte sich die Dimension dieser Wüste: es ging mehrere Kilometer durch den Sand, eine Düne nach der anderen. In der direkten Umgebung der Lagune konnte man einen Fuhrpark an Wüstenbuggies sehen, die alle auf zahlende Kundschaft warteten, schließlich ist Huacachina für Sandboarding und Sandskiing bekannt. Darauf haben wir uns aber nicht eingelassen, ein komischer Gedanke, sich in der Wüste mit einem stinkenden Benziner dauernd auf einen Berg fahren zu lassen, nachdem man ihn heruntergefahren ist. Von den dicken Skistiefeln bei der Hitze ganz zu schweigen. So beließen wir es beim Fotoshooting in einer seltenen Kulisse bis uns der Sonnenuntergang beglückte!
 
-![Wüste](/img/IMG_20181122_182618-01.jpeg "Blick in die Wüste")
+{{< postimg src="IMG_20181122_182618-01.jpeg" alt="Wüste" title="Blick in die Wüste" >}}
 
-![Wüste von oben](/img/DJI_0080-01.jpeg "Blick auf die Wüste")
+{{< postimg src="DJI_0080-01.jpeg" alt="Wüste von oben" title="Blick auf die Wüste" >}}
 
-![Nightshot](/img/IMG_20181122_183837.jpg "Abendlicher Blick in die Stadt mit einzelnen Dünen")
+{{< postimg src="IMG_20181122_183837.jpg" alt="Nightshot" title="Abendlicher Blick in die Stadt mit einzelnen Dünen" >}}
 
 Die Nacht im geräumigen Familienzimmer gestaltete sich nicht ganz so optimal, da das Zimmer von Mücken bevölkert war und ich keine Chance hatte, irgendwo unser Moskitonetz festzumachen. Das endete damit, dass ich in mückenfester Kleidung schlief und nur die Nasenspitze freigelegt war. Dass ich es ohne Stich überlebte lag wahrscheinlich aber auch mit daran, dass meine Zimmergenossen beide ohne Mückenschutz schliefen :-)
 
 Der nächste Morgen bedeutete wieder aufstehen gegen 04:30 Uhr, denn wir "mussten" ja zum Sonnenaufgang auf dem Gipfel sein! Oben angekommen mussten wir aber feststellen, dass es doch sehr wolkig war. Von einem Sonnenaufgang keine Spur ... Dafür hatte ich mal die Gelegenheit, die Drohne einzusetzen und ein paar wunderbare Fotos über den morgendlichen Wolken zu machen.
 
-![Wolken](/img/DJI_0090.JPG "Sonnenaufgang über den Wolken")
+{{< postimg src="DJI_0090.JPG" alt="Wolken" title="Sonnenaufgang über den Wolken" >}}
 
-![Gipfel](/img/DJI_0094.JPG "Gipfelstürmer um 6 Uhr morgens")
+{{< postimg src="DJI_0094.JPG" alt="Gipfel" title="Gipfelstürmer um 6 Uhr morgens" >}}
 
 Nach so einer Anstrengung mussten wir es uns im Hotelrestaurant wieder gut gehen lassen, schließlich hatten wir kein Frühstück. Wir hatten nun bis 13 Uhr Zeit, bis wir bei unserem Bus sein mussten, denn es sollte schon wieder weitergehen nach Arequipa.
 

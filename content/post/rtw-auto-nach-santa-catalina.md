@@ -42,9 +42,9 @@ Am Panama-Kanal kam der erste kleine Dämpfer: $20 Eintritt pro Person ... für 
 
 Zuerst waren wir auf der Aussichtsplattform, da wir noch 20 Minuten Zeit hatten, bis der Einlass zur englischsprachigen Vorführung begann (Zwei Vorstellungen pro Stunde, eine Englisch, eine Spanisch). Dort angekommen haben wir erfahren, dass wir gerade ein Schiff verpasst haben. Die Aussicht war leider auch nicht so spektakulär.
 
-![Panama-Kanal](/img/IMG_20181102_103653.jpg "Panama-Kanal, Blick nach Norden zur nächsten Schleuse")
+{{< postimg src="IMG_20181102_103653.jpg" alt="Panama-Kanal" title="Panama-Kanal, Blick nach Norden zur nächsten Schleuse" >}}
 
-![Panama-Kanal](/img/IMG_20181102_103756.jpg "Panorama der Schleuse vom Panama-Kanal")
+{{< postimg src="IMG_20181102_103756.jpg" alt="Panama-Kanal" title="Panorama der Schleuse vom Panama-Kanal" >}}
 
 Nach der leichten Enttäuschung über die unspektakulären Bilder besuchten wir den Film und das Museum. Danach dämmerte es uns (und es war wirklich nicht offensichtlich): eine Erweiterung des Kanals für größere Containerschiffe wurde 2016 fertiggestellt und diese Erweiterung in Form einer neuen Schleuse befindet sich _hinter_ der hier dargestellten und ist von der Aussichtsplattform nicht zu sehen ... enttäuschend (zumal Drohnenflüge natürlich nicht erlaubt sind).
 
@@ -58,17 +58,17 @@ Wie wir im Nachhinein feststellen mussten, war unser Ausflugswochenende auch noc
 
 Ziemlich zu Beginn der Fahrt hatten wir noch einmal kurz zum Mittagessen gehalten. In Panama sieht vieles aus, wie in den USA. Dadurch waren entlang der Panamericana oft typisch amerikanische Malls. Katrin wollte unbedingt einen Burgerladen, [Slabón](https://goo.gl/maps/1ZUtAY9HSJk), testen. Dieser war zwar nicht günstig, aber gut. Ich hatte den einzigen vegetarischen Burger, dessen Patty scheinbar aus einer leckeren Auberginenmischung bestand.
 
-![Burger1](/img/IMG_20181102_133634.jpg "leckerer vegetarischer Burger")
+{{< postimg src="IMG_20181102_133634.jpg" alt="Burger1" title="leckerer vegetarischer Burger" >}}
 
-![Burger-Trio](/img/IMG_20181102_133639.jpg "drei kleine Mini-Burger")
+{{< postimg src="IMG_20181102_133639.jpg" alt="Burger-Trio" title="drei kleine Mini-Burger" >}}
 
 Der Supermarkt in der Mall war auch typisch amerikanisch und bot fein gestapelte Früchte und Gemüse, soweit das Auge reichte.
 
-![Supermarkt](/img/IMG_20181102_142919.jpg "Gemüse im Supermarkt")
+{{< postimg src="IMG_20181102_142919.jpg" alt="Supermarkt" title="Gemüse im Supermarkt" >}}
 
-![Supermarkt](/img/IMG_20181102_142934.jpg "Ananas und Bananen schön sortiert")
+{{< postimg src="IMG_20181102_142934.jpg" alt="Supermarkt" title="Ananas und Bananen schön sortiert" >}}
 
-![Supermarkt](/img/IMG_20181102_142934.jpg "Orangen und anderes Obst")
+{{< postimg src="IMG_20181102_142934.jpg" alt="Supermarkt" title="Orangen und anderes Obst" >}}
 
 ## Ankunft
 
@@ -76,13 +76,13 @@ Gegen 22 Uhr waren wir endlich in Santa Catalina und waren gefühlt auf den letz
 
 Aufgrund der angespannten Feiertagssituation gab es zum Buchungszeitpunkt keine freien Unterkünfte in den typischen Hotelportalen mehr. Glücklicherweise haben wir dann noch etwas bei AirBnB gefunden und auch überraschenderweise eine sofortige Rückmeldung vom Gastgeber erhalten. Als wir dann aber angekommen waren und uns das Zimmer übergeben wurde, waren wir doch ein wenig enttäuscht. Nicht nur dass die Unterkunft "leicht" nach Schimmel roch, nein, es waren auch die Bezüge des Betts bunt mit Flecken durchzogen.
 
-![Unterkunft](/img/IMG_20181102_220535.jpg "unser AirBnB-Zimmer in Santa Catalina")
+{{< postimg src="IMG_20181102_220535.jpg" alt="Unterkunft" title="unser AirBnB-Zimmer in Santa Catalina" >}}
 
 Die Gastgeberin versorgte uns daraufhin noch mit neuen Bezügen, allerdings mit dem Hinweis, dass das doch in Santa Catalina normal sei, da ja die Luftfeuchtigkeit regelmäßg weit über 90 Prozent liegt. Leider waren die neuen Bezüge auch nicht perfekt. Das Ergebnis war, dass wir unsere Hüttenschlafsäcke gleich zur Anwendung brachten.
 
 Natürlich gehört es sich auch, sich selbst vor allem möglichen Ungeziefer und vor allem Mücken zu schützen. Das Ergebnis war nun auch die wie immer spannende Montage des Moskitonetzes.
 
-![Moskitonetz](/img/IMG_20181102_223901.jpg "das Bett nach persönlichen Anpassungen")
+{{< postimg src="IMG_20181102_223901.jpg" alt="Moskitonetz" title="das Bett nach persönlichen Anpassungen" >}}
 
 Da die _alte_ Klimanlage direkt über den Kopf war, verzichteten wir hier auch auf eine Benutzung, was den Aufenthalt nicht unbedingt besser machte.
 

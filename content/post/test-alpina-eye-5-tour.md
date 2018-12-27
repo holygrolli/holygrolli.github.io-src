@@ -19,7 +19,7 @@ Am 10. Juli 2018 bestellte ich mir neben einer _Alpina Twist Five HR VL_ auch ei
 
 Am Ende bin ich bei Alpina als Hersteller hängengeblieben, der mit den selbsttönenden Varioflex-Scheiben für unglaubliche Vielseitigkeit warb. Grundsätzlich war ich dem gegenüber sehr angetan, da es auch beim Fahren mit dem Fahrrad auf Arbeit oft so war, dass über den Tag die Lichtverhältnisse wechselten. In der Morgendämmerung musste ich entweder ohne Brille fahren oder eine ungetönte Brille benutzen. Letztlich hatte ich mich aufgrund der Angebote für die beiden Brillen _Alpina Twist Five HR VL_ und _Alpina Eye-5 Tour VLM+_ entschieden. Hier geht es primär um die _Alpina Eye-5 Tour VLM+_, da ich diese nun seit Wochen auf Weltreise fast täglich nutze.
 
-![Brillenvergleich][Vergleich]
+{{< postimg src="IMG_20180715_133601834.jpg" alt="Brillenvergleich" title="Die Eye-5 (hinten), die Twist Five (Mitte), die Oakley (vorn)" >}}
 
 ## Die Brille
 
@@ -35,9 +35,9 @@ Die [Produktwerbung](https://www.alpina-sports.com/de/produkte/eyewear/erwachsen
 
 In der Tat passt sich die Tönung schnell an die Umgebung an. Wenn ich die Brille trage passt sich die Tönung so gleichmäßig an, dass ich immer das Gefühl habe, es passiert nichts. Nimmt man dann die Brille ab und vergleicht die Scheiben mit der Umgebung sind sie getönt. Ich konnte es am Anfang auch nicht so recht glauben, so dass ich herumexperimentierte: Im bekanntermaßen sonnigen Sommer 2018 ging ich mit der Brille in die Sonne und deckte den mittigen Teil mit einem Tuch. Nach zwei Minuten nahm ich das Tuch und hielt die Brille gegen das Licht, mit dem Ergebnis, dass man die Tönungsunterschiede sehr gut sehen konnte.
 
-![Eye5](/img/IMG_20180715_132945746.jpg "Tönungsunterschiede nach Abdecken der Scheiben")
+{{< postimg src="IMG_20180715_132945746.jpg" alt="Eye5" title="Tönungsunterschiede nach Abdecken der Scheiben" >}}
 
-![Eye5-Sonne](/img/IMG_20180715_110445967_HDR.jpg "Tönungsunterschiede bei Gegenlicht")
+{{< postimg src="IMG_20180715_110445967_HDR.jpg" alt="Eye5-Sonne" title="Tönungsunterschiede bei Gegenlicht" >}}
 
 Was mich aber trotzdem bis heute stört ist die Tatsache, dass die Brille nie wirklich vollständig tönt. Dies fällt vor allem im Vergleich mit meiner Oakley auf. Deren Scheiben sind wirklich stark getönt. Leider lässt sich von Oakley nichts finden, welche Schutzklasse die _Black Iridium_ Scheiben haben. Alpine wirbt aber mit Schutzstufe 4!
 
@@ -57,12 +57,10 @@ Nach nun fünf Monaten sehe ich mich zu dem Blog-Post gezwungen, da die _Alpina 
 
 Wäre das nicht schon schlimm genug, so setzt die Langzeitbelastung der Brille dem Urteil noch die Krone auf! Seit mehreren Wochen spüre ich förmlich, wie sich der Gummi an den Bügelenden langsam auflöst. Nicht nur sieht der Gummi übelst mitgenommen aus, nein die Konsistenz ist fast matschartig. Ich rechnete jeden Tag damit, dass sich das alles auflöst. Gestern musste ich nun an einem Bügel feststellen, dass der Gummi so kaputt ist, dass der innenliegende Metallbügel freigelegt ist.
 
-![Gummi](/img/IMG_20181225_131302.jpg "Der Gummi ist nach 5 Monaten hinüber!")
+{{< postimg src="IMG_20181225_131302.jpg" alt="Gummi" title="Der Gummi ist nach 5 Monaten hinüber!" >}}
 
 {{< youtube cX9PxdvlUuk >}}
 
 ## Fazit
 
 Ich werde jetzt die Brille reklamieren, wobei ich da nicht an Erfolg glaube, da ich sie aus Südamerika nur schwer zum Händler zurückschicken kann. Insgesamt kann ich primär wegen der Haltbarkeit nur jedem von der _Alpina Eye-5 Tour VLM+_ abraten! Aber auch die Schutzversprechen zweifle ich stark an, wobei die Flexibilität der Selbstönung unter normalen Bedingungen nicht von der Hand zu weisen ist.
-
-[Vergleich]: /img/IMG_20180715_133601834.jpg "Die Eye-5 (hinten), die Twist Five (Mitte), die Oakley (vorn)"

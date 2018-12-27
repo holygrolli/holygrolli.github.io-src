@@ -24,7 +24,7 @@ Die Ankunft in Lima gestaltete sich recht einfach, einzig die Abwicklung der Ein
 
 Wir hatten vorab schon gehört, dass in Peru die Empfangskommitees etwas größer ausfallen. Bei unserer Ankunft bestätigte sich das gleich, da parallel irgendwelche "Promis" mit Tam-Tam empfangen wurden.
 
-![Empfangskommitee](/img/IMG_20181119_212056.jpg "Ein Beispiel für gebührenden Empfang in Peru")
+{{< postimg src="IMG_20181119_212056.jpg" alt="Empfangskommitee" title="Ein Beispiel für gebührenden Empfang in Peru" >}}
 
 Das vorher per Expedia gebuchte [Appartment](https://goo.gl/maps/Cz9fhyt3bLw) erfüllte dann auch alle Erwartungen: modern und geräumig mit Platz für 6 Personen, denn wir erwarteten am nächsten Morgen Thomas zu Besuch aus der Heimat.
 
@@ -35,17 +35,17 @@ Am nächsten Morgen ging es um 05:30 Uhr (!!) wieder los, um Thomas am Flughafen
 
 Am Flughafen mussten wir wieder feststellen, dass große Empfänge in Peru üblich sind. Im Vergleich zum Vorabend war das Empfangskommitee noch größer, sogar mit Alpaka und singenden Damen.
 
-![Empfangskommitee](/img/IMG_20181120_064711.jpg "Konkurrierendes Empfangskommitee")
+{{< postimg src="IMG_20181120_064711.jpg" alt="Empfangskommitee" title="Konkurrierendes Empfangskommitee" >}}
 
 Trotz der enormen Konkurrenz empfingen wir Thomas mit gebührendem Tam-Tam. Unser Fahrer fuhr uns nun wieder Richtung Appartment. Da wir noch genügend Zeit bis zum Nachmittagsprogramm hatten, drängte ich alle Mitreisenden dazu, einen "kurzen" Stopp im Zentrum von Miraflores (Miraflores und Barranco sind die _sicheren_ Touristenstadtteile) zu machen, um dort eine SIM-Karte zu erwerben. Nach ein paar kleinen Problemen mit der Aktivierung konnten wir unsere Fahrt nach circa einer Stunde fortsetzen. Im Nachhinein betrachtet waren die kleinen Probleme zu erwarten, wenn man sieht, wie beschäftigt die vielen Mitarbeiter mit ihren eigenen Handys waren...
 
-![Movistar Mitarbeiter](/img/IMG_20181120_101348.jpg "selbstbeschäftigte Mitarbeiter von Movistar")
+{{< postimg src="IMG_20181120_101348.jpg" alt="Movistar Mitarbeiter" title="selbstbeschäftigte Mitarbeiter von Movistar" >}}
 
 Im Appartment angekommen, hatten wir dann noch bis 13 Uhr Zeit zum Entspannen, bevor wir zum ersten Event der Peru-Reise abgeholt werden sollten. 
 
 Während der Wartezeit genehmigten wir uns auch unser erstes kleines, peruanisches Frühstück, mit Kleinigkeiten aus dem Supermarkt. Am interessantesten fand ich die Größe der hiesigen Maracuyas.
 
-![Maracuja](/img/IMG_20181120_112917.jpg "Peruanische Maxi-Maracuya")
+{{< postimg src="IMG_20181120_112917.jpg" alt="Maracuja" title="Peruanische Maxi-Maracuya" >}}
 
 ### Peruanischer Kochkurs
 
@@ -53,25 +53,25 @@ Nahezu pünktlich um 13 Uhr wurden wir von einem Wagen in Begleitung von Koch Jo
 
 Wir fuhren also von Barranco zu einem großen Markt in Miraflores. Der Verkehr sorgte aber dafür, dass wir ein wenig Zeit verloren und somit ein wenig über den Markt hetzen mussten. Josue versuchte uns aber bei der großen Vielfalt trotzdem spezielle Früchte, Gemüse und Gewürze vorzustellen. Während wir von der riesigen Auswahl total überwältigt waren, kaufte Josue noch ein paar Zutaten ein.
 
-![Mercado](/img/IMG_20181120_134406.jpg "Gut sortiertes Obst auf dem Markt")
+{{< postimg src="IMG_20181120_134406.jpg" alt="Mercado" title="Gut sortiertes Obst auf dem Markt" >}}
 
-![Mercado](/img/IMG_20181120_135134.jpg "Gemüse gab es natürlich auch auf dem Markt")
+{{< postimg src="IMG_20181120_135134.jpg" alt="Mercado" title="Gemüse gab es natürlich auch auf dem Markt" >}}
 
-![Mercado](/img/IMG_20181120_140226.jpg "Neben Obst und Gemüse darf auch das frische Fleisch nicht fehlen")
+{{< postimg src="IMG_20181120_140226.jpg" alt="Mercado" title="Neben Obst und Gemüse darf auch das frische Fleisch nicht fehlen" >}}
 
 Danach fuhren wir zum Kochstudio. Dieses entpuppte sich als normales Wohnhaus in dessen Garten die Küche war. Dort waren insgesamt vier Arbeitsbereiche vorbereitet, an denen wir uns die nächsten Stunden austoben konnten. Das zu kochende Menü umfasste: Ceviche, Papa a la Huancaina, Lomo Saltado, Pisco Sour, Maracuya Sour und Peruvian Fruit Platter.
 
-![Kochstudio](/img/IMG_20181120_142524.jpg "Kochen im Hinterhof")
+{{< postimg src="IMG_20181120_142524.jpg" alt="Kochstudio" title="Kochen im Hinterhof" >}}
 
-![Kochstudio](/img/IMG_20181120_142706.jpg "Arbeitsbereich mit eigener Schürze")
+{{< postimg src="IMG_20181120_142706.jpg" alt="Kochstudio" title="Arbeitsbereich mit eigener Schürze" >}}
 
 Während der Zubereitung hatten wir zusammen mit Josue eine Menge Action und Spass, unterstützt durch die beiden selbstgemixten Pisco Sour und Maracuya Sour. Am Ende waren insgesamt 5 Stunden vergangen und unsere Mägen waren ordentlich gefüllt. 
 
-![Kochstudio](/img/IMG_20181120_153928.jpg "Das noch übersichtliche Schlachtfeld")
+{{< postimg src="IMG_20181120_153928.jpg" alt="Kochstudio" title="Das noch übersichtliche Schlachtfeld" >}}
 
-![Kochaction](/img/IMG_20181120_162832.jpg "Action beim Anbraten des Lomo Saltado")
+{{< postimg src="IMG_20181120_162832.jpg" alt="Kochaction" title="Action beim Anbraten des Lomo Saltado" >}}
 
-![Kochstudio](/img/IMG_20181120_164225.jpg "Ein Teil des fertigen Menüs")
+{{< postimg src="IMG_20181120_164225.jpg" alt="Kochstudio" title="Ein Teil des fertigen Menüs" >}}
 
 Wir entschieden uns ein wenig zu Fuß durch Miraflores in Richtung Appartment zu laufen, um ein wenig zu verdauen.
 
@@ -82,31 +82,31 @@ Am Ende entschieden wir uns ab der Hälfte der Strecke für ein Uber, welches un
 
 Für den zweiten Tag hatten wir uns über Kontakte einen weiteren Taxifahrer (Ricardo) besorgt, dieser zeigte uns die Stadt. Zuerst fuhren wir zum westlichsten Punkt der Stadt, La Punta. Dort hatte alles einen sehr kubanischen Charme. Auch die Tatsache, dass die ärmeren Viertel direkt angrenzten und eigentlich nur eine Straße zwischen gut und schlecht unterschied.
 
-![La Punta](/img/IMG_20181121_110925.jpg "Man könnte denken, man ist in Havanna")
+{{< postimg src="IMG_20181121_110925.jpg" alt="La Punta" title="Man könnte denken, man ist in Havanna" >}}
 
-![La Punta](/img/IMG_20181121_112047.jpg "Imposante Gebäude")
+{{< postimg src="IMG_20181121_112047.jpg" alt="La Punta" title="Imposante Gebäude" >}}
 
-![La Punta](/img/IMG_20181121_112712.jpg "Meer gab es natürlich auch")
+{{< postimg src="IMG_20181121_112712.jpg" alt="La Punta" title="Meer gab es natürlich auch" >}}
 
 Weiter ging es dann mit kurzem Zwischenstopp in Pueblo Libre nach Centro Histórico, wo die Altstadt mit Kolonialbauten durchzogen ist.
 
-![Catedral de Lima](/img/IMG_20181121_133738.jpg "Catedral de Lima")
+{{< postimg src="IMG_20181121_133738.jpg" alt="Catedral de Lima" title="Catedral de Lima" >}}
 
-![Centro Historico](/img/IMG_20181121_133801.jpg "Koloniale Bauten im historischen Zentrum")
+{{< postimg src="IMG_20181121_133801.jpg" alt="Centro Historico" title="Koloniale Bauten im historischen Zentrum" >}}
 
-![Mercado Centro Historico](/img/IMG_20181121_140853.jpg "Markthalle im historischen Zentrum")
+{{< postimg src="IMG_20181121_140853.jpg" alt="Mercado Centro Historico" title="Markthalle im historischen Zentrum" >}}
 
-![Mercado Centro Historico](/img/IMG_20181121_141128.jpg "Hier werden die Cremes direkt aus dem Kübel verkauft")
+{{< postimg src="IMG_20181121_141128.jpg" alt="Mercado Centro Historico" title="Hier werden die Cremes direkt aus dem Kübel verkauft" >}}
 
-![Kirche](/img/IMG_20181121_151820.jpg "Kirche San Francisco de Asis")
+{{< postimg src="IMG_20181121_151820.jpg" alt="Kirche" title="Kirche San Francisco de Asis" >}}
 
 Als es dann dunkel wurde, machten wir noch einen Abstecher zum _Parque del Amor_, der ein paar schöne Fotomotive und auch noch einen Blick von der Steilküste auf die Küste bot. Das interessante war auch, dass der eine Strandabschnitt schneinbar für Nachtsurfer beleuchtet wurde.
 
-![Küste](/img/IMG_20181121_195947.jpg "Küste vom Parque del Amor aus")
+{{< postimg src="IMG_20181121_195947.jpg" alt="Küste" title="Küste vom Parque del Amor aus" >}}
 
 Zu guter Letzt ging es dann kurz vor der Heimfahrt dann noch in den Stadtteil _Santiago de Surco_, wo wir zufällig auf ein typisch peruanisches Straßenfest trafen. Dort wurde der _Plaza Major_ mit Live-Musik zum Leben erweckt.
 
-![Party](/img/IMG_20181121_213815.jpg "Live-Musik in Santiago de Surco")
+{{< postimg src="IMG_20181121_213815.jpg" alt="Party" title="Live-Musik in Santiago de Surco" >}}
 
 
 

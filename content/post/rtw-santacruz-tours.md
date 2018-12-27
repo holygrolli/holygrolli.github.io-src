@@ -26,21 +26,21 @@ Als wir vor den Felsen der Insel ankerten glitzerte das 5m tiefe Wasser und ein 
 
 Als wir dann für 30 bis 40 Minuten im Wasser waren war es dann tatsächlich auch die letzten zehn Minuten unangenehm kalt. Aber die vielen Tiere im Wasser konnten von der Kälte ablenken. Am Boden konnten wir direkt Weißspitzenriffhaie sehen. 
 
-![Schnorcheln](/img/GOPR4113.JPG "Hai vor Daphne")
+{{< postimg src="GOPR4113.JPG" alt="Schnorcheln" title="Hai vor Daphne" >}}
 
 Neben den vielen Fischen gab es auch Seelöwen zu bewundern, die in sicherer Distanz auf den Felsen lagen.
 
 Nach dem Stopp ging es für über eine Stunde weiter zur Insel _Pinzón_. Dort ging es wieder ins Wasser. Geführt vom Guide schnorchelten wir an der Steinküste entlang bis in eine kleine Bucht. Dort war das Wasser keine 2m tief, allerdings war dadurch auch die Sicht wesentlich schlechter. Zu bewundern gab es auch hier Meeresschildkröten und zahlreiche Fische. 
 
-![Schnorcheln](/img/GOPR4155.JPG "Meeresschildkröte vor Pinzón")
+{{< postimg src="GOPR4155.JPG" alt="Schnorcheln" title="Meeresschildkröte vor Pinzón" >}}
 
-![Schnorcheln](/img/GOPR4147.JPG "Fische vor Pinzón")
+{{< postimg src="GOPR4147.JPG" alt="Schnorcheln" title="Fische vor Pinzón" >}}
 
-![Schnorcheln](/img/GOPR4135.JPG "viel mehr Fische vor Pinzón")
+{{< postimg src="GOPR4135.JPG" alt="Schnorcheln" title="viel mehr Fische vor Pinzón" >}}
 
 Der Guide hatte uns dann auch an einer Stelle eine Gruppe kleiner Weißspitzenriffhaie gezeigt, die völlig unbeeindruckt von uns im Flachwasser schlummerten. Wir konnten diese aus knapp 1 bis 2 Metern Entfernung "hautnah" erleben.
 
-![Schnorcheln](/img/G0184187_1541967634257_high.jpg "Weißspitzenriffhaie vor Pinzón")
+{{< postimg src="G0184187_1541967634257_high.jpg" alt="Schnorcheln" title="Weißspitzenriffhaie vor Pinzón" >}}
 
 Am Interessantesten war dann aber ein Seelöwe, der aufgeregt in der Bucht von einem Strand zum anderen hin und her schwamm und dabei laut brüllte. Für ihn war es auch völlig normal, zwischen den Schnorchlern hindurchzuschwimmen, was uns dann auch in die Lage versetzte, bis auf wenige Meter an ihn heranzukommen und mit ihm zu schwimmen.
 
@@ -58,32 +58,32 @@ Da dies der interessanteste Schnorchelausflug war kam auch "ein wenig" Videomate
 
 Der zweite Tagesausflug war zur Insel _North Seymour_. Hier wurden wir mit einem Shuttlebus von der Unterkunft abgeholt, um auch wieder zum Hafen im Norden transportiert zu werden. Dort ging es diesmal auf ein größeres Schiff mit 14 anderen Touristen. Die Insel wird als Vogelparadies angepriesen und in der Tat konnten wir bei dem einstündigen Landgang Unmengen Vögel sehen. Die meisten Vögel waren die Fregattenvögel, deren Männchen einen roten Beutel an ihrem Hals aufblähen können, um natürlich die Weibchen zu beeindrucken. Jetzt im November ist meines Wissens nach zwar nicht die Hauptbrutzeit, aber wir sahen einige Jungvögel mit ihrem gerupften Gefieder.
 
-![Vogelbild](/img/IMG_20181112_105353-01.jpeg "Fregattenvogel")
+{{< postimg src="IMG_20181112_105353-01.jpeg" alt="Vogelbild" title="Fregattenvogel" >}}
 
-![Vogelbild](/img/IMG_20181112_121555.jpg "kleiner Seelöwe verkriecht sich vor der brennenden Sonne")
+{{< postimg src="IMG_20181112_121555.jpg" alt="Vogelbild" title="kleiner Seelöwe verkriecht sich vor der brennenden Sonne" >}}
 
-![Vogelbild](/img/IMG_20181112_113017.jpg "Fregattenvogel in typischer Kühlungshaltung")
+{{< postimg src="IMG_20181112_113017.jpg" alt="Vogelbild" title="Fregattenvogel in typischer Kühlungshaltung" >}}
 
-![Vogelbild](/img/IMG_20181112_111401.jpg "mehrere Fregattenvögel inklusive Jungvogel")
+{{< postimg src="IMG_20181112_111401.jpg" alt="Vogelbild" title="mehrere Fregattenvögel inklusive Jungvogel" >}}
 
-![Vogelbild](/img/IMG_20181112_110054.jpg "die karge Landschaft von North Seymour")
+{{< postimg src="IMG_20181112_110054.jpg" alt="Vogelbild" title="die karge Landschaft von North Seymour" >}}
 
-![Vogelbild](/img/IMG_20181112_104633.jpg "junger Fregattenvogel")
+{{< postimg src="IMG_20181112_104633.jpg" alt="Vogelbild" title="junger Fregattenvogel" >}}
 
 
 Als weitere Besonderheit gelten die Blaufußtölpel, ich würde sie jetzt als eine Art Möwe mit blauen Füßen bezeichnen. Von denen hat man dort allerdings nicht wie erhofft Unmengen, sondern nur eine Hand voll gesehen.
 
-![Vogelbild](/img/IMG_20181112_120320.jpg "Blaufußtölpel")
+{{< postimg src="IMG_20181112_120320.jpg" alt="Vogelbild" title="Blaufußtölpel" >}}
 
 Neben den Vögeln gab es noch eine Vielzahl an Leguanen, die sich auf der Insel abseits der Menschen frei entwickeln können.
 
-![Vogelbild](/img/IMG_20181112_110639.jpg "Leguan beim Fressen")
+{{< postimg src="IMG_20181112_110639.jpg" alt="Vogelbild" title="Leguan beim Fressen" >}}
 
-![Leguanbild](/img/IMG_20181112_104434.jpg "Leguan auf seinehm Thron")
+{{< postimg src="IMG_20181112_104434.jpg" alt="Leguanbild" title="Leguan auf seinehm Thron" >}}
 
 Nach dem Ausflug auf die Insel gab es auf dem Boot gebratenes Fischfilet mit Reis. Danach fuhr das Boot wieder zurück nach Santa Cruz und zum dortigen Strand _Las Bachas_ für eine Strandwanderung und Schnorcheltrip. An Land gingen wir mit unserem Guide zu einer kleinen Lagune und konnten ein paar wenige Flamingos sehen. Auf dem Weg zur Lagune, an einem bestimmten Strandabschnitt, wieß der Guide noch darauf hin, dass sich hier an dieser Stelle Stachelrochen im Wasser befinden. Diese haben wir nur aus sicherer Distanz als dunkle Flecken im Wasser gesehen. Der darauf folgende Schnorchelausflug in einer "sicheren" Bucht brachte leider keine Besonderheiten zu Tage, da das Wasser größtenteils sehr trüb war. Wie so oft sahen wir aber trotzdem teilweise riesige Papageienfische.
 
-![Schnorcheln](/img/G0284445.JPG "Unterwasserwelt vor Santa Cruz")
+{{< postimg src="G0284445.JPG" alt="Schnorcheln" title="Unterwasserwelt vor Santa Cruz" >}}
 
 Nach dem Stopp ging es dann zurück in den Hafen von Baltra, womit die Tagestour ein Ende fand. Am Ende waren es $165 pro Person, die angeblich auf Grund der hohen Nachfrage und der teureren Schiffsklasse zustande kamen.
 

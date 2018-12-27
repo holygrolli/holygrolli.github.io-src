@@ -30,6 +30,6 @@ Auf alle Fälle geht es dann von Singapur über Frankfurt final wieder zurück n
 
 Das ganze lässt sich bildlich viel schöner und beeindruckender darstellen:
 
-![Reiseroute](/img/2018-09-17_rtw.png "Die komplette Reiseroute unseres Round the World-Tickets")
+{{< postimg src="2018-09-17_rtw.png" alt="Reiseroute" title="Die komplette Reiseroute unseres Round the World-Tickets" >}}
 
 Wie eingangs schon erwähnt wird unser erster Flug von Lufthansa durchgeführt. Das liegt daran, dass wir uns für ein Round the World-Ticket der [Star Alliance](https://www.staralliance.com/de/web/staralliance/round-the-world) entschieden haben. Der grandiose Vorteil dieses Tickets ist die Möglichkeit, _kostenlos_ und vor allem _kurzfristig_ die Flugtermine zu verschieben. Ein Anruf bei der 24/7 Hotline soll (hoffentlich) genügen, um den nächsten Flug umzubuchen. Man muss letztlich nur den nächsten freien Flug finden und weiter geht's. Diese Flexibilität ist für so eine lange Reise schon äußerst praktisch. Wir hoffen natürlich, dass dies in der Praxis auch so zutrifft. Aber das wird sich dann zeigen, wenn es ab 29. Oktober ernst wird.

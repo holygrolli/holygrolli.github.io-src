@@ -19,6 +19,6 @@ Nach dem Entpacken steht einem nun die Hugo Binary zur Verfügung und kann genau
 
 Das ganze ermöglicht dann doch eine recht mobile Variante des Bloggens, wie dieses Bild beweist:
 
-![Hugo auf dem Tablet](/img/IMG_20171229_130724_HDR.jpg)
+{{< postimg src="IMG_20171229_130724_HDR.jpg" alt="Hugo auf dem Tablet">}}
 
 [hugo]: https://github.com/gohugoio/hugo/releases

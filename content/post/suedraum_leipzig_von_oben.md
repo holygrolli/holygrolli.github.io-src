@@ -15,8 +15,8 @@ Das zweite Wochenende ist mit der DJI Mavic Pro verbracht. Ich habe immer noch n
 
 Wir haben wieder super Wetter gehabt (zumindest am Samstag). Der erste Versuch an der Westseite des Zwenkauer Sees ans Wasser ranzukommen ist leider gescheitert. Die Mavic kam zwar ran, aber die Fotos waren jetzt nicht so besonders. Mit dem Ergebnis, dass wir zum Hainer See gefahren sind. Auf dem Weg bei Rötha sind dann folgende Shots entstanden.
 
-![von oben](/img/DJI_0157-HDR.jpg "Bild 1")
+{{< postimg src="DJI_0157-HDR.jpg" alt="von oben" title="Bild 1" >}}
 
-![von oben](/img/DJI_0171-HDR.jpg "Bild 2")
+{{< postimg src="DJI_0171-HDR.jpg" alt="von oben" title="Bild 2" >}}
 
-![von oben](/img/DJI_0172-HDR.jpg "Bild 3")
+{{< postimg src="DJI_0172-HDR.jpg" alt="von oben" title="Bild 3" >}}
