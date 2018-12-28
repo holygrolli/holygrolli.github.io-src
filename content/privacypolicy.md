@@ -1,6 +1,6 @@
 +++
 date = "2018-05-21T00:00:00+02:00"
-title = "Datenschutzerklärung"
+title = "Datenschutz&shy;erklärung"
 draft = false
 type = "about"
 +++
