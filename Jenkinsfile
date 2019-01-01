@@ -51,8 +51,24 @@ pipeline {
             when {
                 expression { BRANCH_NAME != 'master' }
             }
+            environment {
+                AWS_DEFAULT_REGION = 'eu-central-1'
+                AWS_ACCESS_KEY_ID = credentials('AWS_KEY_HUGOSTAGING_ID')
+                AWS_SECRET_ACCESS_KEY = credentials('AWS_KEY_HUGOSTAGING_KEY')
+                WEBBUCKET_NAME = "${env.BNC_HUGO_STAGING_NAME}"
+            }
+            agent {
+                docker { 
+                    image 'grolland/aws-cli:hugo'
+                    alwaysPull true
+                    reuseNode true 
+                    args '-e TZ=Europe/Berlin'
+                }
+            }
             steps {
-                echo "deploy test site"
+                dir("target"){
+                    sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --dryrun --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
+                }
             }
         }
     }
