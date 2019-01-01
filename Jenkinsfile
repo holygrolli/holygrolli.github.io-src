@@ -14,7 +14,7 @@ pipeline {
                 }
             }
         }
-        stage ('Git') {
+        stage ('Hugo Generate') {
             agent {
                 docker { 
                     image 'grolland/aws-cli:hugo'
@@ -29,7 +29,10 @@ pipeline {
                 }
             }
         }
-        stage ('Push') {
+        stage ('Deploy Production') {
+            when {
+                expression { BRANCH_NAME == 'master' }
+            }
             steps {
                 sshagent(['GITHUB']) {
                     dir("target"){
@@ -42,6 +45,14 @@ pipeline {
                             git push origin master"""
                     }
                 }
+            }
+        }
+        stage ('Deploy Staging') {
+            when {
+                expression { BRANCH_NAME != 'master' }
+            }
+            steps {
+                echo "deploy test site"
             }
         }
     }
