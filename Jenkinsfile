@@ -55,10 +55,10 @@ pipeline {
             }
             steps {
                 dir("src") {
-                    sh "HUGO_BASEURL=http://${WEBBUCKET_NAME}.s3-website.eu-central-1.amazonaws.com/ hugo -d ../target"
+                    sh "HUGO_BASEURL=https://s3.eu-central-1.amazonaws.com/${WEBBUCKET_NAME}/ hugo -d ../target"
                 }
                 dir("target"){
-                    sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
+                    sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --exclude ".git*" --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
                 }
             }
         }
