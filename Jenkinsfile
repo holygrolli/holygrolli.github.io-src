@@ -24,9 +24,6 @@ pipeline {
                 }
             }
             steps {
-                dir("src") {
-                    sh "hugo -d ../target"
-                }
             }
         }
         stage ('Deploy Production') {
@@ -34,6 +31,9 @@ pipeline {
                 expression { BRANCH_NAME == 'master' }
             }
             steps {
+                dir("src") {
+                    sh "hugo -d ../target"
+                }
                 sshagent(['GITHUB']) {
                     dir("target"){
                         sh """
@@ -66,6 +66,9 @@ pipeline {
                 }
             }
             steps {
+                dir("src") {
+                    sh "HUGO_BASEURL=http://${WEBBUCKET_NAME}.s3-website.eu-central-1.amazonaws.com/ hugo -d ../target"
+                }
                 dir("target"){
                     sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
                 }
