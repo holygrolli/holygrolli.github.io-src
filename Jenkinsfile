@@ -14,18 +14,6 @@ pipeline {
                 }
             }
         }
-        stage ('Hugo Generate') {
-            agent {
-                docker { 
-                    image 'grolland/aws-cli:hugo'
-                    alwaysPull true
-                    reuseNode true 
-                    args '-e TZ=Europe/Berlin'
-                }
-            }
-            steps {
-            }
-        }
         stage ('Deploy Production') {
             when {
                 expression { BRANCH_NAME == 'master' }
