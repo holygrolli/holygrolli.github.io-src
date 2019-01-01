@@ -67,7 +67,7 @@ pipeline {
             }
             steps {
                 dir("target"){
-                    sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --dryrun --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
+                    sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
                 }
             }
         }
