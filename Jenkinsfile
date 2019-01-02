@@ -43,22 +43,23 @@ pipeline {
                 AWS_DEFAULT_REGION = 'eu-central-1'
                 AWS_ACCESS_KEY_ID = credentials('AWS_KEY_HUGOSTAGING_ID')
                 AWS_SECRET_ACCESS_KEY = credentials('AWS_KEY_HUGOSTAGING_KEY')
-                WEBBUCKET_NAME = "${env.BNC_HUGO_STAGING_NAME}"
+                BASEURL = "${env.BNC_HUGO_STAGING_URL}"
             }
             agent {
                 docker { 
                     image 'grolland/aws-cli:hugo'
                     alwaysPull true
                     reuseNode true 
-                    args '-e TZ=Europe/Berlin'
+                    args "-e TZ=Europe/Berlin -v ${env.BNC_HUGO_STAGING_PATH}:/mnt/target"
                 }
             }
             steps {
                 dir("src") {
-                    sh "HUGO_BASEURL=https://s3.eu-central-1.amazonaws.com/${WEBBUCKET_NAME}/ hugo -d ../target"
+                    sh "HUGO_BASEURL=${BASEURL} hugo -d ../target"
                 }
                 dir("target"){
-                    sh '''aws s3 sync . s3://${WEBBUCKET_NAME} --exclude ".git*" --delete --size-only --metadata-directive REPLACE --cache-control max-age=120'''
+                    sh '''rm -rf /mnt/target/* | echo "nothing to delete"
+                    cp -R . /mnt/target'''
                 }
             }
         }
