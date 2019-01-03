@@ -18,7 +18,7 @@ title = "San Cristóbal, Galapagos"
 
 Am Tag 16 unserer großen Reise sollte es am Nachmittag mit dem Boot auf unsere zweite Galapagosinsel gehen. _San Cristóbal_ ist die östlichste Galapagosinsel und touristisch nicht so stark erschlossen, wie Santa Cruz. Das Ticket für $25 pro Person hatten wir uns schon bei unserem Tourenanbieter vorab gekauft. Er sagte uns mehrfach, dass es 13 Uhr losgeht. Mit unserer deutschen Pünktlichkeit haben wir uns natürlich schon 12:30 Uhr am Hafen eingefunden, weil es auf den Schildern hieß, dass man rechtzeitig _vorher_ erscheinen soll, unter anderem wird noch das Gepäck untersucht. Zu dieser Zeit war natürlich noch niemand vor Ort und am Ende war die offizielle Abfahrtszeit 14 Uhr. Die Ansage "13 Uhr" war also wirklich die Check-in-Zeit und nicht die Boarding-Zeit. Mit Sack und Pack sprachen wir bei der Gepäckkontrolle vor:
 
-{{< postimg src="IMG_20181113_093208.jpg" alt="Gepäck" title="Reisegepäck, unendlich optimiert und mit Ice Cream Bean" >}}
+{{< postimg src="IMG_20181113_093208.jpg" alt="Gepäck" title="Reisegepäck, unendlich optimiert und mit Ice Cream Bean" o="p" >}}
 
 Auf dem Bild ist noch unser Stangengemüse zu sehen: sogenannte Inga oder Ice Cream Bean. Die Kerne im Inneren der Stange sind von einem feinen, weißen schaumartigen Gewebe umzogen, was man im Mund ablutschen kann und der Geschmack erinnert tatsächlich an (warmes) Vanilleeis, nur ohne die Unmengen Zucker. Die Stange durften wir letztlich nicht mit nach San Cristóbal einführen, Weintrauben komischerweise schon ...
 
@@ -65,7 +65,7 @@ Am Ende waren wir jeden Tag hier, auch wenn wir hier vielleicht nur vorbeigelauf
 
 Das _Interpretation Center_ befindet sich unweit vom Playa Mann und ist eine Art Lehrstätte für die Geschichte der Galapagosinseln. Hier lernt man was über die ersten Siedler, die Bedeutung während dem zweiten Weltkrieg und über die Nachhaltigkeitsbestrebungen auf den Inseln. Unter anderem gibt es auch eine Grafik, die besagt, dass vom gesamten Tourismusumsatz nur ein Bruchteil wirklich den Anwohnern zu Gute kommt. Im Umkehrschluss bedeutet das, dass man so wenig wie möglich vom Festland aus buchen sollte, sondern immer alles beim lokalen Anbieter.
 
-{{< postimg src="IMG_20181116_112513.jpg" alt="Daten" title="Tourismuseinahmen und was davon bei den Einheimischen hängen bleibt" >}}
+{{< postimg src="IMG_20181116_112513.jpg" alt="Daten" title="Tourismuseinahmen und was davon bei den Einheimischen hängen bleibt" o="p" >}}
 
 ### Mirador Cerro Tijeretas und Playa Punta Carola
 

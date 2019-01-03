@@ -17,15 +17,15 @@ title = "Das passende Schuhwerk"
 
 Barfuß um die Welt, das klingt nach einem super Motto. Dies klingt aber weit dramatischer, als es eigentlich ist. Allerdings hatte ich die Wahl: Bergstiefel mit 821 Gramm pro Fuß oder Wanderstiefel meiner Lieblingsbarfußschuhmarke _Vivobarefoot_ mit minimal 511 Gramm.
 
-{{< postimg src="IMG_20180930_175107196.jpg" alt="Vivo Tracker" title="Vivobarefoot Tracker ohne Thermosohle" >}}
+{{< postimg src="IMG_20180930_175107196.jpg" alt="Vivo Tracker" title="Vivobarefoot Tracker ohne Thermosohle" o="p" >}}
 
 Vergleicht man das mit dem sperrigen, unbequemen Bergstiefel, dann liegen da schon Welten dazwischen. Die Hanwag hatte ich damals für den Klettersteig gekauft und so robust sind sie nun auch.
 
-{{< postimg src="IMG_20180930_175007490.jpg" alt="Hanwag Tatra" title="Hanwag Tatra" >}}
+{{< postimg src="IMG_20180930_175007490.jpg" alt="Hanwag Tatra" title="Hanwag Tatra" o="p" >}}
 
 Wenn man beide Schuhe vergleicht, wirken die _Hanwag_ schon eher wie richtige Männerschuhe, ich will aber keinem in den Hintern treten ...
 
-{{< postimg src="IMG_20180930_175226392.jpg" alt="Vergleich" title="Hanwag Tatra und Vivobarefoot Tracker" >}}
+{{< postimg src="IMG_20180930_175226392.jpg" alt="Vergleich" title="Hanwag Tatra und Vivobarefoot Tracker" o="p" >}}
 
 Da ich seit 2 Jahren nur noch _Vivobarefoot_ trage, war das _Tracker_ genannte Modell die logische Konsequenz. Eine leichte, flexible Sohle und trotzdem ein hoher, robuster Lederschuh, der durch die Thermosohle auch in kalten Gegenden (und bei meinen Frostfüßen) eine gute Wahl zu sein scheint.
 

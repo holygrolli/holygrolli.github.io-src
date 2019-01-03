@@ -21,7 +21,7 @@ Im Hinblick auf das Moto G6 muss ich auch wieder feststellen, dass Affinity hier
 
 Vergleicht man das Ergebnis mit der Lightroom Android App, die begrenzte kostenlose Möglichkeiten bietet, dann liegen Welten dazwischen:   
 
-{{< postimg src="LRM_EXPORT_20180527_132635.jpg" alt="Moto G6 RAW mit Android Lightroom">}}
+{{< postimg src="LRM_EXPORT_20180527_132635.jpg" alt="Moto G6 RAW mit Android Lightroom" w="2048" h="1534" >}}
 
 Sieht man sich dann noch die HDR-Aufnahme der Motorola-Kamera-App an, dann muss man echt feststellen, dass das Bild schon initial sehr gut aussieht:
 

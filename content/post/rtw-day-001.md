@@ -21,7 +21,7 @@ Auf dem Weg zum Flughafen zogen die ersten dunklen Wolken auf: eine SMS kündigt
 
 Am Flughafen angekommen verabschiedeten wir uns und gaben unseren letzten Wohnungsschlüssel ab - kein Weg zurück ... Auf dem Weg zum Check-In spitzte sich die Lage zu: Verspätung von mittlerweile 90 Minuten. Die nette Dame am Schalter offenbarte uns, dass der Flieger in Frankfurt nicht auf uns warten werde und bot uns zwei Alternativen an: Erneuter Versuch und gleiches Umsteigerisiko am nächsten Tag oder Flug nach Frankfurt und dann Übernachtung im dortigen Hotel. Da wir nun sozusagen obdachlos waren kam für uns nur noch Variante 2 in Frage. Die Dame buchte uns nun auf den nächsten Flug nach Panama um und ließ uns mit dem Hinweis ziehen, dass wir uns in Frankfurt bei Lufthansa wegen einem Hotelgutschein melden sollten. Zusätzlich gab es noch ein Informationblatt zu den Fluggastrechten.
 
-{{< postimg src="IMG_20181029_080940.jpg" alt="Fluggastrechte" title="Fluggastrechte bei Verspätung" >}}
+{{< postimg src="IMG_20181029_080940.jpg" alt="Fluggastrechte" title="Fluggastrechte bei Verspätung" o="p" >}}
 
 Die Wartezeit von zwei Stunden verbrachten wir unter anderem mit Frühstück und dem Fluten eines Handgepäckrucksacks mit einer ausgelaufenen Wasserflasche. Als wir dann endlich in den Flieger stiegen wurde uns netterweise direkt beim Boarding ein Müsliriegel angeboten, nur um hinterher festzustellen, dass dies für den Flug der sogenannte "Imbiss" war.
 

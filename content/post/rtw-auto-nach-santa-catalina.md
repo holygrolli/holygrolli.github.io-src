@@ -44,7 +44,7 @@ Zuerst waren wir auf der Aussichtsplattform, da wir noch 20 Minuten Zeit hatten,
 
 {{< postimg src="IMG_20181102_103653.jpg" alt="Panama-Kanal" title="Panama-Kanal, Blick nach Norden zur nächsten Schleuse" >}}
 
-{{< postimg src="IMG_20181102_103756.jpg" alt="Panama-Kanal" title="Panorama der Schleuse vom Panama-Kanal" >}}
+{{< postimg src="IMG_20181102_103756.jpg" alt="Panama-Kanal" title="Panorama der Schleuse vom Panama-Kanal" w="2368" h="6464" >}}
 
 Nach der leichten Enttäuschung über die unspektakulären Bilder besuchten wir den Film und das Museum. Danach dämmerte es uns (und es war wirklich nicht offensichtlich): eine Erweiterung des Kanals für größere Containerschiffe wurde 2016 fertiggestellt und diese Erweiterung in Form einer neuen Schleuse befindet sich _hinter_ der hier dargestellten und ist von der Aussichtsplattform nicht zu sehen ... enttäuschend (zumal Drohnenflüge natürlich nicht erlaubt sind).
 

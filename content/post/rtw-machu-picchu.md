@@ -75,7 +75,7 @@ In unserem Slot hätten wir von 7 bis 11 Uhr Zeit für Auf- und Abstieg gehabt. 
 
 Erst so gegen 9 Uhr begann es langsam aufzuklaren, da hatten wir knapp über zwei Drittel des Anstiegs geschafft. Unsere Dreiergruppe hatte sich zu dem Zeitpunkt ein wenig auseinandergezogen. Thomas und ich gingen ein etwas schnelleres Tempo vorweg, Katrin hatte eine in Deutschland studierende Brasilianerin kennengelernt und ging ein etwas langsameres Tempo. An der letzten Aussichtsebene weniger als 200 Höhenmeter vor dem Gipfel konnten wir das erste mal die Ruinen von oben bewundern. Immer wieder schoben sich einzelne Wolken darüber und waren auch genauso schnell wieder vorbeigezogen, wie sie gekommen waren. Als dann die Brasilianerin ohne Katrin ankam und meinte, dass Katrin erstmal Pause machen müsse, haben Thomas und ich uns getrennt. Thomas hat die restlichen Meter zurückgelegt und ich bin Katrin entgegengegangen. Knapp 50 Meter unter Aussichtsplattform ging es für sie nicht weiter. Zu dem Zeitpunkt konnte man von ihrer Position aus auch die Machu Picchu Citadel sehen - Mission also erfolgreich, würde ich sagen ;-)
 
-{{< postimg src="IMG_20181127_091742-01.jpeg" alt="Aussicht" title="Von meinem höchsten Punkt aus: Machu Picchu!" >}}
+{{< postimg src="IMG_20181127_091742-01.jpeg" alt="Aussicht" title="Von meinem höchsten Punkt aus: Machu Picchu!" w="3952" h="2960" >}}
 
 
 Wir machten uns langsam wieder an den Abstieg. Thomas holte uns nach einer Weile ein und meinte, es waren von dem Aussichtspunkt "nur" noch ca. 15 bis 20 Minuten Aufstieg, allerdings immer steiler und enger am Abgrund. Thomas machte uns hoffentlich nicht nur was vor, indem er meinte, dass man von der Spitze auch nur den selben Blick hatte, wie von weiter unten auf dem Weg. Je weiter wir nach unten gingen, klarte nicht nur das Wetter immer mehr auf, sondern auch die Erkenntnisse:
@@ -84,11 +84,11 @@ Wir machten uns langsam wieder an den Abstieg. Thomas holte uns nach einer Weile
 2. Der Aufstieg ist nicht zu unterschätzen, aber auch der Abstieg hat es in sich.
 3. Man sollte auf alle Fälle den Vormittagsslot nehmen, sobald die Sonne brutzelt wird es noch viel anstrengender
 
-{{< postimg src="IMG_20181127_111243-01.jpeg" alt="Aussicht2" title="Auch endlich von weiter unten gute Sicht!" >}}
+{{< postimg src="IMG_20181127_111243-01.jpeg" alt="Aussicht2" title="Auch endlich von weiter unten gute Sicht!" w="3952" h="2960" >}}
 
 Schafft man nicht den gesamten Aufstieg, kann man bereits nach [910 Metern](https://goo.gl/maps/NGj1SZPEhBs) Wegstrecke auf gute Sicht hoffen oder warten.
 
-{{< postimg src="IMG_20181127_111424.jpg" alt="Aussicht3" title="Auch endlich von weiter unten gute Sicht!" >}}
+{{< postimg src="IMG_20181127_111424.jpg" alt="Aussicht3" title="Auch endlich von weiter unten gute Sicht!" w="9792" h="3072" >}}
 
 ### Machu Picchu Citadel
 
@@ -106,11 +106,11 @@ Weiter im Rundkurs kamen wir dem eigentlichen Dorf und seinen erhaltenen Gebäud
 
 {{< postimg src="IMG_20181127_134623.jpg" alt="Duo" title="Alpaka und geiler Typ (rechts)" >}}
 
-{{< postimg src="IMG_20181127_141509.jpg" alt="Pano" title="Machu Picchu ist umgeben von Schluchten" >}}
+{{< postimg src="IMG_20181127_141509.jpg" alt="Pano" title="Machu Picchu ist umgeben von Schluchten" w="6080" h="3136" >}}
 
 Am Ausgang gab es auch noch die Möglichkeit, sich seinen Pass mit einem Stempel des Machu Picchu zu verschönern.
 
-{{< postimg src="IMG_20181127_144602.jpg" alt="Pass" title="Weiterer Stempel in unseren Pässen" >}}
+{{< postimg src="IMG_20181127_144602.jpg" alt="Pass" title="Weiterer Stempel in unseren Pässen" o="p" >}}
 
 Gegen 15 Uhr saßen wir dann wieder im Bus, bergab in Richtung Aguas Calientes. Niemand vor Ort hat sich dafür interessiert, dass unser Ticket nur bis 12 Uhr ging. Dies ist definitiv, zumindest zur Nebensaison nur als Orientierung gedacht. Macht man den Aufstieg zum Machu Picchu Mountain und besucht dann noch die Ruinen, dann wäre der Zeitslot viel zu knapp, vor allem wenn zur Hauptsaison noch einmal mehr Touristen vor Ort wären.
 
@@ -124,7 +124,7 @@ Kurz vor 21 Uhr waren wir mit etwas Verspätung in Poroy, wo uns Ricardo, unser 
 
 Das hinderte uns nicht daran gegen 22 Uhr noch in die nahegelegene Polleria zu gehen und unser erstes, typisch peruanisches [Pollo a la Brasa](https://en.wikipedia.org/wiki/Pollo_a_la_Brasa), ein Hähnchen aus dem Holzkohleofen mit Pommes und Salat. Zu dritt hatten wir ein halbes Hähnchen, eine riesige Portion Pommes und Salat, dazu eine Zwei-Liter-Flasche Inca-Cola. Also typisch peruanisches Essen für 70 Soles (19€) inklusive Trinkgeld.
 
-{{< postimg src="IMG_20181127_224451.jpg" alt="Pollo" title="traditionelles Pollo a la Brasa" >}}
+{{< postimg src="IMG_20181127_224451.jpg" alt="Pollo" title="traditionelles Pollo a la Brasa" o="p" >}}
 
 ## Tipps zum Machu Picchu
 

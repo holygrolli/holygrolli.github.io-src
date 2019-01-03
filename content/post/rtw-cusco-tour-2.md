@@ -44,12 +44,12 @@ Noch einmal knapp 10km in Richtung Osten stoppten wir noch an der Ausgrabungsst�
 
 Direkt neben _Rumicolca_ lag [Pikillacta](https://goo.gl/maps/G2xNydPFiim). Eine Ausgrabungsstätte einer Wari-Siedlung, die zwischen 550 und 1100 n.Chr. von den Wari bewohnt wurde. Läuft man durch die Anlage, dann merkt man, dass diese nicht klein war und das 1000 Jahre vor den Inka.
 
-{{< postimg src="IMG_20181207_132304-01.jpeg" alt="Weg" title="Der Weg um die Siedlung scheint schon unendlich lang" >}}
+{{< postimg src="IMG_20181207_132304-01.jpeg" alt="Weg" title="Der Weg um die Siedlung scheint schon unendlich lang" w="3952" h="2960" >}}
 
-{{< postimg src="IMG_20181207_133911-01.jpeg" alt="Mauer" title="Die Mauern im Inneren sind auch nicht weniger lang" >}}
+{{< postimg src="IMG_20181207_133911-01.jpeg" alt="Mauer" title="Die Mauern im Inneren sind auch nicht weniger lang" w="3952" h="2960" >}}
 
 {{< postimg src="IMG_20181207_134149-01.jpeg" alt="Aussicht" title="Überblick über das Gelände mit schöner Aussicht" >}}
 
-{{< postimg src="IMG_20181207_134528-01.jpeg" alt="Gebäude" title="Die Mauern lassen die alten Gebäude erahnen" >}}
+{{< postimg src="IMG_20181207_134528-01.jpeg" alt="Gebäude" title="Die Mauern lassen die alten Gebäude erahnen" w="3952" h="2960" >}}
 
 Zwei weitere Touren haben wir gemacht. Diese werde ich im Anschluss [veröffentlichen](/tags/cusco/).

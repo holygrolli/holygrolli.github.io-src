@@ -23,7 +23,7 @@ Der Park wird als grüne Lunge der Stadt bezeichnet und ist das einzige Natursch
 
 Insgesamt geht es auf allen Wegen ca. 3 bis 4 Kilometer durch den Wald, in der Mitte erreicht man den höchsten Punkt des Parks, um von dort einen Überblick über die Stadt mit seinen Wolkenkratzern zu bekommen. Man kann nur unschwer die Nähe zu den USA erkennen.
 
-{{< postimg src="IMG_20181031_122337.jpg" alt="Stadtblick" title="Panorama über die Stadt" >}}
+{{< postimg src="IMG_20181031_122337.jpg" alt="Stadtblick" title="Panorama über die Stadt" w="3232" h="1184" >}}
 
 Zurück am Besucherzentrum haben wir uns noch für den Besuch eines Schmetterlingsgeheges entschieden. Dieses war selbst zwar nicht sonderlich riesig, die Schmetterlinge umso mehr.
 
@@ -49,7 +49,7 @@ Außen konnte man noch den riesigen Busbahnhof bewundern, wo es schon abgefahren
 
 Von der Metrostation "5 de Mayo" muss man sich noch ca. 1,5 km zu Fuß Richtung Altstadt bewegen, dabei kann man auch die etwas weniger touristischen Ecken bewundern. Hier wirkte die Stadt nicht mehr so modern und US-amerikanisch, eher dreckig-chaotisch wie unser letzter Besuch von Sri Lanka.
 
-{{< postimg src="IMG_20181101_124426-PANO.jpg" alt="Altstadt" title="Panama ist bunt" >}}
+{{< postimg src="IMG_20181101_124426-PANO.jpg" alt="Altstadt" title="Panama ist bunt" w="6127" h="2348" >}}
 
 In der Altstadt angekommen war es ein Mix aus renovierten Kolonialhäusern und im Bau befindlichen Ruinen. Ein paar touristisch teure Restaurants und Souvenirshops durften auch nicht fehlen. Ich fand es aber recht übersichtlich. Einige Souvenirshops hatten zusätzlich noch eine angeschlossene Bar, deren Sitzgelegenheiten aus Paletten zusammengezimmert wurden und Cocktails und Fruchtsäfte zu einigermaßen günstigen Preisen anboten.
 
@@ -71,7 +71,7 @@ In der Altstadt haben wir dann in zwei Restaurants noch drei verschiedene Cevich
 
 {{< postimg src="IMG_20181101_160501_1.jpg" alt="Ceviche" title="Ceviche 1" >}}
 
-{{< postimg src="IMG_20181101_171540.jpg" alt="Ceviche" title="Ceviche 2 und 3" >}}
+{{< postimg src="IMG_20181101_171540.jpg" alt="Ceviche" title="Ceviche 2 und 3" o="p" >}}
 
 ## Kulinarisches
 

@@ -45,7 +45,7 @@ Im Appartment angekommen, hatten wir dann noch bis 13 Uhr Zeit zum Entspannen, b
 
 Während der Wartezeit genehmigten wir uns auch unser erstes kleines, peruanisches Frühstück, mit Kleinigkeiten aus dem Supermarkt. Am interessantesten fand ich die Größe der hiesigen Maracuyas.
 
-{{< postimg src="IMG_20181120_112917.jpg" alt="Maracuja" title="Peruanische Maxi-Maracuya" >}}
+{{< postimg src="IMG_20181120_112917.jpg" alt="Maracuja" title="Peruanische Maxi-Maracuya" o="p" >}}
 
 ### Peruanischer Kochkurs
 
@@ -96,7 +96,7 @@ Weiter ging es dann mit kurzem Zwischenstopp in Pueblo Libre nach Centro Histór
 
 {{< postimg src="IMG_20181121_140853.jpg" alt="Mercado Centro Historico" title="Markthalle im historischen Zentrum" >}}
 
-{{< postimg src="IMG_20181121_141128.jpg" alt="Mercado Centro Historico" title="Hier werden die Cremes direkt aus dem Kübel verkauft" >}}
+{{< postimg src="IMG_20181121_141128.jpg" alt="Mercado Centro Historico" title="Hier werden die Cremes direkt aus dem Kübel verkauft" o="p" >}}
 
 {{< postimg src="IMG_20181121_151820.jpg" alt="Kirche" title="Kirche San Francisco de Asis" >}}
 

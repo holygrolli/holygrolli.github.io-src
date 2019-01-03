@@ -27,7 +27,7 @@ Mit diesem Bild eröffne ich auch die Kategorie "vonoben" hier im Blog. Diese Pe
 
 Alle Tage des vergangenen Wochenendes haben wir also dann an den Leipziger Seen verbracht, um unsere Flugfähigkeiten weiter zu trainieren. Auch Katrin fand die Steuerung angenehm für 	jemanden, der sonst fast nie einen Controller in der Hand hält. Am Ende haben wir dann auf schlechtem Boden auch mehrere Hand Takeoffs und Landings hinbekommen und alle Finger sind noch dran. Das Ergebnis des Wochenendes in einer minimalen Auswahl:
 
-{{< postimg src="DJI_0060.JPG" alt="von oben">}}
+{{< postimg src="DJI_0060.JPG" alt="von oben" w="4000" h="2250" >}}
 
 {{< postimg src="DJI_0083.JPG" alt="von oben">}}
 

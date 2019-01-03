@@ -62,7 +62,7 @@ Jeden Tag konnte man auch einfach am Hafen entlangspazieren und die Tierwelt beo
 
 Von unserem Hotel aus, war es auch kein Kilometer bis zum Eingang zur _Tortuga Bay_. Hier ging es fast 2 km durch einen Wald von Kakteen. Sowas hatten wir noch nie gesehen, wie aus einer anderen Welt.
 
-{{< postimg src="IMG_20181109_155921.jpg" alt="Kakteen" title="Kakteen aus einer anderen Welt" >}}
+{{< postimg src="IMG_20181109_155921.jpg" alt="Kakteen" title="Kakteen aus einer anderen Welt" o="p" >}}
 
 Die darauf folgende Tortuga Bay unterteilt sich in einen großen Hauptstrand _Playa Brava_ und einen kleinen, vor Wellen geschützten Strand _Playa Mansa_. Playa Brava ist bei Surfern beliebt und der fast einen Kilometer lange, feinste Sandstrand ist bei Iguanas beliebt. 
 
@@ -70,7 +70,7 @@ Die darauf folgende Tortuga Bay unterteilt sich in einen großen Hauptstrand _Pl
 
 {{< postimg src="P1190562.jpg" alt="Iguanas" title="Leguanliebe" >}}
 
-{{< postimg src="IMG_20181109_144035-01.jpeg" alt="Iguanas" title="Leguankuschelrunde am Strand" >}}
+{{< postimg src="IMG_20181109_144035-01.jpeg" alt="Iguanas" title="Leguankuschelrunde am Strand" w="3952" h="2960" >}}
 
 Playa Mansa wiederum ist durch seine Abgrenzung durch eine Landzunge und Mangroven gut zum Schnorcheln geeignet. Allerdings war es bei uns aufgrund der Wettersituation leider immer zu trüb, als dass man unter Wasser was (gut) sehen konnte. Am ersten Tag dort hatte Katrin aber direkt Kontakt mit der Natur. Sie lag am Strand im Wasser, als plötzlich ein kleiner Hai über ihre Beine schwamm. Beide waren so erschrocken, dass die Erfahrung nur von kurzer Dauer war. 
 

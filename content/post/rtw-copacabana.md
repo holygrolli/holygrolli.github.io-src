@@ -39,7 +39,7 @@ Wir namen unser Gepäck und mussten nun einen Berg erklimmen zu unserer Unterkun
 
 {{< postimg src="IMG_20181216_143949.jpg" alt="Aussicht" title="Aussicht aus unserem Zimmer" >}}
 
-{{< postimg src="IMG_20181220_191634-02.jpeg" alt="Sonnenuntergang" title="Sonnenuntergang in Copacabana" >}}
+{{< postimg src="IMG_20181220_191634-02.jpeg" alt="Sonnenuntergang" title="Sonnenuntergang in Copacabana" w="3952" h="2960" >}}
 
 Die Tatsache, dass es hier so entspannend war, die Ausstattung gepasst hat und die Verpflegung im Hotelrestaurant auch wunderbar passte (und besser war als im Ort), führte zu unserer Entscheidung bis nach Weihnachten hier zu bleiben. Unser Bus von Boliviahop hätte eh Weihnachtspause gehabt, so verlegten wir unsere Abreise von der Copacabana auf den 27. Dezember.
 

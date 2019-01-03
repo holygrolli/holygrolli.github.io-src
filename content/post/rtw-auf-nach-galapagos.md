@@ -30,9 +30,9 @@ Somit mussten wir nun mit Sack und Pack raus aus dem Sicherheitsbereich und vers
 
 Während der langen Nacht war das Flughafen-WiFi und McDonald's gute Freunde. In der Zwischenzeit konnte man sich auch auf dem Flughafen den speziellen Galapagosschalter anschauen.
 
-{{< postimg src="IMG_20181107_004613.jpg" alt="Galapagosschalter" title="Infos am Galapagosschalter" >}}
+{{< postimg src="IMG_20181107_004613.jpg" alt="Galapagosschalter" title="Infos am Galapagosschalter" o="p" >}}
 
-{{< postimg src="IMG_20181107_004621.jpg" alt="Galapagosschalter" title="Einreisebestimmungen für Galapagos" >}}
+{{< postimg src="IMG_20181107_004621.jpg" alt="Galapagosschalter" title="Einreisebestimmungen für Galapagos" o="p" >}}
 
 Wie wir dann am nächsten Morgen herausbekommen haben, muss jedes Gepäckstück separat gescannt werden, damit man keine verbotenen Dinge einführt. Das Aufgabegepäck wird dann versiegelt und ist bereit für die Gepäckaufgabe. Direkt neben dem Scanner war auch der Schalter für die Einreisegenehmigung nach Galapagos. Hier muss man auch sein Rückflugticket vorweisen und dann bekommt man für $20 pro Person die Einreiseerlaubnis.
 

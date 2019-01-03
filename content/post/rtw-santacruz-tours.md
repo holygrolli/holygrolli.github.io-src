@@ -58,7 +58,7 @@ Da dies der interessanteste Schnorchelausflug war kam auch "ein wenig" Videomate
 
 Der zweite Tagesausflug war zur Insel _North Seymour_. Hier wurden wir mit einem Shuttlebus von der Unterkunft abgeholt, um auch wieder zum Hafen im Norden transportiert zu werden. Dort ging es diesmal auf ein größeres Schiff mit 14 anderen Touristen. Die Insel wird als Vogelparadies angepriesen und in der Tat konnten wir bei dem einstündigen Landgang Unmengen Vögel sehen. Die meisten Vögel waren die Fregattenvögel, deren Männchen einen roten Beutel an ihrem Hals aufblähen können, um natürlich die Weibchen zu beeindrucken. Jetzt im November ist meines Wissens nach zwar nicht die Hauptbrutzeit, aber wir sahen einige Jungvögel mit ihrem gerupften Gefieder.
 
-{{< postimg src="IMG_20181112_105353-01.jpeg" alt="Vogelbild" title="Fregattenvogel" >}}
+{{< postimg src="IMG_20181112_105353-01.jpeg" alt="Vogelbild" title="Fregattenvogel" w="3952" h="2960" >}}
 
 {{< postimg src="IMG_20181112_121555.jpg" alt="Vogelbild" title="kleiner Seelöwe verkriecht sich vor der brennenden Sonne" >}}
 

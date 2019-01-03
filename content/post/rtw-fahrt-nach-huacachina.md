@@ -62,7 +62,7 @@ Nach der Stärkung im Restaurant ging es am Nachmittag an die Besteigung der Dü
 
 Auf dem Gipfel angekommen zeigte sich die Dimension dieser Wüste: es ging mehrere Kilometer durch den Sand, eine Düne nach der anderen. In der direkten Umgebung der Lagune konnte man einen Fuhrpark an Wüstenbuggies sehen, die alle auf zahlende Kundschaft warteten, schließlich ist Huacachina für Sandboarding und Sandskiing bekannt. Darauf haben wir uns aber nicht eingelassen, ein komischer Gedanke, sich in der Wüste mit einem stinkenden Benziner dauernd auf einen Berg fahren zu lassen, nachdem man ihn heruntergefahren ist. Von den dicken Skistiefeln bei der Hitze ganz zu schweigen. So beließen wir es beim Fotoshooting in einer seltenen Kulisse bis uns der Sonnenuntergang beglückte!
 
-{{< postimg src="IMG_20181122_182618-01.jpeg" alt="Wüste" title="Blick in die Wüste" >}}
+{{< postimg src="IMG_20181122_182618-01.jpeg" alt="Wüste" title="Blick in die Wüste" w="3952" h="2960" >}}
 
 {{< postimg src="DJI_0080-01.jpeg" alt="Wüste von oben" title="Blick auf die Wüste" >}}
 

@@ -56,7 +56,7 @@ Nach dem ausgiebigen Frühstück machten wir uns dann auf den Weg ins Zentrum zu
 
 {{< postimg src="IMG_20181124_113325.jpg" alt="Kathedrale" title="Die historischen Gebäude am Plaza de Armas" >}}
 
-{{< postimg src="IMG_20181124_113918.jpg" alt="Kathedrale" title="Kirche am Plaza de Armas" >}}
+{{< postimg src="IMG_20181124_113918.jpg" alt="Kathedrale" title="Kirche am Plaza de Armas" o="p" >}}
 
 Bei unserer Runde durch die Altstadt sind wir auch wieder an einem der typischen Mercados vorbeigekommen. Ab diesem Zeitpunkt wurde es mir erst bewusst (wir hatten das ja nur in Lima gesehen), dass eigentlich jede Stadt mindestens einen dieser Märkte hat, wo frische Waren in Unmengen angeboten werden und man direkt auch zu peruanisch günstigen Preisen in etwas stressiger Umgebung direkt essen kann.
 

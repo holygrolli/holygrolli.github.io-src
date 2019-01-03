@@ -42,7 +42,7 @@ Die nächste Fahrt ging rund 18km weiter in den Nordwesten. [Moray](https://goo.
 
 Nach dem Besuch von Moray fuhren wir die auf dem Weg liegenden [Salzminen von Maras](https://goo.gl/maps/1MDkXWFUbXU2) an. Diese hatten nichts mit dem Ticket und Inkas zu tun und kosteten 10 Soles pro Person zusätzlich Eintritt. Auch die Salzminen waren beeidruckend. Schließlich fuhr man von einem Plateau eine Schlucht hinab, entlang derer sich terrassenartig Salzpfannen befanden. Und es waren nicht nur ein paar Salzpfannen, nein, Salzpfannen so weit das Auge reichte. Hier konnte man Einheimische beobachten, wie sie das Salz "ernteten", welches durch die Hitze der Sonne in den Salzpfannen übrig blieb.
 
-{{< postimg src="IMG_20181208_135316.jpg" alt="Salzminen" title="Salzminen vom Berg aus" >}}
+{{< postimg src="IMG_20181208_135316.jpg" alt="Salzminen" title="Salzminen vom Berg aus" w="4864" h="3136" >}}
 
 {{< postimg src="IMG_20181208_135740.jpg" alt="Salzpfannen" title="Salzpfannen aus der Nähe" >}}
 

@@ -35,9 +35,9 @@ Cusco ist nicht umsonst in der Liste der [UNESCO-Welterbestätten](https://de.wi
 
 Vor allem in der Altstadt reihen sich eine Kirche an die andere, befinden sich unzählige Museen oder laden Plätze zum Verweilen ein.
 
-{{< postimg src="IMG_20181128_123258-01.jpeg" alt="Altstadt" title="Blick über den Plaza de Armas auf die Altstadt" >}}
+{{< postimg src="IMG_20181128_123258-01.jpeg" alt="Altstadt" title="Blick über den Plaza de Armas auf die Altstadt" w="3952" h="2960" >}}
 
-{{< postimg src="IMG_20181128_124356-01.jpeg" alt="Plaza de Armas" title="Plaza de Armas von Cusco" >}}
+{{< postimg src="IMG_20181128_124356-01.jpeg" alt="Plaza de Armas" title="Plaza de Armas von Cusco" w="3952" h="2960" >}}
 
 {{< postimg src="IMG_20181129_111948.jpg" alt="Hinterhof" title="typische Hinterhöfe auf denen Souvenirs verkauft werden" >}}
 
@@ -83,7 +83,7 @@ Weiterhin besuchten wir das [Museo de Historia Regional](https://goo.gl/maps/HPM
 
 Zusätzlich besuchten wir noch das [Monumento Inca Pachacutec](https://goo.gl/maps/bjHA63MvBw72), welches die Geschichte des Inkaherrschers [Pachacutec](https://de.wikipedia.org/wiki/Pachac%C3%BAtec_Yupanqui) darstellt. Dieser hatte im 15. Jahrhundert das Inkareich bedeutend erweitert und modernisiert.
 
-{{< postimg src="IMG_20181207_144557.jpg" alt="Pachacutec" title="Das Momument für den Inkaherrscher Pachacutec" >}}
+{{< postimg src="IMG_20181207_144557.jpg" alt="Pachacutec" title="Das Momument für den Inkaherrscher Pachacutec" o="p" >}}
 
 Die letzten beiden Museen waren Teil des [Cusco Touristic Tickets](https://www.cuscoperu.com/en/useful-information/touristic-tickets/cusco-touristic-ticket), darin sind 16 Attraktionen enthalten, Museen und archeologische Anlagen. Zu letzteren werde ich noch etwas [eigenes](/tags/cusco/) schreiben. Das Cusco Touristic Ticket kostet nur 130 Soles (weniger als 33€) und erlaubt den einmaligen Eintritt innerhalb von 10 Tagen. Wenn man sich auf weniger Attraktionen einschränken kann, dann kostet es auch weniger, allerdings waren für uns die verfügbaren Kombinationen nicht attraktiv genug.
 
