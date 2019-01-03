@@ -55,7 +55,7 @@ In der Altstadt angekommen war es ein Mix aus renovierten Kolonialhäusern und i
 
 {{< postimg src="IMG_20181101_130921.jpg" alt="Altstadt" title="Blick in die Altstadt" >}}
 
-{{< postimg src="IMG_20181101_131408.jpg" alt="Altstadt" title="Blick in die Altstadt" >}}
+{{< postimg src="IMG_20181101_131408.jpg" alt="Altstadt" title="Blick in die Altstadt" o="p" >}}
 
 {{< postimg src="IMG_20181101_165845.jpg" alt="Altstadt" title="Blick in die Altstadt" >}}
 

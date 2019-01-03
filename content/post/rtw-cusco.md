@@ -109,9 +109,9 @@ Ebenso Erwähnung finden muss das [Cultura Paraiso](https://goo.gl/maps/yopyNdip
 
 Um den Plaza de Armas herum gab es auch unzählige Restaurants, die um Besucher buhlten. Alle waren überteuert und sprachen uns von der Atmosphäre überhaupt nicht an. Wenige Meter vom Plaza de Armas entfernt waren wir einmal im [Museo del Cafe](https://goo.gl/maps/h2Ag9uNXFkF2), welches, wie der Name schon sagt, im schönen alten Gebäude auch ein kleines Kaffeemuseum eingerichtet hatte. Man konnte auch noch auf kleinen Balkons mit Blick in Richtung Plaza de Armas sitzen und seine Getränke genießen. Unter anderem hatten wir hier leckeren Glühwein und eine leckere Häppchenplatte mit Forelle und Alpaka!
 
-{{< postimg src="IMG_20181204_154335.jpg" alt="Geiler Typ" title="Auf dem Balkon macht sich die warme Alpakakleidung bezahlt" >}}
+{{< postimg src="IMG_20181204_154335.jpg" alt="Geiler Typ" title="Auf dem Balkon macht sich die warme Alpakakleidung bezahlt" o="p" >}}
 
-{{< postimg src="IMG_20181204_154441.jpg" alt="Drinks" title="Coole Drinks mit Aussicht im Museo del Cafe" >}}
+{{< postimg src="IMG_20181204_154441.jpg" alt="Drinks" title="Coole Drinks mit Aussicht im Museo del Cafe" o="p" >}}
 
 {{< postimg src="IMG_20181204_154923.jpg" alt="Leckereien" title="Häppchen von der Forelle und Alpaka" >}}
 
