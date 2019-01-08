@@ -14,14 +14,29 @@ pipeline {
                 }
             }
         }
-        stage ('Deploy Production') {
+        stage ('Hugo Generate Master') {
             when {
                 expression { BRANCH_NAME == 'master' }
+            }
+            agent {
+                docker { 
+                    image 'grolland/aws-cli:hugo'
+                    alwaysPull true
+                    reuseNode true 
+                    args '-e TZ=Europe/Berlin'
+                }
             }
             steps {
                 dir("src") {
                     sh "hugo -d ../target"
                 }
+            }
+        }
+        stage ('Deploy Production') {
+            when {
+                expression { BRANCH_NAME == 'master' }
+            }
+            steps {
                 sshagent(['GITHUB']) {
                     dir("target"){
                         sh """
