@@ -11,7 +11,7 @@ categories = [
 description = "Was steckt dahinter?"
 draft = false
 comments = true
-date = 2019-01-02T18:07:47-04:00
+date = 2019-01-08T12:48:47-03:00
 title = "Der Globale Pakt für sichere, geordnete und reguläre Migration"
 +++
 
@@ -21,4 +21,8 @@ In den Medien wurde das Thema leider nicht so ernsthaft diskutiert, wie man es s
 
 Feedback nimmt Katrin gern persönlich entgegen.
 
-Hier also der Artikel von Dr. Katrin Seifert: <a href="beitrag.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', 'Migrationspakt');">.PDF</a>
+Hier also der Artikel von Dr. Katrin Seifert:
+
+- <a href="Globale_UN-Migrationspakt-Text.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', 'Migrationspakt');">Artikel (.pdf)</a>
+- <a href="Globale_UN-Migrationspakt-Anhang_I.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', 'MigrationspaktAnhang1');">Anhang 1 (.pdf)</a>
+- <a href="Globale_UN-Migrationspakt-Anhang_II.pdf" target="_blank" onclick="ga('send', 'event', 'PDF', 'download', 'MigrationspaktAnhang2');">Anhang 2 (.pdf)</a>
