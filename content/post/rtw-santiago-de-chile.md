@@ -118,4 +118,4 @@ Seitdem wir vor knapp 2 Wochen auf unserer [Tour](/post/rtw-salar-de-uyuni/) das
 
 ## Fazit
 
-Santiago de Chile war auf alle Fälle eindrucksvoll, da komplett verschieden von allen bisherigen Stätten in Südamerika. Es war tatsächlich die "westlichste" und modernste Stadt. Es war sehr abwechslungsreich und wir hatten keine Probleme, uns sicher zu fühlen, obwohl selbst die Chilenen vor Ort meinten, wir müssen nachts aufpassen.
+Santiago de Chile war auf alle Fälle eindrucksvoll, da komplett verschieden von allen bisherigen Städten in Südamerika. Es war tatsächlich die "westlichste" und modernste Stadt. Es war sehr abwechslungsreich und wir hatten keine Probleme, uns sicher zu fühlen, obwohl selbst die Chilenen vor Ort meinten, wir müssen nachts aufpassen.
