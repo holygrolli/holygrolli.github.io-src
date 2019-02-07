@@ -9,18 +9,18 @@ categories = [
 ]
 image = "IMG_20190125_131859.jpg"
 coverimage = "IMG_20190125_184750.jpg"
-description = "Vier Tage in der rauhen Natur von Patagonien, im bekannten Nationalpark Torres del Paine"
+description = "Vier Tage in der rauen Natur von Patagonien, im bekannten Nationalpark Torres del Paine"
 draft = false
 comments = true
 date = 2019-02-07T02:22:00-03:00
 title = "Torres del Paine, Patagonien"
 +++
 
-Nach der sehr unbequemen Nacht am Flughafen von Santiago de Chile ging es erneut mit einem Flieger von Sky Airlines nach Punta Arenas in Patagonien. Diesmal war ich persönlich aber arg enttäuscht von Sky Airlines, denn im Vergleich zu unserem Flug aus dem Norden nach Santiago de Chile war dies eine neuere Maschine mit dem "trendy" Sitzabstand von Ryanair, wo meine Knie die Lehne den Vordersitz berühren, obwohl ich den Hintern schon gegen meine Lehne drücke. Ebenso gibt es in dieser Konfiguration, wie bei Ryanair, keine Netze zur Ablage im Vordersitz. Low Budget lässt grüßen!
+Nach der sehr unbequemen Nacht am Flughafen von Santiago de Chile ging es erneut mit einem Flieger von Sky Airlines nach Punta Arenas in Patagonien. Diesmal war ich persönlich aber arg enttäuscht von Sky Airlines, denn im Vergleich zu unserem Flug aus dem Norden nach Santiago de Chile war dies eine neuere Maschine mit dem "trendy" Sitzabstand von Ryanair, wo meine Knie die Lehne vom Vordersitz berühren, obwohl ich den Hintern schon gegen meine Lehne drücke. Ebenso gibt es in dieser Konfiguration, wie bei Ryanair, keine Netze zur Ablage im Vordersitz. Low Budget lässt grüßen!
 
 ## Mietwagen
 
-Da wir von den Terminen ja sehr kurzfristig unterwegs sind, kann es hin und wieder mal knapp bei der Beschaffung von Dienstleistungen in unserem Zeitfenster werden. So geschehen beim Mietwagen, denn da wir zur Hauptsaison relativ spontan einen Mietwagen für zwei Wochen wollten, war dies kaum noch (billig) möglich. Die Vergleichsseite billiger-mietwagen.de bot nur noch Mietwagen an, wo eine Nutzung in Argentinien laut Kleingedrucktem ausgeschlossen war. Als wir die paar Tage in Santiago de Chile waren versuchten wir Alternativen zu finden. Katrin hatte dann den Rechercheerfolg auf ihrer Seite. Die lokale (deutschsprachige) Agentur [Chile Inside](http://www.chileinside.cl/) konnte uns einen "letzten" Mietwagen beschaffen. Einen Pickup mit Versicherung für Chile und Argentinien für "nur" 1050€. Das war aber schon das Rundum-Sorglos-Paket inklusive Haftpflicht- und Selbstbehalt-Zusatzversicherung der Hanse Merkur, die wir schon für den [Roadtrip in Panama](/post/rtw-auto-nach-santa-catalina/) abgeschlossen hatten.
+Da wir von den Terminen ja sehr kurzfristig unterwegs sind, kann es hin und wieder mal knapp bei der Beschaffung von Dienstleistungen in unserem Zeitfenster werden. So geschehen beim Mietwagen, denn da wir zur Hauptsaison relativ spontan einen Mietwagen für zwei Wochen wollten, war dies kaum noch (billig) möglich. Die Vergleichsseite billiger-mietwagen.de bot nur noch Mietwagen an, wo eine Nutzung in Argentinien laut Kleingedrucktem ausgeschlossen war. Als wir die paar Tage in Santiago de Chile waren versuchten wir Alternativen zu finden. Katrin hatte dann den Rechercheerfolg auf ihrer Seite. Die lokale (deutschsprachige) Agentur [Chile Inside](http://www.chileinside.cl/) konnte uns einen "letzten" Mietwagen beschaffen. Einen Pickup mit Versicherung für Chile und Argentinien für "nur" 1050€. Das war aber schon das Rundum-Sorglos-Paket inklusive Haftpflicht- und Selbstbehalt-Zusatzversicherung der HanseMerkur, die wir schon für den [Roadtrip in Panama](/post/rtw-auto-nach-santa-catalina/) abgeschlossen hatten.
 
 Schlussendlich konnten wir den Mietwagen direkt in Punta Arenas am Flughafen entgegennehmen. Ein dicker, großer Pickup, wie er in der Wildnis so üblich ist (allerdings ohne Allradantrieb).
 
@@ -36,7 +36,7 @@ Auf dem Weg dahin haben die Schilder immer wieder auf das "Ende der Welt" hingew
 
 {{< postimg src="IMG_20190127_165825.jpg" alt="Ende" title="Die Straße hat den Codenamen \"Ende der Welt\"" w="3968" h="2976" >}}
 
-Nach dem Einkaufen für Vorräte für die nächsten zwei Selbstversorgertage ging es noch in das Restaurant [La Picada de Carlitos](https://goo.gl/maps/dqH5v4kpGsQ2), wo wir das erste mal die typischen Schweinegrillspieße (al asador) über offenem Feuer sehen konnten. Diese wurden in einem separaten Raum mit Lüftung zur Schau gestellt.
+Nach dem Einkaufen für Vorräte für die nächsten zwei Selbstversorgertage ging es noch in das Restaurant [La Picada de Carlitos](https://goo.gl/maps/dqH5v4kpGsQ2), wo wir das erste Mal die typischen Schweinegrillspieße (al asador) über offenem Feuer sehen konnten. Diese wurden in einem separaten Raum mit Lüftung zubereitet und zurschaugestellt.
 
 {{< postimg src="IMG_20190123_164943.jpg" alt="Grill" title="Cerdo al asador - auf offener Flamme gegrilltes Schwein" w="3968" h="2976" >}}
 
@@ -58,7 +58,7 @@ Es ging auch direkt los. Vom Hotelstrand wurden wir mit einem kleinen Boot zur A
 
 {{< postimg src="IMG_20190124_165157.jpg" alt="Eisscholle" title="Eine riesige Eisscholle als Vorbote des Gletschers" w="3968" h="2976" >}}
 
-Am Ende des Sees fuhr das Boot alle drei Arme des Grey-Gletschers ab, so das man diese riesigen Eismassen aus der Nähe betrachten konnte. Dies war schon beeindruckend. Vor allem das satte Blau sieht man höchstens ansatzweise in einem Gletscherskigebiet. Die Blaufärbung entsteht doch den riesigen Druck und die Tatsache, dass dabei kein Sauerstoff im Eis eingeschlossen wird. Je mehr Sauerstoff, umso weißer ist das Eis.
+Am Ende des Sees fuhr das Boot alle drei Arme des Grey-Gletschers ab, so das man diese riesigen Eismassen aus der Nähe betrachten konnte. Dies war schon beeindruckend. Vor allem das satte Blau sieht man höchstens ansatzweise in einem Gletscherskigebiet. Die Blaufärbung entsteht durch den riesigen Druck und die Tatsache, dass dabei kein Sauerstoff im Eis eingeschlossen wird. Je mehr Sauerstoff, umso weißer ist das Eis.
 
 {{< postimg src="IMG_20190124_170754.jpg" alt="Gletscher" title="Erste Eindrücke vom Gletscher" w="3968" h="2976" >}}
 
@@ -68,11 +68,11 @@ Am Ende des Sees fuhr das Boot alle drei Arme des Grey-Gletschers ab, so das man
 
 {{< postimg src="IMG_20190124_175730.jpg" alt="Gletscherarm" title="Blick auf zwei Gletscherarme" w="3968" h="2976" >}}
 
-Trotz des starken Windes hatten wir das Glück, dass zu unserer Fahrzeit die Sonne immer wieder einmal rauskam. Trotzdem regnete es immer wieder mal, was aber auf der Rückfahrt zu einem Regenbogen führte.
+Trotz des starken Windes hatten wir das Glück, dass zu unserer Fahrzeit die Sonne immer wieder einmal rauskam. Trotzdem regnete es ab und an, was aber auf der Rückfahrt zu einem Regenbogen führte.
 
 {{< postimg src="IMG_20190124_173247.jpg" alt="Regenbogen" title="Regenbogen über dem Wasser" w="3968" h="2976" >}}
 
-Zurück an Land konnte wir den Weg zurück zum Hotel und dem Auto per Fußmarsch am Strand entlang und durch den Wald machen. Unsere erste kleine Wanderung durch den Torres del Paine-Nationalpark führte uns auch über eine schaukelnde Hängebrücke.
+Zurück an Land konnten wir den Weg zurück zum Hotel und dem Auto per Fußmarsch am Strand entlang und durch den Wald machen. Unsere erste kleine Wanderung durch den Torres del Paine-Nationalpark führte uns auch über eine schaukelnde Hängebrücke.
 
 {{< postimg src="IMG_20190124_192718.jpg" alt="Hängebrücke" title="Eine Hängebrücke am Ende kurz vor dem Zeltplatz" w="3968" h="2976" >}}
 
@@ -98,7 +98,7 @@ Die Übernachtung kostete übertriebene USD 200 pro Nacht! Aufgrund der Nähe zu
 
 ### Tag 2 - Aussichtspunkte und Wanderungen
 
-Da wir zwei Nächte in unserer Unterkunft hatten, musste diesmal nicht gepackt werden. Nach dem stärkenden Frühstück ging es wieder in den Park entlang der Straße Y-150. Der erste Aussichtspunkt war der [Mirador del Toro](https://goo.gl/maps/HAK3ft98aM42). Schon allein der Startpunkt bot uns einen Vorgeschmack, was uns oben erwarten würde: strahlend blaue Seen umgeben von Hügeln mit schneebedeckten Bergen im Hintergrund.
+Da wir zwei Nächte in unserer Unterkunft hatten, musste diesmal nicht gepackt werden. Nach dem stärkenden Frühstück ging es wieder in den Park, diesmal östlich entlang der Straße Y-150. Der erste Aussichtspunkt war der [Mirador del Toro](https://goo.gl/maps/HAK3ft98aM42). Schon allein der Startpunkt bot uns einen Vorgeschmack, was uns oben erwarten würde: strahlend blaue Seen umgeben von Hügeln mit schneebedeckten Bergen im Hintergrund.
 
 {{< postimg src="IMG_20190125_112933.jpg" alt="blauer See" title="Startpunkt zum Mirador del Toro" w="3968" h="2976" >}}
 
@@ -122,15 +122,15 @@ Der nächste Stopp war der [Salto Grande](https://goo.gl/maps/ikVnxkvnWAn), ein 
 
 {{< postimg src="IMG_20190125_162929.jpg" alt="Salto Grande" title="Der Wasserfall \"Salto Grande\"" w="3968" h="2976" >}}
 
-Den weiteren Weg zum [Mirador Cuernos](https://goo.gl/maps/1nuk8TfxEVz) verschoben wir aufgrund des Windes auf den nächsten Tag. Auf dem Rückweg zur Unterkunft machten wir uns noch an den Aufstieg auf den [Mirador Condor](https://goo.gl/maps/cxNeC1uf6fC2), der auch immer wieder in Blogs empfohlen wurde. Die knapp 1,5 km waren eigentlich nicht dramatisch, der Wind machte das ganze aber sehr anstrengend. Wir gingen dabei zum Glück den kürzeren Weg von Norden (Einstieg siehe {{< garmin 3333986909 "mein GPS-Track" >}}). Man hätte auch vom Zeltplatz aus dem Süden starten können. Am Gipfel angekommen mussten wir auch hier aufpassen, nicht weggeweht zu werden. Aber die Aussicht auf die Berge war auch hier umwerfend"
+Den weiteren Weg zum [Mirador Cuernos](https://goo.gl/maps/1nuk8TfxEVz) verschoben wir aufgrund des Windes auf den nächsten Tag. Auf dem Rückweg zur Unterkunft machten wir uns noch an den Aufstieg auf den [Mirador Condor](https://goo.gl/maps/cxNeC1uf6fC2), der auch immer wieder in Blogs empfohlen wurde. Die knapp 1,5 km waren eigentlich nicht dramatisch, der Wind machte das ganze aber sehr anstrengend. Wir gingen dabei zum Glück den kürzeren Weg von Norden (Einstieg siehe {{< garmin 3333986909 "mein GPS-Track" >}}). Man hätte auch vom Zeltplatz aus dem Süden starten können. Am Gipfel angekommen mussten wir auch hier aufpassen, nicht weggeweht zu werden. Aber die Aussicht auf die Berge war auch hier umwerfend!
 
 {{< postimg src="IMG_20190125_184246.jpg" alt="Mirador Condor" title="Panorama vom Mirador Condor" w="7424" h="3136" >}}
 
-Der Mirador Condor ist aus meiner Sicht eine optimale Einstiegswanderung. Von unserem Einstieg im Norden hatten wir auch den gesamten Weg für uns allein und konnten Natur und vor allen den Wind abgeschieden genießen!
+Der Mirador Condor ist aus meiner Sicht eine optimale Einstiegswanderung. Von unserem Einstieg im Norden hatten wir auch den gesamten Weg für uns allein und konnten Natur abgeschieden genießen!
 
 ### Tag 3 - Wanderungen und Laguna Azul
 
-Am dritten Tag gab es nur noch kleinere Windböen. Optimal für Wanderungen im Park. Eigentlich wollten wir den über 9 km langen Trek zum Fuß der _Las Torres_ machen, den namensgebenden Türmen im Nationalpark. Da die Wanderung aber mindestens zum Ende sehr anstrengend werden sollte, entschieden wir uns dagegen. Dafür nahmen wir die leichte Wanderung vom Salto Grande zum [Mirador Cuernos](https://goo.gl/maps/1nuk8TfxEVz) in Angriff. Die knapp 2,4 km waren in entspannten 45 Minuten schaffbar und führten entlang von Guanaco-Herden.
+Am dritten Tag gab es nur noch kleinere Windböen. Optimal für Wanderungen im Park. Eigentlich wollten wir den über 9 km langen Trek (eine Richtung) zum Fuß der _Las Torres_ machen, den namensgebenden Türmen im Nationalpark. Da die Wanderung aber mindestens zum Ende sehr anstrengend werden sollte, entschieden wir uns dagegen. Dafür nahmen wir die leichte Wanderung vom Salto Grande zum [Mirador Cuernos](https://goo.gl/maps/1nuk8TfxEVz) in Angriff. Die knapp 2,4 km waren in entspannten 45 Minuten schaffbar und führten entlang von Guanaco-Herden.
 
 {{< postimg src="IMG_20190126_114942.jpg" alt="Guanaco" title="Eins der vielen Guanacos im Park" w="3968" h="2976" >}}
 
@@ -152,11 +152,11 @@ Die Laguna Azul bot uns dann einen nahezu wolkenlosen Blick auf die Las Torres-G
 
 {{< postimg src="IMG_20190126_165133.jpg" alt="Laguna Azul" title="Die Laguna Azul bietet eine Sicht auf die Las Torres-Gipfel" w="3968" h="2976" >}}
 
-Windgeschützt war es hier sehr angenehm warm, was uns dann statt einer Wanderung zu Entspannungszeit am See brachte. Auch hier waren kaum Menschen unterwegs. Das sorgte auch dafür, dass die einheimischen [Cananchos](https://de.wikipedia.org/wiki/Schopfkarakara) neugierig näher kamen. Als Assfresser dachten sie wohl, wir wären gut zu futtern.
+Windgeschützt war es hier sehr angenehm warm, was uns dann statt einer Wanderung zu Entspannungszeit am See brachte. Auch hier waren kaum Menschen unterwegs. Das sorgte auch dafür, dass die einheimischen [Caranchos](https://de.wikipedia.org/wiki/Schopfkarakara) neugierig näher kamen. Als Assfresser dachten sie wohl, wir wären gut zu futtern.
 
 {{< postimg src="IMG_20190126_170243.jpg" alt="Caranchos" title="Neugierige Caranchos" w="3968" h="2976" >}}
 
-Da wir nun unsere Unterkunft außerhalb, südöstlich des Parks in Cerro Castillo hatten, ging es nun direkt aus dem Park heraus. Über die Ostseite ist Straße durchweg geteert und geht über lange Strecken geradeaus.
+Da wir nun unsere Unterkunft außerhalb, südöstlich des Parks in Cerro Castillo hatten, ging es nun direkt aus dem Park heraus. Über die Ostseite ist die Straße durchweg geteert und geht über lange Strecken geradeaus.
 
 {{< postimg src="IMG_20190126_184729.jpg" alt="Straße" title="Straßenpanorama" w="3968" h="2976" >}}
 
@@ -167,8 +167,10 @@ Das einzige Hotel in Cerro Castillo ist das [Hotel Estancia El Ovejero Patagóni
 
 ### Tag 4 - Laguna Armaga
 
-Am vierten Tag war unser Ticket für den Torres del Paine-Nationalpark abgelaufen. Da wir uns den erneuten Eintritt sparen wollten, fuhren wir zum _Lago Armaga_, welcher sich kurz vor dem Parkeingang befindet. Hier sollte es einen Wanderweg zu _Laguna Azul_ geben, den wir nicht fanden. Es wurde uns aber auch gesagt, dass sich die meisten Grundstücke um den Park in Privatbesitz befinden, was dazu führt, dass so eine Wanderung eventuell zu Konflikten führen könnte. Wir wanderten daher ein wenig am See entlang und entschieden uns, früher den Rückweg nach Puerto Natales anzutreten. Dafür nahmen wir nicht die schnelle, direkte Route, sondern fuhren über die Y-200 eine Schotterpiste entlang des _Lago el Toro_. Man sah nicht viel vom See, aber man konnte noch wenig die Landschaft genießen.
+Am vierten Tag war unser Ticket für den Torres del Paine-Nationalpark abgelaufen. Da wir uns den erneuten Eintritt sparen wollten, fuhren wir zum _Lago Armaga_, welcher sich kurz vor dem Parkeingang befindet. Hier sollte es einen Wanderweg zu _Laguna Azul_ geben, den wir nicht fanden. Es wurde uns aber auch gesagt, dass sich die meisten Grundstücke um den Park in Privatbesitz befinden, was dazu führt, dass so eine Wanderung eventuell zu Konflikten führen könnte. Wir wanderten daher ein wenig am See entlang und entschieden uns, früher den Rückweg nach Puerto Natales anzutreten. Dafür nahmen wir nicht die schnelle, direkte Route, sondern fuhren über die Y-200, eine Schotterpiste, entlang des _Lago el Toro_. Man sah nicht viel vom See, aber man konnte noch ein wenig die Landschaft genießen.
 
 ## Fazit
 
 Kurz und knapp: der Torres del Paine-Nationalpark ist schon ein beeindruckender Einstieg in Patagonien. Wir denken beide, dass die leichten Wanderungen an Tag 2 und 3 genau das Richtige für Wandereinsteiger sind. Mit dem Wetter hatten wir, wie so oft, viel Glück. Nur einen Tag mussten wir das für Patagonien typische, windstarke Wetter ertragen. Überraschenderweise war trotz Hauptreisezeit nicht so viel los, wie ich erwartet hätte. Vielleicht zentrierten sich die Menschenmassen nur um die _Las Torres_ und die bekannten W- und O-Treks.
+
+Ebenso wichtig zu erwähnen ist, dass wir mit dem Mietwagen schon Glück hatten. Wir hätten uns bei Verfügbarkeit wohl für einen kleinen PKW entschieden. Nach dem Erlebnis der ungeteerten Straßen wäre mindestens ein kleiner SUV angebracht, wo ein wenig mehr Bodenfreiheit herrscht. Man kommt sicherlich auch ohne SUV oder Pickup aus, aber so ein Gefährt macht es einem schon leicht, über Unebenheiten drüberzurollen.
