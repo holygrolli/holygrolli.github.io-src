@@ -17,7 +17,7 @@ dateFormDateTime = "2006-01-02"
 imgurl = "https://imgs.networkchallenge.de"
 
 [[params.social]]
-  title = "google-plus-official"
+  title = "google-plus"
   url = "https://plus.google.com/+AndreasGroll"
 [[params.social]]
   title = "github"
