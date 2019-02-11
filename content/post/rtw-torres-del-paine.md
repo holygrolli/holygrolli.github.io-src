@@ -81,7 +81,7 @@ Auf dem Rückweg erwartete uns neben dem Regen noch ein weiterer Regenbogen:
 
 {{< postimg src="IMG_20190124_195412.jpg" alt="Regenbogen" title="Ein Regenbogen über dem Torres del Paine Nationalpark" w="3968" h="2976" >}}
 
-Insgesamt war das als erster Tag im Nationalpark schon beeindruckend. Da wir aber zum Zeitpunkt des Schreibens dieses Artikels schon andere Dinge gesehen haben, muss ich rückblickend festhalten, dass der Preis schon happig ist. Man könnte sich die 100€ sparen, wenn man mit dem _Perito Moreno_-Gletscher zufrieden ist. Mehr dazu in meinem Beitrag zu El Calafate.
+Insgesamt war das als erster Tag im Nationalpark schon beeindruckend. Da wir aber zum Zeitpunkt des Schreibens dieses Artikels schon andere Dinge gesehen haben, muss ich rückblickend festhalten, dass der Preis schon happig ist. Man könnte sich die 100€ sparen, wenn man mit dem _Perito Moreno_-Gletscher zufrieden ist. Mehr dazu in meinem Beitrag zu [El Calafate](/post/rtw-el-calafate/).
 
 Wie eingangs erwähnt wollten wir uns die langen Fahrten zwischen dem Nationalpark und Puerto Natales sparen. Somit fuhren wir nur wenige Kilometer bis zu dem kleinen Dorf [Pueblo Serrano](https://goo.gl/maps/sjwsYwbMLRD2) direkt vor den Toren des Nationalparks direkt am Ufer des Rio Serrano, was ein super Panorama bietet.
 
