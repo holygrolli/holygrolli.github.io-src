@@ -14,6 +14,7 @@ draft = false
 comments = true
 date = 2019-02-07T02:22:00-03:00
 title = "Torres del Paine, Patagonien"
+update = 2019-02-10T23:03:00-03:00
 +++
 
 Nach der sehr unbequemen Nacht am Flughafen von Santiago de Chile ging es erneut mit einem Flieger von Sky Airlines nach Punta Arenas in Patagonien. Diesmal war ich persönlich aber arg enttäuscht von Sky Airlines, denn im Vergleich zu unserem Flug aus dem Norden nach Santiago de Chile war dies eine neuere Maschine mit dem "trendy" Sitzabstand von Ryanair, wo meine Knie die Lehne vom Vordersitz berühren, obwohl ich den Hintern schon gegen meine Lehne drücke. Ebenso gibt es in dieser Konfiguration, wie bei Ryanair, keine Netze zur Ablage im Vordersitz. Low Budget lässt grüßen!
@@ -169,8 +170,10 @@ Das einzige Hotel in Cerro Castillo ist das [Hotel Estancia El Ovejero Patagóni
 
 Am vierten Tag war unser Ticket für den Torres del Paine-Nationalpark abgelaufen. Da wir uns den erneuten Eintritt sparen wollten, fuhren wir zum _Lago Armaga_, welcher sich kurz vor dem Parkeingang befindet. Hier sollte es einen Wanderweg zu _Laguna Azul_ geben, den wir nicht fanden. Es wurde uns aber auch gesagt, dass sich die meisten Grundstücke um den Park in Privatbesitz befinden, was dazu führt, dass so eine Wanderung eventuell zu Konflikten führen könnte. Wir wanderten daher ein wenig am See entlang und entschieden uns, früher den Rückweg nach Puerto Natales anzutreten. Dafür nahmen wir nicht die schnelle, direkte Route, sondern fuhren über die Y-200, eine Schotterpiste, entlang des _Lago el Toro_. Man sah nicht viel vom See, aber man konnte noch ein wenig die Landschaft genießen.
 
-## Fazit
+## Fazit und Tipps
 
 Kurz und knapp: der Torres del Paine-Nationalpark ist schon ein beeindruckender Einstieg in Patagonien. Wir denken beide, dass die leichten Wanderungen an Tag 2 und 3 genau das Richtige für Wandereinsteiger sind. Mit dem Wetter hatten wir, wie so oft, viel Glück. Nur einen Tag mussten wir das für Patagonien typische, windstarke Wetter ertragen. Überraschenderweise war trotz Hauptreisezeit nicht so viel los, wie ich erwartet hätte. Vielleicht zentrierten sich die Menschenmassen nur um die _Las Torres_ und die bekannten W- und O-Treks.
 
 Ebenso wichtig zu erwähnen ist, dass wir mit dem Mietwagen schon Glück hatten. Wir hätten uns bei Verfügbarkeit wohl für einen kleinen PKW entschieden. Nach dem Erlebnis der ungeteerten Straßen wäre mindestens ein kleiner SUV angebracht, wo ein wenig mehr Bodenfreiheit herrscht. Man kommt sicherlich auch ohne SUV oder Pickup aus, aber so ein Gefährt macht es einem schon leicht, über Unebenheiten drüberzurollen.
+
+Ebenso ist noch bei der Planung für einen Torres del Paine-Aufenthalt zu berücksichtigen, wie weit man plant, mit dem Auto zu fahren. Es gibt keine Tankstelle nördlich von Puerto Natales. In den vier Tagen sind wir insgesamt 525km gefahren und hatten genügend Puffer. Spannend war es aber trotzdem, da unser Toyota Hilux keine Verbrauchsanzeige hatte und wir nur eine Tankfüllung ab Übernahme zur Verbrauchsmessung hatten.
