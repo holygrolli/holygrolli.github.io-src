@@ -87,7 +87,7 @@ Auf dem Rückweg entschieden wir uns noch, den kleinen Wasserfall [Chorillo del 
 
 {{< postimg src="IMG_20190202_112021-01.jpeg" alt="Chorillo del Salto" w="3952" h="2960" >}}
 
-Danach ging es dann weiter in den Südosten in Richtung Atlantikküste.
+Danach ging es dann [weiter](/post/rtw-nach-feuerland/) in den Südosten in Richtung Atlantikküste.
 
 ## Fazit
 
