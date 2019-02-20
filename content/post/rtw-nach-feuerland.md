@@ -50,4 +50,4 @@ Am nächsten Morgen wollten wir dann zeitig los, da wir noch einmal 400km Weg, e
 
 Nach ungefähr 9 Stunden kamen wir dann in unserer Unterkunt in Río Grande an. Río Grande ist groß genug, um genügend Auswahl an Restaurants zu haben. Diesmal versuchten wir es mit Salat und Pizza, also ohne Fleisch, beim Italiener.
 
-Für den nächsten Tag stand dann eine Fahrt zur südlichsten Stadt Argentiniens auf dem Programmm. Mehr dazu auf einer weiteren Seite.
+Für den nächsten Tag stand dann eine Fahrt zur südlichsten Stadt Argentiniens auf dem Programmm. Mehr dazu auf einer [weiteren Seite](/post/rtw-feuerland/).
