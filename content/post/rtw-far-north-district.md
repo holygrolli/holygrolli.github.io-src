@@ -32,7 +32,7 @@ An einem wunderbar sonnigen Tag liehen wir uns ein Kayak (60NZD für 4h) aus, um
 
 {{< postimg src="IMG_20190220_155147.jpg" alt="Blick auf den 90 Mile Beach" w="3968" h="2976" >}}
 
-Am nächsten Tag machten wir eine fünfstündige Ausfahrt mit einem Boot in die Bay of Islands. Bei einem Preis von 110NZD (ca. 65€) pro Person war die Tour gerade noch angemessen. Die Preise in Neuseeland sind nun einfach gehoben. Bei den fünf Stunden der Tour hatten wir insgesamt aber zwei Guides, die auch immer wieder interessante Dinge über die Gegen erzählten. Die Aussicht auf einer der Inseln war dafür aber auch traumhaft, auch wenn wir wieder mit Wolken zu kämpfen hatten.
+Am nächsten Tag machten wir eine fünfstündige [Ausfahrt](https://www.seashuttleboi.co.nz/island-getaway-day-cruise) mit einem Boot in die Bay of Islands. Bei einem Preis von 110NZD (ca. 65€) pro Person war die Tour gerade noch angemessen. Die Preise in Neuseeland sind nun einfach gehoben. Bei den fünf Stunden der Tour hatten wir insgesamt aber zwei Guides, die auch immer wieder interessante Dinge über die Gegen erzählten. Die Aussicht auf einer der Inseln war dafür aber auch traumhaft, auch wenn wir wieder mit Wolken zu kämpfen hatten.
 
 {{< postimg src="IMG_20190221_112853-01.jpeg" alt="Aussicht von Motuarohia Island" w="3952" h="2960" >}}
 
