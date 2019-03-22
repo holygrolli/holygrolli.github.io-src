@@ -70,7 +70,7 @@ pipeline {
             }
             steps {
                 dir("src") {
-                    sh "HUGO_BASEURL=${BASEURL} hugo -d ../target"
+                    sh "HUGO_BASEURL=${BASEURL} hugo --environment development --cleanDestinationDir -d ../target"
                 }
                 dir("target"){
                     sh '''rm -rf /mnt/target/* | echo "nothing to delete"
