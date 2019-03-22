@@ -5,6 +5,7 @@ paginate = 10
 theme = "blomp"
 copyright = "Copyright © ChaosBlog 2018"
 disqusShortname = "thechaosblog"
+googleAnalytics = "UA-259583-6"
 
 [permalinks]
 post = "/post/:filename"
@@ -45,3 +46,4 @@ name = "Andreas Groll"
 [[params.authoren]]
 key = "katrin"
 name = "Katrin Seifert"
+
