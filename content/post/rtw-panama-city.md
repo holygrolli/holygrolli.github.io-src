@@ -1,20 +1,17 @@
-+++
-tags = [
-    "essen",
-    "rtw",
-    "panama"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181031_122337.jpg"
-#coverimage = "IMG_20181031_.jpg"
-description = "2 Tage in der Hauptstadt Panamas"
-draft = false
-comments = true
-date = 2018-11-04T06:36:56-05:00
-title = "Panama City"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-11-04T06:36:56-05:00"
+description: 2 Tage in der Hauptstadt Panamas
+draft: false
+image: IMG_20181031_122337.jpg
+tags:
+- essen
+- rtw
+- panama
+title: Panama City
+---
 Tag 3 und 4 sind nun vergangen und wir haben uns Panama City angeschaut. Dabei haben wir die sogenannte grüne Lunge der Stadt besucht, etwas im größten Shopping Center Amerikas gegessen, der Altstadt einen Besuch abgestattet und viel Ceviche gegessen.
 
 ## Parque Natural Metropolitano

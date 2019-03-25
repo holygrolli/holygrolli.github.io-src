@@ -1,20 +1,18 @@
-+++
-tags = [
-    "rtw",
-    "paihia",
-    "neuseeland"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190220_153602.jpg"
-coverimage = "IMG_20190221_112853-01.jpeg"
-description = "Ankunft in Neuseeland und Besuch des nördlichsten Punkts des Festlands."
-draft = false
-comments = true
-date = 2019-03-03T14:16:03+13:00
-title = "Far North District, Neuseeland"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190221_112853-01.jpeg
+date: "2019-03-03T14:16:03+13:00"
+description: Ankunft in Neuseeland und Besuch des nördlichsten Punkts des Festlands.
+draft: false
+image: IMG_20190220_153602.jpg
+tags:
+- rtw
+- paihia
+- neuseeland
+title: Far North District, Neuseeland
+---
 
 Unser Flug von Buenos Aires nach Auckland war einer der angenehmsten Langstreckenflüge überhaupt. Air New Zealand hatte echt einen tollen Service, einhergehend mit wirklich sehr guter Verpflegung. Hier gab es auch (mehrere) wunderbare, würzig-scharfe Tomatensäfte (eigentlich ein Bloody Mary ohne Alkohol). Auch konnte man bei dem Nachtflug wunderbar in der Boeing 777 schlafen, obwohl ich doch eher ein A380-Fan bin. Nachdem wir also Freitagabend losgeflogen und Sonntag früh gelandet sind, holten wir unseren Mietwagen am Flughafen Auckland ab, um drei Wochen die Nordinsel erkunden zu können.
 

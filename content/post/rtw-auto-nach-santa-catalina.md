@@ -1,20 +1,16 @@
-+++
-tags = [
-    "essen",
-    "rtw",
-    "panama"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Der Panama-Kanal und die Fahrt nach Santa Catalina im Südwesten von Panama"
-draft = false
-comments = true
-date = 2018-11-07T02:50:08-05:00
-title = "Mit dem Auto nach Santa Catalina"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-11-07T02:50:08-05:00"
+description: Der Panama-Kanal und die Fahrt nach Santa Catalina im Südwesten von Panama
+draft: false
+tags:
+- essen
+- rtw
+- panama
+title: Mit dem Auto nach Santa Catalina
+---
 
 Der fünfte Tag sollte wieder ein Reisetag werden. Ziel war Santa Catalina in der Region Veraguas im Südwesten Panamas. Mit dem Auto war die Reisezeit von Panama City mit ca. 5h 30m angegeben. Kurz nach Panama City war noch der Panama-Kanal auf der Agenda.
 

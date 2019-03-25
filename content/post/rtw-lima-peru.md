@@ -1,20 +1,16 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "lima"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Fast drei Tage in Lima, der Hauptstadt von Peru, inklusive Kochkurs"
-draft = false
-comments = true
-date = 2018-12-07T23:30:30-05:00
-title = "Lima, Peru"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-07T23:30:30-05:00"
+description: Fast drei Tage in Lima, der Hauptstadt von Peru, inklusive Kochkurs
+draft: false
+tags:
+- rtw
+- peru
+- lima
+title: Lima, Peru
+---
 
 Am 22. Tag unserer Weltreise mussten wir den Galapagosinseln "Auf Wiedersehen!" sagen und flogen mit kurzem Aufenthalt in Guayaquil weiter nach Lima. Allerdings hätten wir beinahe unseren Anschlussflug verpasst, da wir in Guayaquil am Inlandsflug-Bereich ankamen und ein Transitbereich, was auf uns zutraf, explizit ausgeschildert war. Dort haben wir gewartet und etwas gegessen, bis wir irgendwann mitbekommen haben, dass von dem Bereich nur Flüge nach Lima gehen, aber nicht in die Nachbarländer. Immerhin hatten wir das eine Stunde vor Abflug bemerkt und konnten den Sicherheitsbereich noch einmal verlassen, nur um dann auf der anderen Seite wieder den Sicherheitsbereich für Auslandsflüge zu betreten und noch einmal eine Sicherheitskontrolle über uns ergehen zu lassen. Das ging zum Glück recht problemlos über die Bühne.
 

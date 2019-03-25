@@ -1,21 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "chile",
-    "valparaiso",
-    "santiago"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190120_212337.jpg"
-coverimage = "IMG_20190120_160706.jpg"
-description = "Ein weiteres UNESCO Welterbe auf unserer Reiseliste"
-draft = false
-comments = true
-date = 2019-01-23T01:29:12-03:00
-title = "Valparaíso, Chile"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190120_160706.jpg
+date: "2019-01-23T01:29:12-03:00"
+description: Ein weiteres UNESCO Welterbe auf unserer Reiseliste
+draft: false
+image: IMG_20190120_212337.jpg
+tags:
+- rtw
+- chile
+- valparaiso
+- santiago
+title: Valparaíso, Chile
+---
 
 Nach unserem Besuch von [Santiago de Chile](/post/rtw-santiago-de-chile/) stand ein weiteres, berühmtes Ziel auf dem Programm. Zwei Stunden westlich von Santiago liegt die Küstenstadt _Valparaíso_, mit dem Urlaubsort _Viña del Mar_ zusammen der zweitgrößte Ballungsraum Chiles.
 

@@ -1,9 +1,9 @@
-+++
-date = "2018-05-21T00:00:00+02:00"
-title = "Datenschutz&shy;erklärung"
-draft = false
-type = "about"
-+++
+---
+date: "2018-05-21T00:00:00+02:00"
+draft: false
+title: Datenschutz&shy;erklärung
+type: about
+---
 
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google"). Die Benutzung erfolgt auf der Grundlage des Art. 6 Abs. 1 S. 1 lit. f. DSGVO. Google Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung der Webseite wie
 

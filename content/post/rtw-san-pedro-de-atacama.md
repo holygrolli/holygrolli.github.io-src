@@ -1,20 +1,18 @@
-+++
-tags = [
-    "rtw",
-    "chile",
-    "sanpedro"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190110_161600.jpg"
-coverimage = "IMG_20190110_200542-02.jpeg"
-description = "Die ersten Tage in Chile verbrachten wir in der Atacamawüste"
-draft = false
-comments = true
-date = 2019-01-20T14:11:48-03:00
-title = "San Pedro de Atacama, Chile"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190110_200542-02.jpeg
+date: "2019-01-20T14:11:48-03:00"
+description: Die ersten Tage in Chile verbrachten wir in der Atacamawüste
+draft: false
+image: IMG_20190110_161600.jpg
+tags:
+- rtw
+- chile
+- sanpedro
+title: San Pedro de Atacama, Chile
+---
 
 Als wir am 71. Tag unserer Weltreise in San Pedro de Atacama ankamen, mussten wir uns erst einmal ein wenig erholen. Seit Uyuni hatten wir mit Magen-Darm-Problemen zu kämpfen, wir vermuten es waren weniger gute Spaghetti Carbonara ...
 

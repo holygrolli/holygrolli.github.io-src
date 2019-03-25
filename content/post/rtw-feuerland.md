@@ -1,22 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "feuerland",
-    "patagonien",
-    "chile",
-    "argentinien"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190204_162404.jpg"
-coverimage = "IMG_20190204_115611-01.jpeg"
-description = "Überragendes Wetter beim Besuch von Feuerland mit tierischen Überraschungen"
-draft = false
-comments = true
-date = 2019-02-18T21:37:39+13:00
-title = "Feuerland, Patagonien"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190204_115611-01.jpeg
+date: "2019-02-18T21:37:39+13:00"
+description: Überragendes Wetter beim Besuch von Feuerland mit tierischen Überraschungen
+draft: false
+image: IMG_20190204_162404.jpg
+tags:
+- rtw
+- feuerland
+- patagonien
+- chile
+- argentinien
+title: Feuerland, Patagonien
+---
 
 ## Ab in den Süden
 

@@ -1,21 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "machu picchu",
-    "alpaka"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181127_111424.jpg"
-coverimage = "IMG_20181127_134551.jpg"
-description = "Zwei erlebnisreiche Tage für An- und Abreise und den Besuch des Machu Picchu"
-draft = false
-comments = true
-date = 2018-12-18T18:43:06-04:00
-title = "Aguas Calientes und Machu Picchu"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20181127_134551.jpg
+date: "2018-12-18T18:43:06-04:00"
+description: Zwei erlebnisreiche Tage für An- und Abreise und den Besuch des Machu
+  Picchu
+draft: false
+image: IMG_20181127_111424.jpg
+tags:
+- rtw
+- peru
+- machu picchu
+- alpaka
+title: Aguas Calientes und Machu Picchu
+---
 
 Auch der 29. Tag der Weltreise begann wieder vor 5 Uhr morgens. Um 6 Uhr hatten wir mit unserem AirBnB-Gastgeber eine Abholung mit dem Taxi vereinbart, um zum Bahnhof in Poroy gebracht zu werden. Um 07:35 Uhr sollte unser Zug in Richtung Aguas Calientes gehen. Die Empfehlung für den Check-In war 07:05 Uhr, vorher mussten wir noch die Zugtickets am Schalter holen. Die Fahrtzeit war mit circa 40 Minuten bis Poroy veranschlagt, also hatten wir noch ein wenig Puffer. Das war auch gut so, denn das vereinbarte Taxi kam bis 06:15 Uhr nicht. Wir suchten uns also spontan auf der Straße ein Taxi und hatten Glück, dass wir Ricardo als Taxifahrer erwischten, er sollte uns die nächsten Tage immer wieder bei Ausflügen begleiten. Ebenso toll war, dass Ricardo uns die vierzigminütige Taxifahrt für 30 Soles (weniger als 8 €) anbot, unser AirBnB-Abzocker wollte mit 60 Soles das Doppelte. Trotz der Verspätung erreichten wir den Bahnhof noch ausreichend pünktlich.
 

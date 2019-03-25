@@ -1,11 +1,13 @@
-+++
-date = "2017-12-29T13:18:51+05:30"
-categories = ["tech"]
-tags = ["hugo"]
-title = "Hugo auf einem Android Tablet"
-comments = true
-description = "Challenge: den Blog auf Reisen aktualisieren - nur mit einem Android-Device"
-+++
+---
+categories:
+- tech
+comments: true
+date: "2017-12-29T13:18:51+05:30"
+description: 'Challenge: den Blog auf Reisen aktualisieren - nur mit einem Android-Device'
+tags:
+- hugo
+title: Hugo auf einem Android Tablet
+---
 
 Gerade beginnt Woche 3 in Sri Lanka und während wir auf unseren Fahrer warten habe ich 2 Stunden Zeit zum Basteln. 
 Durch Zufall bin ich gestern auf die Android-App _termux_ gestoßen. Damit bekommt man eine minimale Linuxinstallation auf sein Gerät 

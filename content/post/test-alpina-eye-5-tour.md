@@ -1,19 +1,16 @@
-+++
-tags = [
-    "test",
-    "rtw"
-    ]
-categories = [
-    "allgemein"
-]
-#image = "home-bg.jpg"
-#coverimage = "some.jpg"
-description = "Die Sportbrille Alpina Eye-5 Tour VLM+ für 5 Monate im Einsatz - die enttäuschende Erfahrung"
-draft = false
-comments = true
-date = 2018-12-25T11:54:59-04:00
-title = "Alpina Eye-5 Tour im Langzeittest"
-+++
+---
+categories:
+- allgemein
+comments: true
+date: "2018-12-25T11:54:59-04:00"
+description: Die Sportbrille Alpina Eye-5 Tour VLM+ für 5 Monate im Einsatz - die
+  enttäuschende Erfahrung
+draft: false
+tags:
+- test
+- rtw
+title: Alpina Eye-5 Tour im Langzeittest
+---
 
 Am 10. Juli 2018 bestellte ich mir neben einer _Alpina Twist Five HR VL_ auch eine _Alpina Eye-5 Tour VLM+_. Zuvor habe ich jahrelang immer völlig zufrieden eine _Oakley Half Jacket 2.0 XL_ getragen. Die Oakley hat perfekt gepasst und harmonierte optisch auch perfekt mit meiner Kopfform. Da die Scheiben leider sehr empfindlich für Kratzer waren, habe ich über die Jahre insgesamt zweimal das Oakley-Gestell erworben und mit insgesamt drei oder vier Sets an Scheiben gelebt. Für die [Weltreise](/rtw/) dachte ich mir, teste ich vielleicht etwas vielseitigeres.
 

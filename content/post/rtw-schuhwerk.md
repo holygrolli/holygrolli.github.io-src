@@ -1,19 +1,16 @@
-+++
-tags = [
-    "rtw",
-    "vivobarefoot"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-coverimage = "IMG_20180930_175226392.jpg"
-description = "9 Monate Weltreise - barfuß!"
-draft = false
-comments = true
-date = 2018-10-21T14:57:53+02:00
-title = "Das passende Schuhwerk"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20180930_175226392.jpg
+date: "2018-10-21T14:57:53+02:00"
+description: 9 Monate Weltreise - barfuß!
+draft: false
+tags:
+- rtw
+- vivobarefoot
+title: Das passende Schuhwerk
+---
 
 Barfuß um die Welt, das klingt nach einem super Motto. Dies klingt aber weit dramatischer, als es eigentlich ist. Allerdings hatte ich die Wahl: Bergstiefel mit 821 Gramm pro Fuß oder Wanderstiefel meiner Lieblingsbarfußschuhmarke _Vivobarefoot_ mit minimal 511 Gramm.
 

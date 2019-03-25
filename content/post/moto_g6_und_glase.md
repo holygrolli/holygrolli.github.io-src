@@ -1,18 +1,15 @@
-+++
-date = "2018-08-28T20:02:00+02:00"
-title = "Kontaktloses Bezahlen mit dem Moto G6"
-tags = [
-    "handy",
-    "payment"]
-categories = [
-    "tech"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Das Motorola G6 ist nun endlich Mastercard approved"
-draft = false
-comments = true
-+++
+---
+categories:
+- tech
+comments: true
+date: "2018-08-28T20:02:00+02:00"
+description: Das Motorola G6 ist nun endlich Mastercard approved
+draft: false
+tags:
+- handy
+- payment
+title: Kontaktloses Bezahlen mit dem Moto G6
+---
 
 Völlig überrascht war ich, als ich am Wochenende mal wieder mein "neues" Motorolola G6 prüfte, ob es endlich Zahlungen mit Glase (ehemals [Seqr](https://www.seqr.com/de/)) leisten kann.
 

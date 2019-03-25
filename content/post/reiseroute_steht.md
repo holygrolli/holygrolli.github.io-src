@@ -1,18 +1,15 @@
-+++
-tags = [
-    "rtw"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Nach langer Optimierung steht nun endlich die komplette Route für die Weltreise fest."
-draft = false
-comments = true
-date = 2018-09-23T09:31:28+02:00
-title = "Die Reiseroute steht fest"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-09-23T09:31:28+02:00"
+description: Nach langer Optimierung steht nun endlich die komplette Route für die
+  Weltreise fest.
+draft: false
+tags:
+- rtw
+title: Die Reiseroute steht fest
+---
 
 Nach wochenlangen Recherchen haben wir uns nun für eine Reiseroute entschieden. Der Weg führt uns direkt aus Leipzig über Frankfurt nach Panama. Da die meisten Flüge der Lufthansa nach Südamerika entweder über Panama City oder Bogota führen, haben wir uns entschieden, einfach noch einen Zwischenstopp in Panama einzulegen.
 

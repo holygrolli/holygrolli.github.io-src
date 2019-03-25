@@ -1,21 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "bolivien",
-    "copacabana",
-    "alpaka"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181220_191634-02.jpeg"
-coverimage = "IMG_20181220_191634-02.jpeg"
-description = "Fahrt nach Bolivien und Entspannen in Copacabana"
-draft = false
-comments = true
-date = 2018-12-24T15:31:33-04:00
-title = "Copacabana, Bolivien"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20181220_191634-02.jpeg
+date: "2018-12-24T15:31:33-04:00"
+description: Fahrt nach Bolivien und Entspannen in Copacabana
+draft: false
+image: IMG_20181220_191634-02.jpeg
+tags:
+- rtw
+- bolivien
+- copacabana
+- alpaka
+title: Copacabana, Bolivien
+---
 
 Am 49. Tag haben wir halb Neun Puno mit dem Bus verlassen, um weiter in Richtung Bolivien zu reisen. Gegen 11 Uhr waren wir an der Grenze zu Bolivien. Jetzt mussten wir alle mitsamt dem Gepäck den Bus verlassen, denn der Bus durfte nicht über die Grenze, genausowenig wie die peruanischen Begleiter. Wir mussten natürlich offiziell aus Peru ausreisen. Daher ging es zuerst ins Büro für die Ausreise, ein einfaches Häuschen direkt neben Straße. 
 

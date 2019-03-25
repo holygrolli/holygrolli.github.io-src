@@ -1,20 +1,16 @@
-+++
-tags = [
-    "rtw",
-    "ecuador",
-    "galapagos"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Wie kommt man nach Galapagos und was kostet es"
-draft = false
-comments = true
-date = 2018-11-12T21:39:35-06:00
-title = "Anreise auf die Galapagosinseln"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-11-12T21:39:35-06:00"
+description: Wie kommt man nach Galapagos und was kostet es
+draft: false
+tags:
+- rtw
+- ecuador
+- galapagos
+title: Anreise auf die Galapagosinseln
+---
 
 Nach unserem kurzen Aufenthalt in Panama sollte unser nächstes Ziel die Galapagosinseln sein. Ursprünglich standen sie nicht mit auf unserem Weltreiseprogramm. Erst ein Arbeitskollege (Gruß an Martin!) machte mich darauf aufmerksam. Ich war zuvor immer davon ausgegangen, dass die Galapagosinseln aus Naturschutzgründen überhaupt nicht touristisch erschlossen sind. Dies ist aber (leider) nicht so.
 

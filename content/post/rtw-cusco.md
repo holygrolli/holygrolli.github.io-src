@@ -1,21 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "cusco",
-    "alpaka"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181128_123326.jpg"
-#coverimage = "some.jpg"
-description = "17 Nächte in Cusco, DER Stadt zum Entspannen, Entdecken oder kreativ sein"
-draft = false
-comments = true
-date = 2018-12-20T17:00:00-04:00
-title = "Cusco, Peru"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-20T17:00:00-04:00"
+description: 17 Nächte in Cusco, DER Stadt zum Entspannen, Entdecken oder kreativ
+  sein
+draft: false
+image: IMG_20181128_123326.jpg
+tags:
+- rtw
+- peru
+- cusco
+- alpaka
+title: Cusco, Peru
+---
 
 Sage und schreibe 17 Nächte verbrachten wir in Cusco. Allerdings muss man ein klein wenig relativieren, denn davon verbrachten wir eine Nacht auswärts, während unserer Tour zum [Machu Picchu]({{< ref "rtw-machu-picchu.md" >}}). Generell hatten wir davon zu dritt mit Thomas nur vier Tage. Nach dem Stress mit ständigem Aufstehen von 6 Uhr und der Weiterfahrt am nächsten Tag wollten wir uns noch ein paar mehr Tage Entschleunigung gönnen. Mit dem Ergebnis, dass wir nach unserer AirBnB-Wohnung noch eine weitere Unterkunft per booking.com buchten und diese dann schrittweise weiter verlängerten, weil Cusco einfach traumhaft war.
 

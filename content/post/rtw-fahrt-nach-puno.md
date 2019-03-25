@@ -1,21 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "cusco",
-    "puno"
-    ]
-categories = [
-    "reise"
-]
-#image = "home-bg.jpg"
-#coverimage = "some.jpg"
-description = "Verabschiedung von Cusco und Fahrt zu neuen Abenteuern"
-draft = false
-comments = true
-date = 2018-12-22T19:04:15-04:00
-title = "Fahrt nach Puno am Titicaca-See"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-22T19:04:15-04:00"
+description: Verabschiedung von Cusco und Fahrt zu neuen Abenteuern
+draft: false
+tags:
+- rtw
+- peru
+- cusco
+- puno
+title: Fahrt nach Puno am Titicaca-See
+---
 
 Nach unserer [letzten]({{< ref "rtw-cusco-tour-4.md" >}}) Tagestour hatten wir noch zwei volle Tage, um in Cusco auszuspannen bzw. noch ein [Museum]({{< ref "rtw-cusco.md" >}}) zu besuchen. Dann hieß es aber endgültig Abschied nehmen, denn Südamerika hat noch eine Menge zu bieten, auch wenn ich persönlich nicht glaube, dass es irgendwo besser sein kann, als in Cusco. Aber wir haben ja noch ein paar Monate vor uns, die mich eines Besseren belehren können.
 

@@ -1,22 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "bolivien",
-    "uyuni",
-    "drohne",
-    "mavic"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190105_172554.jpg"
-coverimage = "DJI_1546714844000.jpg"
-description = "Besuch der größten Salzwüste der Welt"
-draft = false
-comments = true
-date = 2019-01-14T11:04:45-03:00
-title = "Salar de Uyuni"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: DJI_1546714844000.jpg
+date: "2019-01-14T11:04:45-03:00"
+description: Besuch der größten Salzwüste der Welt
+draft: false
+image: IMG_20190105_172554.jpg
+tags:
+- rtw
+- bolivien
+- uyuni
+- drohne
+- mavic
+title: Salar de Uyuni
+---
 
 ## Wahl des Anbieters 
 

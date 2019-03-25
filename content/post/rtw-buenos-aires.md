@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "buenos aires",
-    "argentinien"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190215_122958.jpg"
-#coverimage = "some.jpg"
-description = "Fünf Tage zu Besuch in der Stadt des Tangos"
-draft = false
-comments = true
-date = 2019-02-28T08:40:53+13:00
-title = "Buenos Aires, Argentinien"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2019-02-28T08:40:53+13:00"
+description: Fünf Tage zu Besuch in der Stadt des Tangos
+draft: false
+image: IMG_20190215_122958.jpg
+tags:
+- rtw
+- buenos aires
+- argentinien
+title: Buenos Aires, Argentinien
+---
 
 Nach dem Dschungel in [Puerto Iguazú](/post/rtw-iguazu/) stand zum Abschluss von Südamerika noch ein Aufenthalt in Buenos Aires auf dem Programm. Die Tage haben wir eher entspannt verbracht: Ausschlafen, _Haus des Geldes_ auf Netflix zu Ende schauen und natürlich ein wenig die Stadt anschauen.
 

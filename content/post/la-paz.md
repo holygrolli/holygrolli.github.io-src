@@ -1,20 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "bolivien",
-    "la paz"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190102_143646-01.jpeg"
-coverimage = "IMG_20190101_141015.jpg"
-description = "Über Silvester in La Paz: Besuch des Hexenmarkts, Stadtrundgang, Street Art und kulinarische Empfehlungen"
-draft = false
-comments = true
-date = 2019-01-09T10:18:00-03:00
-title = "La Paz, Bolivien"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190101_141015.jpg
+date: "2019-01-09T10:18:00-03:00"
+description: 'Über Silvester in La Paz: Besuch des Hexenmarkts, Stadtrundgang, Street
+  Art und kulinarische Empfehlungen'
+draft: false
+image: IMG_20190102_143646-01.jpeg
+tags:
+- rtw
+- bolivien
+- la paz
+title: La Paz, Bolivien
+---
 
 ## Hexenmarkt
 

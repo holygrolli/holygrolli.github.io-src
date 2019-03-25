@@ -1,22 +1,18 @@
-+++
-tags = [
-    "rtw",
-    "rio gallegos",
-    "feuerland",
-    "patagonien",
-    "argentinien"
-    ]
-categories = [
-    "reise"
-]
-#image = "home-bg.jpg"
-#coverimage = "some.jpg"
-description = "Von El Chaltén bis in den südöstlichen Teil Patagoniens: Feuerland"
-draft = false
-comments = true
-date = 2019-02-18T07:03:33+13:00
-title = "Der Weg nach Feuerland"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2019-02-18T07:03:33+13:00"
+description: 'Von El Chaltén bis in den südöstlichen Teil Patagoniens: Feuerland'
+draft: false
+tags:
+- rtw
+- rio gallegos
+- feuerland
+- patagonien
+- argentinien
+title: Der Weg nach Feuerland
+---
 
 Um unsere Patagionenrundreise zu komplettieren wollten wir noch Feuerland ansteuern, wo es auch freilebende Königspinguine geben sollte. Daher mussten wir nach unserem [Aufenthalt in El Chaltén](/post/rtw-el-chalten/) noch ganz in den Südosten von Patagonien fahren. Dafür planten wir einen Zwischenstopp an der Atlantikküste Patagoniens ein. _Río Gallegos_ ist dabei Mittel zum Zweck und bietet auch als Provinzhauptstadt genügend Übernachtungsmöglichkeiten. Nach unserem morgendlichen Ausflug in El Chaltén ging es dann über 450km auf asphaltierten Straßen nach Río Gallegos mit den Bergen im Rücken:
 

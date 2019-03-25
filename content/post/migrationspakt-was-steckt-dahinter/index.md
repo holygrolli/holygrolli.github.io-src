@@ -1,19 +1,15 @@
-+++
-tags = [
-    "gastbeitrag",
-    "politik"
-    ]
-categories = [
-    "allgemein"
-]
-#image = "home-bg.jpg"
-#coverimage = "some.jpg"
-description = "Was steckt dahinter?"
-draft = false
-comments = true
-date = 2019-01-08T12:48:47-03:00
-title = "Der Globale Pakt für sichere, geordnete und reguläre Migration"
-+++
+---
+categories:
+- allgemein
+comments: true
+date: "2019-01-08T12:48:47-03:00"
+description: Was steckt dahinter?
+draft: false
+tags:
+- gastbeitrag
+- politik
+title: Der Globale Pakt für sichere, geordnete und reguläre Migration
+---
 
 Im neuen Jahr 2019 eröffne ich die Blogrunde mit einer Art Gastbeitrag. Katrin hat sich mit dem unfangreichen Thema des heiß diskutierten Globalen Migrationspakts der Vereinten Nationen beschäftigt. Da das Thema nur schwer in einen Blogbeitrag passt, gibt es hier den Artikel in Form eines PDF-Gastbeitrags.
 

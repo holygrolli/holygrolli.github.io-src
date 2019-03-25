@@ -1,22 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "nazca",
-    "arequipa",
-    "alpaka"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181123_174348.jpg"
-#coverimage = "some.jpg"
-description = "Von Huacachina nach Arequipa, mit Stopps in einem Weingut und in Nazca"
-draft = false
-comments = true
-date = 2018-12-17T17:30:00-04:00
-title = "Fahrt nach Arequipa"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-17T17:30:00-04:00"
+description: Von Huacachina nach Arequipa, mit Stopps in einem Weingut und in Nazca
+draft: false
+image: IMG_20181123_174348.jpg
+tags:
+- rtw
+- peru
+- nazca
+- arequipa
+- alpaka
+title: Fahrt nach Arequipa
+---
 
 Nach unserem Zwischenstopp in der Wüstenlagune Huacachina ging es am 26. Tag der Weltreise nach Arequipa, der sogenannten "weißen Stadt". Arequipa liegt dabei weit im Süden von Peru und ist mit seinen fast ein Millionen Einwohnern die größte Stadt in Südperu. Das bedeutete für uns auch, dass wir ab 13 Uhr mit unserem Bus knapp 600 Kilometer vor uns hatten und dabei eine Nacht im Bus verbringen durften. Damit die Fahrt dahin nicht ganz so lang ist, wurden insgesamt drei Zwischenstopps eingebaut.
 

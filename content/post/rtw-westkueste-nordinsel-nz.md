@@ -1,22 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "westküste",
-    "neuseeland",
-    "mavic",
-    "drohne"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190307_142429.jpg"
-coverimage = "rtw-DJI_0172.jpeg"
-description = "Natur und Entspannen entlang der Westküste auf der Nordinsel von Neuseeland"
-draft = false
-comments = true
-date = 2019-03-14T14:41:46+13:00
-title = "Die Westküste der Nordinsel von Neuseeland"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: rtw-DJI_0172.jpeg
+date: "2019-03-14T14:41:46+13:00"
+description: Natur und Entspannen entlang der Westküste auf der Nordinsel von Neuseeland
+draft: false
+image: IMG_20190307_142429.jpg
+tags:
+- rtw
+- westküste
+- neuseeland
+- mavic
+- drohne
+title: Die Westküste der Nordinsel von Neuseeland
+---
 
 Nach dem Besuch von [Mittelerde](/post/rtw-rotorua-matamata/) hatten wir überlegt noch weiter südlich an den _Lake Taupo_ zu fahren, allerdigs fanden wir nur relativ teure Unterkünfte und wir fragten uns auch, ob wir noch einen weiteren See sehen wollten, wenn Neuseeland doch so schöne Küsten vorzuweisen hat. Daher entschieden wir uns doch spontan, an die Westküste zu fahren. Das Ziel war _Raglan_, westlich von Hamilton, welches für seine tollen Surfstrände bekannt ist.
 

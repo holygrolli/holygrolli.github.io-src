@@ -1,21 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "bolivien",
-    "uyuni",
-    "sanpedro"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190106_175416.jpg"
-coverimage = "IMG_20190107_081453-01.jpeg"
-description = "Teil 2 unserer Mehrtagestour geht durch die Hochebene bis nach Chile fernab von Straßen hoch auf 5000m"
-draft = false
-comments = true
-date = 2019-01-15T09:46:46-03:00
-title = "Uyuni nach San Pedro de Atacama"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190107_081453-01.jpeg
+date: "2019-01-15T09:46:46-03:00"
+description: Teil 2 unserer Mehrtagestour geht durch die Hochebene bis nach Chile
+  fernab von Straßen hoch auf 5000m
+draft: false
+image: IMG_20190106_175416.jpg
+tags:
+- rtw
+- bolivien
+- uyuni
+- sanpedro
+title: Uyuni nach San Pedro de Atacama
+---
 
 Nachdem ich in [Teil 1](/post/rtw-salar-de-uyuni/) über die größte Salzwüste der Welt und den finanziellen Teil der Tour berichtet habe geht es nun weiter in den Süden von Bolivien.
 

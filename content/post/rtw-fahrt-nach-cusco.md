@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "cusco"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181125_102315-01.jpeg"
-#coverimage = "some.jpg"
-description = "Von Arequipa durch das Hochland in die Inkahauptstadt Cusco"
-draft = false
-comments = true
-date = 2018-12-18T14:00:13-04:00
-title = "500km durch die Anden nach Cusco"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-18T14:00:13-04:00"
+description: Von Arequipa durch das Hochland in die Inkahauptstadt Cusco
+draft: false
+image: IMG_20181125_102315-01.jpeg
+tags:
+- rtw
+- peru
+- cusco
+title: 500km durch die Anden nach Cusco
+---
 
 Der 28. Tag der Weltreise begann wieder sehr früh. Unser Bus ging ab 6 Uhr weiter in Richtung Cusco. Arequipa ist von großen Bergen und direkt einem Vulkan umgeben. Aus der Stadt heraus ging es also direkt in die Berge, direkt durch die Vororte, die interessant, aber sicher nicht schön anzuschauen sind.
 

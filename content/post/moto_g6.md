@@ -1,11 +1,14 @@
-+++
-date = "2018-05-27T14:52:00+02:00"
-categories = ["tech"]
-tags = ["Fotos", "Handy"]
-title = "Moto G6 - ein kurzer (Foto-) Erfahrungsbericht"
-comments = true
-description = "Umstieg vom Moto G5 Plus auf Moto G6"
-+++
+---
+categories:
+- tech
+comments: true
+date: "2018-05-27T14:52:00+02:00"
+description: Umstieg vom Moto G5 Plus auf Moto G6
+tags:
+- Fotos
+- Handy
+title: Moto G6 - ein kurzer (Foto-) Erfahrungsbericht
+---
 
 Nach über einem Jahr mit meinem Motorola G5 Plus, welches ich schon (erfolgreich) an mehrere Verwandte und Bekannte empfohlen habe, habe ich auf den Erscheinungstermin des Moto G6 in der Special Edition bei [Amazon][amazonG6] gewartet. Special Edition deshalb, weil die Version mit 4 GB RAM und 64 GB Speicher exklusiv bei Amazon verkauft wird, und das für nur 40 Euro mehr.
 

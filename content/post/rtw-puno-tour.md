@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "puno"
-    ]
-categories = [
-    "reise"
-]
-#image = "home-bg.jpg"
-#coverimage = "some.jpg"
-description = "Ausflug zu den schwimmenden Inseln der Uros, Übernachtung auf Amantani und Rückweg über Taquile"
-draft = false
-comments = true
-date = 2018-12-23T17:57:47-04:00
-title = "Zwei Tage auf dem Titicacasee"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-23T17:57:47-04:00"
+description: Ausflug zu den schwimmenden Inseln der Uros, Übernachtung auf Amantani
+  und Rückweg über Taquile
+draft: false
+tags:
+- rtw
+- peru
+- puno
+title: Zwei Tage auf dem Titicacasee
+---
 
 Von Puno aus ging es am 47. Tag der Weltreise mit dem Boot raus auf den Titicacasee. Der erste Stopp der Tour war circa 5km vor Puno bei den Uros, einem Volk welches auf insgesamt 49 schwimmenden Inseln lebt. Die Inseln sind aus dem Totora-Schilf gebaut und werden dort im See an Pfählen festgemacht. Weiterhin ist eigentlich alles dort aus dem Schilf gebaut, nicht nur Boote sondern auch die Häuser oder auch die Betten.
 

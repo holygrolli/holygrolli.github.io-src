@@ -1,22 +1,19 @@
-+++
-tags = [
-    "essen",
-    "mavic",
-    "rtw",
-    "panama"
-    ]
-categories = [
-    "vonoben",
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-coverimage = "IMG_20181104_163759.jpg"
-description = "Drei Nächte im Surfparadies von Panama"
-draft = false
-comments = true
-date = 2018-11-11T21:26:50-06:00
-title = "Santa Catalina, Panama"
-+++
+---
+categories:
+- vonoben
+- reise
+comments: true
+coverimage: IMG_20181104_163759.jpg
+date: "2018-11-11T21:26:50-06:00"
+description: Drei Nächte im Surfparadies von Panama
+draft: false
+tags:
+- essen
+- mavic
+- rtw
+- panama
+title: Santa Catalina, Panama
+---
 
 Nachdem wir die abenteuerliche Autofahrt überstanden hatten, konnten wir uns auf drei Strandtage freuen. Mir wurde von Arbeitskollegen (Gruß an Helge und Sascha!) empfohlen, das Schnorchelparadies Coiba nicht zu verpassen. Aufgrund unserer doch recht knappen Zeit und der Tatsache, dass uns unser nächster Stopp nach Galapagos führen wird, haben wir darauf verzichtet pro Richtung knapp 90 bis 120 Minuten in einer kleinen Nussschale zu sitzen. Wir haben uns voll und ganz auf den Strand konzentriert.
 

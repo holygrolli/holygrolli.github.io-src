@@ -1,21 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "cusco",
-    "alpaka"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181209_110616.jpg"
-coverimage = "IMG_20181209_110450.jpg"
-description = "Tagestour nach Pisac im Norden von Cusco - Ruinen und Marktbesuch"
-draft = false
-comments = true
-date = 2018-12-22T18:12:43-04:00
-title = "Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 4"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20181209_110450.jpg
+date: "2018-12-22T18:12:43-04:00"
+description: Tagestour nach Pisac im Norden von Cusco - Ruinen und Marktbesuch
+draft: false
+image: IMG_20181209_110616.jpg
+tags:
+- rtw
+- peru
+- cusco
+- alpaka
+title: Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 4
+---
 
 Am 9. Dezember machten wir unsere letzte Tagestour ins Umland von Cusco. Diesmal starteten wir ein bisschen später, da unser Taxifahrer Ricardo an diesem Sonntag noch wählen gehen durfte. Allerdings erklärte er uns auf der Fahrt, dass es eine Art Wahlpflicht gibt, denn Nichtwähler müssen eine "Strafe" zahlen.
 

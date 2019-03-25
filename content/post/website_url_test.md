@@ -1,17 +1,14 @@
-+++
-date = "2018-08-19T13:27:00+02:00"
-title = "URLs einer Website testen"
-tags = [
-    "devops"]
-categories = [
-    "tech"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Resourcen einer Website auf der Console prüfen"
-draft = false
-comments = true
-+++
+---
+categories:
+- tech
+comments: true
+date: "2018-08-19T13:27:00+02:00"
+description: Resourcen einer Website auf der Console prüfen
+draft: false
+tags:
+- devops
+title: URLs einer Website testen
+---
 
 Aktuell hatte ich ein Problem mit einem Webprojekt. Einige Website-Resouren wurden sporadisch, ohne erkennbares Muster, nicht geladen. Um ein eventuelles Muster (oder eben nicht) zu erkennen, musste ein paar Hilfsmittel her.
 

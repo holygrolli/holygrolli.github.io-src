@@ -1,19 +1,16 @@
-+++
-tags = [
-    "devops",
-    "docker"
-    ]
-categories = [
-    "tech",
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Wie erreicht man ein MongoDB-Cluster, wenn die Firewall dazwischen liegt und man das CLI für Dumps benutzen möchte."
-draft = false
-comments = true
-date = 2018-09-23T15:52:41+02:00
-title = "MongoDB-Cluster Verbindung durch Firewall"
-+++
+---
+categories:
+- tech
+comments: true
+date: "2018-09-23T15:52:41+02:00"
+description: Wie erreicht man ein MongoDB-Cluster, wenn die Firewall dazwischen liegt
+  und man das CLI für Dumps benutzen möchte.
+draft: false
+tags:
+- devops
+- docker
+title: MongoDB-Cluster Verbindung durch Firewall
+---
 
 Auf Arbeit stand ich vor dem Problem, auf einem [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)-Cluster einen Dump einspielen zu müssen. Dafür ist aber die Benutzung der Kommandozeilenwerkzeuge `mongodump` und `mongorestore` unabdingbar. Die Herausforderung war aber eine, die mich regelmäßig quält: das Sicherheitsbedürfnis des Unternehmens steht an oberster Stelle und wir müssen somit immer über den Unternehmens-Proxy oder dedizierte Jumphosts gehen, die für bestimmte Verbindungen freigeschaltet sind.
 

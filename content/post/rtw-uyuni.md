@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "bolivien",
-    "uyuni"
-    ]
-categories = [
-    "reise"
-]
-#image = "home-bg.jpg"
-#coverimage = "some.jpg"
-description = "Mit dem Nachtbus nach Uyuni und Impressionen aus einer Stadt, die nur von Touristen lebt"
-draft = false
-comments = true
-date = 2019-01-13T12:01:49-03:00
-title = "Uyuni, Bolivien"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2019-01-13T12:01:49-03:00"
+description: Mit dem Nachtbus nach Uyuni und Impressionen aus einer Stadt, die nur
+  von Touristen lebt
+draft: false
+tags:
+- rtw
+- bolivien
+- uyuni
+title: Uyuni, Bolivien
+---
 
 Tag 66 bedeutete für uns wieder eine Nachtfahrt mit dem Bus. Wir wollten in den Süden nach Uyuni zur weltgrößten Salzwüste. Nach Empfehlungen nicht nur von Boliviahop entschieden wir uns für [Todo Turismo](http://www.todoturismosrl.com/). Diese Firma bietet nur die nächtliche Überlandfahrt zwischen Uyuni und La Paz in beiden Richtungen an. Für knapp $35 erhält man einen Platz im Semi-Carma-Abteil, dass heißt der Sitz lässt sich auf ca. 140° nach hinten lehnen. Dazu erhält man am Abend noch einen warmen Snack und früh ein (trockenes Sandwich). Die knapp neunstündige Fahrt ging tatsächlich relativ entspannt vorüber, denn im [Vergleich](/post/rtw-fahrt-nach-arequipa/) zu dem Bus von Peruhop waren die Sitzabstände doch spürbar länger. Der Bus war gefühlt sehr neu, allerdings gab es hier _keine_ USB-Anschlüsse. Keine Ahnung wer so etwas heute noch baut.
 

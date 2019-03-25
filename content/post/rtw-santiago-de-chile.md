@@ -1,20 +1,18 @@
-+++
-tags = [
-    "rtw",
-    "chile",
-    "santiago"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190115_105620.jpg"
-coverimage = "IMG_20190115_132824.jpg"
-description = "Sieben Tage in Santiago de Chile, der Hauptstadt von Chile"
-draft = false
-comments = true
-date = 2019-01-22T15:54:03-03:00
-title = "Santiago de Chile"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190115_132824.jpg
+date: "2019-01-22T15:54:03-03:00"
+description: Sieben Tage in Santiago de Chile, der Hauptstadt von Chile
+draft: false
+image: IMG_20190115_105620.jpg
+tags:
+- rtw
+- chile
+- santiago
+title: Santiago de Chile
+---
 
 ## Anreise
 

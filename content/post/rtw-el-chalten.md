@@ -1,23 +1,21 @@
-+++
-tags = [
-    "rtw",
-    "el chalten",
-    "patagonien",
-    "argentinien",
-    "drohne",
-    "mavic"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190201_150424.jpg"
-coverimage = "IMG_20190131_115646.jpg"
-description = "Drei Nächte im Trekkingparadies um den Berg Fitz Roy"
-draft = false
-comments = true
-date = 2019-02-13T10:30:42-03:00
-title = "El Chaltén, Patagonien"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190131_115646.jpg
+date: "2019-02-13T10:30:42-03:00"
+description: Drei Nächte im Trekkingparadies um den Berg Fitz Roy
+draft: false
+image: IMG_20190201_150424.jpg
+tags:
+- rtw
+- el chalten
+- patagonien
+- argentinien
+- drohne
+- mavic
+title: El Chaltén, Patagonien
+---
 
 Nach unseren zwei Nächten in [El Calafate](/post/rtw-el-calafate/) ging es am späten Nachmittag in Richtung _El Chaltén_ ebenso in Argentinien. El Chaltén wurde erst 1985, also in der jüngergen Vergangenheit gegründet. Man hätte vermuten können, dass wir auch hier über eine Schotterpiste an das Ziel gelangen würden. Auch peilte Google Maps knapp über 3 Stunden Fahrzeit an. Glücklicherweise wurden wir eines Besseren belehrt und wir brauchten nur 2 Stunden, da die letzte Straße nach der Ruta 40 auch sauber mit Asphalt überzogen war. Google Maps kannte das wohl noch nicht und so reduzierte sich die angezeigte Restzeit je Kilometer dramatisch.
 

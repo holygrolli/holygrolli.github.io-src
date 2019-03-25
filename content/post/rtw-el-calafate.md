@@ -1,21 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "el calafate",
-    "patagonien",
-    "argentinien"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190130_115403.jpg"
-coverimage = "IMG_20190129_152515.jpg"
-description = "Neben dem Besuch des Perito Moreno-Gletschers erlebten wir noch ein weiteres Highlight"
-draft = false
-comments = true
-date = 2019-02-10T23:05:46-03:00
-title = "El Calafate, Patagonien"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190129_152515.jpg
+date: "2019-02-10T23:05:46-03:00"
+description: Neben dem Besuch des Perito Moreno-Gletschers erlebten wir noch ein weiteres
+  Highlight
+draft: false
+image: IMG_20190130_115403.jpg
+tags:
+- rtw
+- el calafate
+- patagonien
+- argentinien
+title: El Calafate, Patagonien
+---
 
 Von Puerto Natales sollte es nun nach El Calafate in Argentinien gehen. Aufgrund des Mangels an Tankstellen um den Torres del Paine-Nationalpark entschieden wir uns schon vorab, von Puerto Natales nach Argentinien aufzubrechen und nicht die Grenze ab Cerro Castillo zu überqueren. Nach dem Frühstück ging es also zu einer der Tankstellen in Puerto Natales und dann direkt zur Grenze. Überraschenderweise war der Grenzübertritt von Chile nach Argentinien in nicht einmal 30 Minuten erledigt. Scheinbar sind nur die Chilenen bei der Einreise so sehr um ihre Sicherheit besorgt. Direkt hinter der Grenze wollten wir in _Río Turbio_ gleich Geld abheben, leider wollten die Geldautomaten beider Banken keine Auszahlungen leisten, mit keiner unserer verschiedenen VISA- oder Mastercard-Karten. Somit mussten wir ohne argentinische Pesos und ohne gekaufte SIM-Karte nach El Calafate weiterfahren.
 

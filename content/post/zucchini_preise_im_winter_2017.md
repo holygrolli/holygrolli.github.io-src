@@ -1,12 +1,14 @@
-+++
-description = "Hat sich schon einmal jemand gefragt, wieso die Zucchini-Preise gerade so hoch sind?"
-title = "Die Zucchini-Preise"
-comments = true
-categories = ["allgemein"]
-tags = ["essen"]
-date = "2017-01-31T17:00:49+01:00"
-
-+++
+---
+categories:
+- allgemein
+comments: true
+date: "2017-01-31T17:00:49+01:00"
+description: Hat sich schon einmal jemand gefragt, wieso die Zucchini-Preise gerade
+  so hoch sind?
+tags:
+- essen
+title: Die Zucchini-Preise
+---
 
 Mir ist schon letzte Woche im Discounter aufgefallen, dass die Zucchini-Preise unerwartet hoch sind. Dabei habe ich mich gefragt, wie es dazu kommt. Schließlich kostet Fleisch ja weiterhin unverschämt wenig. Und für 5,99 Euro pro Kilo Zucchini bekommt man wahrscheinlich 3 Kilo Hack. Wenn ich dachte, dass der Preis im Discounter schon hoch war, wurde ich beim Supermarkt um die Ecke gleich eines besseren belehrt, dort kostete das Kilo gleich 7,99 Euro.
 

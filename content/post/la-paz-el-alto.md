@@ -1,20 +1,19 @@
-+++
-tags = [
-    "rtw",
-    "bolivien",
-    "la paz"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181230_152836.jpg"
-coverimage = "IMG_20181230_134812.jpg"
-description = "Von Copacabana nach La Paz und der Besuch des angeblich größten Markts der Welt"
-draft = false
-comments = true
-date = 2019-01-08T15:28:44-03:00
-title = "La Paz und der größte Markt der Welt"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20181230_134812.jpg
+date: "2019-01-08T15:28:44-03:00"
+description: Von Copacabana nach La Paz und der Besuch des angeblich größten Markts
+  der Welt
+draft: false
+image: IMG_20181230_152836.jpg
+tags:
+- rtw
+- bolivien
+- la paz
+title: La Paz und der größte Markt der Welt
+---
 
 ## Fahrt nach La Paz
 

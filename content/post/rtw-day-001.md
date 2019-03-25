@@ -1,19 +1,15 @@
-+++
-tags = [
-    "rtw",
-    "lufthansa"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Das geht ja gut los"
-draft = false
-comments = true
-date = 2018-10-30T14:55:15+01:00
-title = "Weltreise - Tag 1"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-10-30T14:55:15+01:00"
+description: Das geht ja gut los
+draft: false
+tags:
+- rtw
+- lufthansa
+title: Weltreise - Tag 1
+---
 
 Tag 1 fing ohne Erhohlungsschlaf an, da wir die Wohnung noch für unsere Untermieter fertig gemacht haben. Trotz des Stresses lief eigentlich alles super: wir waren pünktlich (fix und ) fertig und wurden pünktlich 06:30 Uhr von einer Freundin zum Flughafen chauffiert.
 

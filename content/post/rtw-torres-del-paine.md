@@ -1,21 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "patagonien",
-    "chile"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190125_131859.jpg"
-coverimage = "IMG_20190125_184750.jpg"
-description = "Vier Tage in der rauen Natur von Patagonien, im bekannten Nationalpark Torres del Paine"
-draft = false
-comments = true
-date = 2019-02-07T02:22:00-03:00
-title = "Torres del Paine, Patagonien"
-update = 2019-02-10T23:03:00-03:00
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190125_184750.jpg
+date: "2019-02-07T02:22:00-03:00"
+description: Vier Tage in der rauen Natur von Patagonien, im bekannten Nationalpark
+  Torres del Paine
+draft: false
+image: IMG_20190125_131859.jpg
+tags:
+- rtw
+- patagonien
+- chile
+title: Torres del Paine, Patagonien
+update: "2019-02-10T23:03:00-03:00"
+---
 
 Nach der sehr unbequemen Nacht am Flughafen von Santiago de Chile ging es erneut mit einem Flieger von Sky Airlines nach Punta Arenas in Patagonien. Diesmal war ich persönlich aber arg enttäuscht von Sky Airlines, denn im Vergleich zu unserem Flug aus dem Norden nach Santiago de Chile war dies eine neuere Maschine mit dem "trendy" Sitzabstand von Ryanair, wo meine Knie die Lehne vom Vordersitz berühren, obwohl ich den Hintern schon gegen meine Lehne drücke. Ebenso gibt es in dieser Konfiguration, wie bei Ryanair, keine Netze zur Ablage im Vordersitz. Low Budget lässt grüßen!
 

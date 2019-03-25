@@ -1,14 +1,18 @@
-+++
-tags = ["mavic", "drohne", "fotos"]
-comments = true
-date = "2017-01-29T17:52:46+01:00"
-title = "Sie ist da"
-description = "Als Gadget-Liebhaber, Traveler und Fotoliebhaber gab es ein großes Ziel: eine DJI Mavic Pro!"
-image = "vonoben-bg.jpg"
-categories = ["vonoben"]
-coverimage = "DJI_0083.JPG"
-
-+++
+---
+categories:
+- vonoben
+comments: true
+coverimage: DJI_0083.JPG
+date: "2017-01-29T17:52:46+01:00"
+description: 'Als Gadget-Liebhaber, Traveler und Fotoliebhaber gab es ein großes Ziel:
+  eine DJI Mavic Pro!'
+image: vonoben-bg.jpg
+tags:
+- mavic
+- drohne
+- fotos
+title: Sie ist da
+---
 
 Seit der Vorstellung der DJI Mavic Pro im September 2016 war ich, wie wahrscheinlich viele andere auch, begeistert von der Konzept einer faltbaren, reisetauglichen Drohne. Es gab zwar schon lange gute Modelle, diese hatten aber Maße, die waren einfach nichts für einen Backpacking-Urlaub. Somit Bestand das Equipment der letzten Jahre "nur" aus Travelzoom-Cam und GoPro.
 Die Mavic sollte dem nun die Krone aufsetzen: tolle Landschaftsaufnahmen aus Perspektiven, die vorher nicht möglich waren.

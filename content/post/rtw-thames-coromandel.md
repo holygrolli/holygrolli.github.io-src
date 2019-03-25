@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "coromandel",
-    "neuseeland"
-    ]
-categories = [
-    "reise"
-]
-#image = "home-bg.jpg"
-coverimage = "IMG_20190225_150925.jpg"
-description = "Fahrt entlang der Nordküste zur Coromandel-Halbinsel"
-draft = false
-comments = true
-date = 2019-03-04T13:35:49+13:00
-title = "Thames-Coromandel-District, Neuseeland"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190225_150925.jpg
+date: "2019-03-04T13:35:49+13:00"
+description: Fahrt entlang der Nordküste zur Coromandel-Halbinsel
+draft: false
+tags:
+- rtw
+- coromandel
+- neuseeland
+title: Thames-Coromandel-District, Neuseeland
+---
 
 Von Auckland aus fuhren wir die komplette Küstenstraße entlang des [Firth of Thames](https://goo.gl/maps/jx7t8W1saZN2). Entlang der teilweise größeren oder kleineren Straßen schlängelten wir uns der Küste entlang und hatten wunderbare Ausblicke auf grüne Hügel und türkises Meer.
 

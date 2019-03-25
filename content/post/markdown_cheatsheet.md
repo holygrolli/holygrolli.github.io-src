@@ -1,11 +1,13 @@
-+++
-draft = false
-date = "2017-01-12T20:59:17+01:00"
-title = "Markdown Cheatsheet"
-description = "Ein Markdown Spickzettel oder \"Wie verfasse ich eine Seite\"?"
-categories = ["allgemein"]
-tags = ["metalsmith"]
-+++
+---
+categories:
+- allgemein
+date: "2017-01-12T20:59:17+01:00"
+description: Ein Markdown Spickzettel oder "Wie verfasse ich eine Seite"?
+draft: false
+tags:
+- metalsmith
+title: Markdown Cheatsheet
+---
 
 Based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 

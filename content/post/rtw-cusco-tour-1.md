@@ -1,21 +1,18 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "cusco",
-    "alpaka"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181205_130718.jpg"
-#coverimage = "some.jpg"
-description = "Tagestour zu den nahen Ruinen Sacsayhuamán, Q’enqo, Puca Pucara und Tambomachay"
-draft = false
-comments = true
-date = 2018-12-20T22:16:26-04:00
-title = "Ruinen um Cusco Teil 1"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-20T22:16:26-04:00"
+description: Tagestour zu den nahen Ruinen Sacsayhuamán, Q’enqo, Puca Pucara und Tambomachay
+draft: false
+image: IMG_20181205_130718.jpg
+tags:
+- rtw
+- peru
+- cusco
+- alpaka
+title: Ruinen um Cusco Teil 1
+---
 
 Für diese Tagestour verabredeten wir uns mit unserem persönlichen Taxifahrer Ricardo für eine Tagestour an Tag 38 unserer Weltreise um 10 Uhr. Für die gesamte Fahrt, in Summe keine 20km, verlangte Ricardo 60 Soles, also 15€. Allerdings mit ruhigem Anschauen dauerte unsere Ausfahrt insgesamt knapp 6 Stunden, wobei wir davon 90 Minuten mit Ricardo Mittagessen waren und er von uns eingeladen wurde.
 

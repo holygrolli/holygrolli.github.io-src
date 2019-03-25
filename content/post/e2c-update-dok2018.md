@@ -1,18 +1,15 @@
-+++
-tags = [
-    "e2c"
-    ]
-categories = [
-    "projekte"
-]
-#image - "home-bg.jpg" is the default
-#coverimage = "some.jpg"
-description = "Das Programm des DOK-Festivals wurde heute veröffentlicht. Wie stellt man sich sein persönliches Programm zusammen?"
-draft = false
-comments = true
-date = 2018-10-10T19:50:45+02:00
-title = "Persönliches DOK-Festival-Programm zusammenstellen"
-+++
+---
+categories:
+- projekte
+comments: true
+date: "2018-10-10T19:50:45+02:00"
+description: Das Programm des DOK-Festivals wurde heute veröffentlicht. Wie stellt
+  man sich sein persönliches Programm zusammen?
+draft: false
+tags:
+- e2c
+title: Persönliches DOK-Festival-Programm zusammenstellen
+---
 
 Letztes Jahr hatte ich damit begonnen, ein kleines Online-Tool zu schreiben, welches mir bei Konferenzen die Planung meines Konferenzprogramms ermöglicht. Viele Konferenzen schaffen es im Jahr 2018 noch nicht, einen eigener Planer für das persönliche Konferenzprogramm auf die Beine zu stellen. Aus diesem Wunsch ist das Tool [Event2Calender](http://e2c.networkchallenge.de/) (kurz: e2c).
 

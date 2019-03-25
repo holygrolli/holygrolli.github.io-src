@@ -1,9 +1,9 @@
-+++
-title = "Werbung"
-date = 2018-11-01T08:10:32-05:00
-draft = false
-type = "about"
-+++
+---
+date: "2018-11-01T08:10:32-05:00"
+draft: false
+title: Werbung
+type: about
+---
 
 Aktuell setze ich für den Blog und die damit zusammenhängenden technischen Spielereien auf mehrere Bausteine. Folgende Links sind Werbelinks und verursachen bei mir einen kleinen Umsatzanteil:
 

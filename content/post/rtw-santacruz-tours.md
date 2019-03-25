@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "galapagos",
-    "ecuador"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-coverimage = "GOPR4155.JPG"
-description = "7 Tage auf Santa Cruz: diese Touren haben wir gemacht"
-draft = false
-comments = true
-date = 2018-11-29T17:29:12-05:00
-title = "Touren auf Santa Cruz, Galapagos"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: GOPR4155.JPG
+date: "2018-11-29T17:29:12-05:00"
+description: '7 Tage auf Santa Cruz: diese Touren haben wir gemacht'
+draft: false
+tags:
+- rtw
+- galapagos
+- ecuador
+title: Touren auf Santa Cruz, Galapagos
+---
 
 Die Insel Santa Cruz ist die wohl touristischste Insel aller Galapagosinseln. In der "Haupstadt" Puerto Ayora findet sich ein Tourenanbieter neben dem anderen. Es ergeben sich hier Möglichkeiten für Mehrtagestouren zu anderen Inseln oder auch Inselumfahrungen auf mehr oder weniger luxuriösen Booten. Alle versprechen natürlich, die ultimative Vielfalt an Tieren (Hammerhaie, Delfine, Pinguine ...). Wir haben uns letztendlich für zwei Eintagestouren entschieden, da wir unsere Unterkunft schon bezahlt hatten.
 

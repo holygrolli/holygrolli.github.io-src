@@ -1,20 +1,18 @@
-+++
-tags = [
-    "rtw",
-    "peru",
-    "cusco"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20181207_114125.jpg"
-#coverimage = "some.jpg"
-description = "Tagestour zu den eine Stunde von Cusco entfernten Ruinen Tipón, Rumicolca und Pikillacta"
-draft = false
-comments = true
-date = 2018-12-21T13:57:31-04:00
-title = "Ruinen um Cusco Teil 2"
-+++
+---
+categories:
+- reise
+comments: true
+date: "2018-12-21T13:57:31-04:00"
+description: Tagestour zu den eine Stunde von Cusco entfernten Ruinen Tipón, Rumicolca
+  und Pikillacta
+draft: false
+image: IMG_20181207_114125.jpg
+tags:
+- rtw
+- peru
+- cusco
+title: Ruinen um Cusco Teil 2
+---
 
 Am 40. Tag unserer Weltreise ging es etwas weiter weg östlich von Cusco. Trotz der nur 23km bis zur Ruine Tipón dauerte die Fahrt über eine Stunde. Wir hatten wieder das Glück, dass unser privater Fahrer Ricardo wieder Zeit für uns hatte. Aufgrund der Entfernung sollte die Fahrt 80 Soles (20€) kosten.
 

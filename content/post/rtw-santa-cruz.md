@@ -1,20 +1,17 @@
-+++
-tags = [
-    "rtw",
-    "ecuador",
-    "galapagos"
-    ]
-categories = [
-    "reise"
-]
-#image - "home-bg.jpg" is the default
-coverimage = "P1190562.jpg"
-description = "Allgemeine Eindrücke der Galapagosinsel Santa Cruz"
-draft = false
-comments = true
-date = 2018-11-19T05:00:00Z
-title = "Santa Cruz, Galapagos"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: P1190562.jpg
+date: "2018-11-19T05:00:00Z"
+description: Allgemeine Eindrücke der Galapagosinsel Santa Cruz
+draft: false
+tags:
+- rtw
+- ecuador
+- galapagos
+title: Santa Cruz, Galapagos
+---
 
 6 Nächte auf der ersten Galapagosinsel _Santa Cruz_ ... über was schreibt man da? Nachdem der Besuch von Santa Cruz nun schon ein paar Tage zurückliegt fällt es einem schwer, einen vollumfänglichen Beitrag zu schreiben. Daher werde ich mich einfach auf ein paar Punkte konzentrieren und Beiträge nachliefern.
 

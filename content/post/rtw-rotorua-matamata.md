@@ -1,22 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "rotorua",
-    "matamata",
-    "mittelerde",
-    "neuseeland"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190228_154326.jpg"
-coverimage = "IMG_20190227_154503.jpg"
-description = "Das weltweit jüngste geothermale Gebiet und Ausflug nach Mittelerde"
-draft = false
-comments = true
-date = 2019-03-10T12:55:08+13:00
-title = "Rotorua und Matamata, Neuseeland"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190227_154503.jpg
+date: "2019-03-10T12:55:08+13:00"
+description: Das weltweit jüngste geothermale Gebiet und Ausflug nach Mittelerde
+draft: false
+image: IMG_20190228_154326.jpg
+tags:
+- rtw
+- rotorua
+- matamata
+- mittelerde
+- neuseeland
+title: Rotorua und Matamata, Neuseeland
+---
 
 Am mittlerweile 120. Tag fuhren wir von den heißen Quellen der [Coromandel-Halbinsel](/post/rtw-thames-coromandel/) südlich in Richtung Rotorua. Hier hatten wir drei Nächte eingeplant und planten am Ankunftstag gleich die weiteren zwei Tage. So planten wir für den darauffolgenden Tag den Besuch im naheliegenden _Mittelerde_.
 

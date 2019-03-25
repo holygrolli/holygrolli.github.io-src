@@ -1,24 +1,23 @@
-+++
-tags = [
-    "drohne",
-    "mavic",
-    "rtw",
-    "huacachina",
-    "peru",
-    "paracas"
-    ]
-categories = [
-    "vonoben",
-    "reise"
-]
-image = "DJI_0080-01.jpeg"
-coverimage = "DJI_0080-01.jpeg"
-description = "Mit dem Bus von Lima 300km nach Süden entlang der Pazifikküste über Paracas nach Huacachina"
-draft = false
-comments = true
-date = 2018-12-12T15:20:00-05:00
-title = "Fahrt von Lima nach Huacachina"
-+++
+---
+categories:
+- vonoben
+- reise
+comments: true
+coverimage: DJI_0080-01.jpeg
+date: "2018-12-12T15:20:00-05:00"
+description: Mit dem Bus von Lima 300km nach Süden entlang der Pazifikküste über Paracas
+  nach Huacachina
+draft: false
+image: DJI_0080-01.jpeg
+tags:
+- drohne
+- mavic
+- rtw
+- huacachina
+- peru
+- paracas
+title: Fahrt von Lima nach Huacachina
+---
 
 Auch der 25. Tag der Weltreise war wieder durch frühes Aufstehen geprägt, denn gegen 6 Uhr sollte uns unser Bus abholen. Das bedeutete, dass gegen 04:30 Uhr der Wecker klingelte. Der morgendlichen Behäbigkeit war es dann wohl auch geschuldet, dass beim typischen Vieraugenprinzip beim Verlassen des Appartments es drei Personen nicht gelungen ist, festzustellen, dass in der Küche noch unsere zwei aufgefüllten Trinkflaschen standen, die wir dann auch dort stehen lassen haben ... die anschließende Diskussion über Verantwortlichkeiten zwischen Akademikern wurde zum Glück und um des Reisefriedens willen durch Thomas entschärft, der diplomatisch die Verantwortung übernahm ;-)
 

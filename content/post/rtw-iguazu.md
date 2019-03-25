@@ -1,21 +1,20 @@
-+++
-tags = [
-    "rtw",
-    "iguazu",
-    "argentinien",
-    "brasilien"
-    ]
-categories = [
-    "reise"
-]
-image = "IMG_20190208_144418.jpg"
-coverimage = "IMG_20190210_164047.jpg"
-description = "Von Patagonien an die Grenze zu Brasilien und Paraguay, um die Iguazú-Wasserfälle zu sehen"
-draft = false
-comments = true
-date = 2019-02-22T12:29:41+13:00
-title = "Puerto Iguazú, Argentinien"
-+++
+---
+categories:
+- reise
+comments: true
+coverimage: IMG_20190210_164047.jpg
+date: "2019-02-22T12:29:41+13:00"
+description: Von Patagonien an die Grenze zu Brasilien und Paraguay, um die Iguazú-Wasserfälle
+  zu sehen
+draft: false
+image: IMG_20190208_144418.jpg
+tags:
+- rtw
+- iguazu
+- argentinien
+- brasilien
+title: Puerto Iguazú, Argentinien
+---
 
 ## Anreisemarathon
 
