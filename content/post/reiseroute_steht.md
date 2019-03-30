@@ -9,6 +9,14 @@ draft: false
 tags:
 - rtw
 title: Die Reiseroute steht fest
+images:
+  - src: 2018-09-17_rtw.png
+    width: 2556
+    height: 1446
+    alt: Reiseroute
+    title: Die komplette Reiseroute unseres Round the World-Tickets
+    orientation: l
+    type: postimg
 ---
 
 Nach wochenlangen Recherchen haben wir uns nun für eine Reiseroute entschieden. Der Weg führt uns direkt aus Leipzig über Frankfurt nach Panama. Da die meisten Flüge der Lufthansa nach Südamerika entweder über Panama City oder Bogota führen, haben wir uns entschieden, einfach noch einen Zwischenstopp in Panama einzulegen.
@@ -27,6 +35,6 @@ Auf alle Fälle geht es dann von Singapur über Frankfurt final wieder zurück n
 
 Das ganze lässt sich bildlich viel schöner und beeindruckender darstellen:
 
-{{< postimg src="2018-09-17_rtw.png" alt="Reiseroute" title="Die komplette Reiseroute unseres Round the World-Tickets" w="2556" h="1446" >}}
+{{< postimg "2018-09-17_rtw.png" >}}
 
 Wie eingangs schon erwähnt wird unser erster Flug von Lufthansa durchgeführt. Das liegt daran, dass wir uns für ein Round the World-Ticket der [Star Alliance](https://www.staralliance.com/de/web/staralliance/round-the-world) entschieden haben. Der grandiose Vorteil dieses Tickets ist die Möglichkeit, _kostenlos_ und vor allem _kurzfristig_ die Flugtermine zu verschieben. Ein Anruf bei der 24/7 Hotline soll (hoffentlich) genügen, um den nächsten Flug umzubuchen. Man muss letztlich nur den nächsten freien Flug finden und weiter geht's. Diese Flexibilität ist für so eine lange Reise schon äußerst praktisch. Wir hoffen natürlich, dass dies in der Praxis auch so zutrifft. Aber das wird sich dann zeigen, wenn es ab 29. Oktober ernst wird.

@@ -11,6 +11,49 @@ tags:
 - bolivien
 - uyuni
 title: Uyuni, Bolivien
+images:
+  - src: IMG_20190103_124900.jpg
+    width: 3968
+    height: 2976
+    alt: Spielplatz
+    title: verlassener Spielplatz
+    orientation: l
+    type: postimg
+  - src: IMG_20190104_115501.jpg
+    width: 3968
+    height: 2976
+    alt: Kunst
+    title: Personenwagen auf Schienen
+    orientation: l
+    type: postimg
+  - src: IMG_20190104_115544.jpg
+    width: 3968
+    height: 2976
+    alt: Kunst
+    title: Ein Eisenbahner
+    orientation: l
+    type: postimg
+  - src: IMG_20190104_154647.jpg
+    width: 2976
+    height: 3968
+    alt: Kunst
+    title: weitere Figuren
+    orientation: l
+    type: postimg
+  - src: IMG_20190104_155005.jpg
+    width: 3968
+    height: 2976
+    alt: Kunstalternative
+    title: Ein eher anderes Kunstwerk!
+    orientation: l
+    type: postimg
+  - src: IMG_20190104_090401.jpg
+    width: 3968
+    height: 2976
+    alt: Internetcafé
+    title: Die moderne Einrichtung des Internetcafés
+    orientation: l
+    type: postimg
 ---
 
 Tag 66 bedeutete für uns wieder eine Nachtfahrt mit dem Bus. Wir wollten in den Süden nach Uyuni zur weltgrößten Salzwüste. Nach Empfehlungen nicht nur von Boliviahop entschieden wir uns für [Todo Turismo](http://www.todoturismosrl.com/). Diese Firma bietet nur die nächtliche Überlandfahrt zwischen Uyuni und La Paz in beiden Richtungen an. Für knapp $35 erhält man einen Platz im Semi-Carma-Abteil, dass heißt der Sitz lässt sich auf ca. 140° nach hinten lehnen. Dazu erhält man am Abend noch einen warmen Snack und früh ein (trockenes Sandwich). Die knapp neunstündige Fahrt ging tatsächlich relativ entspannt vorüber, denn im [Vergleich](/post/rtw-fahrt-nach-arequipa/) zu dem Bus von Peruhop waren die Sitzabstände doch spürbar länger. Der Bus war gefühlt sehr neu, allerdings gab es hier _keine_ USB-Anschlüsse. Keine Ahnung wer so etwas heute noch baut.
@@ -21,21 +64,21 @@ In Uyuni angekommen konnten wir wieder unser Zimmer frühzeitig beziehen und uns
 
 Als wir uns in Uyuni umschauten erinnerte die Stadt irgendwie an eine amerikanische Stadt in der Wüste: quadratisch aufgebaut, große Straßen, große Plätze, wie ausgestorben und wenig attraktiv.
 
-{{< postimg src="IMG_20190103_124900.jpg" alt="Spielplatz" title="verlassener Spielplatz" w="3968" h="2976" >}}
+{{< postimg "IMG_20190103_124900.jpg" >}}
 
 Auf der großen Hauptstraße stehen aber viele Kunstwerke, die zumindest ein Foto wert waren und an die glorreichen Zeiten der Eisenbahn in Uyuni erinnerten.
 
-{{< postimg src="IMG_20190104_115501.jpg" alt="Kunst" title="Personenwagen auf Schienen" w="3968" h="2976" >}}
+{{< postimg "IMG_20190104_115501.jpg" >}}
 
-{{< postimg src="IMG_20190104_115544.jpg" alt="Kunst" title="Ein Eisenbahner" w="3968" h="2976" >}}
+{{< postimg "IMG_20190104_115544.jpg" >}}
 
-{{< postimg src="IMG_20190104_154647.jpg" alt="Kunst" title="weitere Figuren" w="2976" h="3968" >}}
+{{< postimg "IMG_20190104_154647.jpg" >}}
 
-{{< postimg src="IMG_20190104_155005.jpg" alt="Kunstalternative" title="Ein eher anderes Kunstwerk!" w="3968" h="2976" >}}
+{{< postimg "IMG_20190104_155005.jpg" >}}
 
 Besonders erwähnen möchte ich hier noch das Internetcafé im Geschäft der Wäscherei, in der wir unsere Wäsche waschen liesen.
 
-{{< postimg src="IMG_20190104_090401.jpg" alt="Internetcafé" title="Die moderne Einrichtung des Internetcafés" w="3968" h="2976" >}}
+{{< postimg "IMG_20190104_090401.jpg" >}}
 
 Beim Essen spezialisieren sich die ganzen Restaurants stark auf Pizza und Pasta, was meiner Meinung nach nur bedingt von Erfolg gekrönt ist. Die einzig vernünftigen Pizzas schien [La Torre](https://goo.gl/maps/MjBMQYmCXJD2) zu fabrizieren.
 

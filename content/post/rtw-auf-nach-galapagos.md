@@ -10,6 +10,42 @@ tags:
 - ecuador
 - galapagos
 title: Anreise auf die Galapagosinseln
+images:
+  - src: IMG_20181107_004613.jpg
+    width: 3
+    height: 4
+    alt: Galapagosschalter
+    title: Infos am Galapagosschalter
+    orientation: p
+    type: postimg
+  - src: IMG_20181107_004621.jpg
+    width: 3
+    height: 4
+    alt: Galapagosschalter
+    title: Einreisebestimmungen für Galapagos
+    orientation: p
+    type: postimg
+  - src: IMG_20181107_103338.jpg
+    width: 4
+    height: 3
+    alt: K9
+    title: K9 Security Check am Flughafen Galapagos
+    orientation: l
+    type: postimg
+  - src: IMG_20181107_105953.jpg
+    width: 4
+    height: 3
+    alt: Wassertaxi
+    title: Verladung der Gepäcks AUF dem Wassertaxi
+    orientation: l
+    type: postimg
+  - src: IMG_20181107_110045.jpg
+    width: 4
+    height: 3
+    alt: Wassertaxi
+    title: tierische Überwachung des korrekten Verladeprozesses
+    orientation: l
+    type: postimg
 ---
 
 Nach unserem kurzen Aufenthalt in Panama sollte unser nächstes Ziel die Galapagosinseln sein. Ursprünglich standen sie nicht mit auf unserem Weltreiseprogramm. Erst ein Arbeitskollege (Gruß an Martin!) machte mich darauf aufmerksam. Ich war zuvor immer davon ausgegangen, dass die Galapagosinseln aus Naturschutzgründen überhaupt nicht touristisch erschlossen sind. Dies ist aber (leider) nicht so.
@@ -26,9 +62,9 @@ Somit mussten wir nun mit Sack und Pack raus aus dem Sicherheitsbereich und vers
 
 Während der langen Nacht war das Flughafen-WiFi und McDonald's gute Freunde. In der Zwischenzeit konnte man sich auch auf dem Flughafen den speziellen Galapagosschalter anschauen.
 
-{{< postimg src="IMG_20181107_004613.jpg" alt="Galapagosschalter" title="Infos am Galapagosschalter" o="p" >}}
+{{< postimg "IMG_20181107_004613.jpg" >}}
 
-{{< postimg src="IMG_20181107_004621.jpg" alt="Galapagosschalter" title="Einreisebestimmungen für Galapagos" o="p" >}}
+{{< postimg "IMG_20181107_004621.jpg" >}}
 
 Wie wir dann am nächsten Morgen herausbekommen haben, muss jedes Gepäckstück separat gescannt werden, damit man keine verbotenen Dinge einführt. Das Aufgabegepäck wird dann versiegelt und ist bereit für die Gepäckaufgabe. Direkt neben dem Scanner war auch der Schalter für die Einreisegenehmigung nach Galapagos. Hier muss man auch sein Rückflugticket vorweisen und dann bekommt man für $20 pro Person die Einreiseerlaubnis.
 
@@ -46,13 +82,13 @@ Der Vorteil der Business Class ist die Möglichkeit als erstes aus dem Flieger a
 
 Bei der Einreise muss noch eine Nationalparkgebühr von $100 pro Person bezahlt werden. Ebenso wurden uns auch gleich $5 für den Shuttle-Transport zur Fähre in Rechnung gestellt. Bevor man zum Gepäckband kam wurde direkt noch einmal das Handgepäck gescannt, damit man wirklich nichts mit einschleppt. Am Gepäckband wurden das Gepäck des gesamten Fliegers vollständig ausgebreitet und man durfte noch nicht sein Gepäck in Empfang nehmen. Vielmehr musste man warten, bis die zwei Hunde des Zolls (K9 Security Check) alles gründlichst durchsucht hatten.
 
-{{< postimg src="IMG_20181107_103338.jpg" alt="K9" title="K9 Security Check am Flughafen Galapagos" >}}
+{{< postimg "IMG_20181107_103338.jpg" >}}
 
 Dann endlich konnten wir unser Gepäck in Empfang nehmen und gingen dann raus zum Shuttle. Da der Flughafen auf einer kleinen Insel vor der Insel Santa Cruz liegt, muss eine Fähre die ca. 200m Wasser überwinden. Der Bus brachte uns dahin und hier wurde das Gepäck direkt aus dem Bus auf die Fähre verladen. Diese Verladung hatte aber schon etwas abenteuerliches. Das Gepäck landete direkt auf dem Dach des Bootes, tierische Überwachung inklusive.
 
-{{< postimg src="IMG_20181107_105953.jpg" alt="Wassertaxi" title="Verladung der Gepäcks AUF dem Wassertaxi" >}}
+{{< postimg "IMG_20181107_105953.jpg" >}}
 
-{{< postimg src="IMG_20181107_110045.jpg" alt="Wassertaxi" title="tierische Überwachung des korrekten Verladeprozesses" >}}
+{{< postimg "IMG_20181107_110045.jpg" >}}
 
 Keine Ahnung wieviele Gepäckstücke schon im Pazifik verschollen sind, es hat aber alles geklappt. Auf der anderen Seite befand sich nun die Bus- und Taxistation. Vor dem Aussteigen bezahlt man noch brav seine 25 Cent Fährgebühren, dann konnte man das Boot verlassen. Hier musste man sich das entladene Gepäck schnappen. Wir bewegten uns dann einfach im Touristenstrom zu den dort parkenden Bussen. Auch hier wurde wieder das Gepäck auf das Dach gewuchtet (22 Kilo in meinem Fall) und dann die einzige Straße ins 42 km entfernte Puerto Ayora. Bevor man in Puerto Ayora den Bus verlässt werden noch einmal $5 Gebühren fällig.
 

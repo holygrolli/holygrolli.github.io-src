@@ -13,6 +13,105 @@ tags:
 - valparaiso
 - santiago
 title: Valparaíso, Chile
+images:
+  - src: IMG_20190119_150442.jpg
+    width: 3968
+    height: 2976
+    alt: Plaza
+    title: Einer der vielen Plazas
+    orientation: l
+    type: postimg
+  - src: IMG_20190119_153030.jpg
+    width: 3968
+    height: 2976
+    alt: Treppe
+    title: Hier wurde eine Treppe zum Piano
+    orientation: l
+    type: postimg
+  - src: IMG_20190119_153241.jpg
+    width: 3968
+    height: 2976
+    alt: Bunt
+    title: Häuser erstrahlen in unterschiedlichsten Farben
+    orientation: l
+    type: postimg
+  - src: IMG_20190119_184440.jpg
+    width: 3968
+    height: 2976
+    alt: Mural1
+    title: Nicht wenige Bilder stellten militärische Gewalt gegen Bürger dar
+    orientation: l
+    type: postimg
+  - src: IMG_20190120_160331.jpg
+    width: 3968
+    height: 2976
+    alt: Mural2
+    title: Es gab auch stilvolle Bilder
+    orientation: l
+    type: postimg
+  - src: IMG_20190120_160349.jpg
+    width: 2976
+    height: 3968
+    alt: Mural3
+    title: Auch nur in Schwarz-Weiß
+    orientation: l
+    type: postimg
+  - src: IMG_20190120_160706.jpg
+    width: 3968
+    height: 2976
+    alt: Mural4
+    title: Aber auch mit Tieren
+    orientation: l
+    type: postimg
+  - src: IMG_20190122_193922.jpg
+    width: 2976
+    height: 3968
+    alt: Mural5
+    title: Der König
+    orientation: l
+    type: postimg
+  - src: IMG_20190121_145720.jpg
+    width: 3968
+    height: 2976
+    alt: CocaCola
+    title: Hier ist Coca-Cola sehr präsent
+    orientation: l
+    type: postimg
+  - src: IMG_20190121_145705.jpg
+    width: 3968
+    height: 2976
+    alt: Promenade
+    title: Weitere Hochhäuser befinden sich schon im Bau
+    orientation: l
+    type: postimg
+  - src: IMG_20190120_164745.jpg
+    width: 3968
+    height: 2976
+    alt: Cheesecake
+    title: Leckerer Cheesecake mit Aussicht
+    orientation: l
+    type: postimg
+  - src: IMG_20190120_212337.jpg
+    width: 3968
+    height: 2976
+    alt: Moonrise
+    title: Mondaufgang von der Terrasse
+    orientation: l
+    type: postimg
+  - src: IMG_20190119_201249.jpg
+    width: 3968
+    height: 2976
+    alt: Muscheln
+    title: Muschelteller
+    orientation: l
+    type: postimg
+  - src: IMG_20190119_203053.jpg
+    width: 3968
+    height: 2976
+    alt: Thuna
+    title: Thunfischsteak mit Quinoa-Risotto
+    orientation: l
+    type: postimg
 ---
 
 Nach unserem Besuch von [Santiago de Chile](/post/rtw-santiago-de-chile/) stand ein weiteres, berühmtes Ziel auf dem Programm. Zwei Stunden westlich von Santiago liegt die Küstenstadt _Valparaíso_, mit dem Urlaubsort _Viña del Mar_ zusammen der zweitgrößte Ballungsraum Chiles.
@@ -31,23 +130,23 @@ Valparaíso wurde von der UNESCO aufgrund der Architektur aus dem 19. und 20. Ja
 
 Bei unserem ersten Stadtspaziergang  sind wir zuerst bei einem der vielen Plätze herausgekommen. Soweit nichts neues.
 
-{{< postimg src="IMG_20190119_150442.jpg" alt="Plaza" title="Einer der vielen Plazas" w="3968" h="2976" >}}
+{{< postimg "IMG_20190119_150442.jpg" >}}
 
 Die tatsächlichen Highlights sind aber die vielen Wandmalereien. Bilder sagen bekanntlich mehr als tausend Worte.
 
-{{< postimg src="IMG_20190119_153030.jpg" alt="Treppe" title="Hier wurde eine Treppe zum Piano" w="3968" h="2976" >}}
+{{< postimg "IMG_20190119_153030.jpg" >}}
 
-{{< postimg src="IMG_20190119_153241.jpg" alt="Bunt" title="Häuser erstrahlen in unterschiedlichsten Farben" w="3968" h="2976" >}}
+{{< postimg "IMG_20190119_153241.jpg" >}}
 
-{{< postimg src="IMG_20190119_184440.jpg" alt="Mural1" title="Nicht wenige Bilder stellten militärische Gewalt gegen Bürger dar" w="3968" h="2976" >}}
+{{< postimg "IMG_20190119_184440.jpg" >}}
 
-{{< postimg src="IMG_20190120_160331.jpg" alt="Mural2" title="Es gab auch stilvolle Bilder" w="3968" h="2976" >}}
+{{< postimg "IMG_20190120_160331.jpg" >}}
 
-{{< postimg src="IMG_20190120_160349.jpg" alt="Mural3" title="Auch nur in Schwarz-Weiß" w="2976" h="3968" >}}
+{{< postimg "IMG_20190120_160349.jpg" >}}
 
-{{< postimg src="IMG_20190120_160706.jpg" alt="Mural4" title="Aber auch mit Tieren" w="3968" h="2976" >}}
+{{< postimg "IMG_20190120_160706.jpg" >}}
 
-{{< postimg src="IMG_20190122_193922.jpg" alt="Mural5" title="Der König" w="2976" h="3968" >}}
+{{< postimg "IMG_20190122_193922.jpg" >}}
 
 Insgesamt gab es an jeder Ecke andere Motive zu bestaunen.  Diese prägten das Stadtbild an den doch oft recht heruntergekommenen Häusern.
 
@@ -55,7 +154,7 @@ Insgesamt gab es an jeder Ecke andere Motive zu bestaunen.  Diese prägten das S
 
 An einem Tag besuchten wir noch das kleine Miami _Viña del Mar_. Hier gibt es einen langen Sandstrand und ringsherum Hochhäuser für die mit dem großen Geldbeutel. Der Strand war auch ganz ordentlich, allerdings waren überall rote Fahnen, die darauf hinwiesen, dass beim Baden Lebensgefahr besteht. Es gab auch mehrere Schilder, die auf die gefährliche Strömung hinwiesen.
 
-{{< postimg src="IMG_20190121_145720.jpg" alt="CocaCola" title="Hier ist Coca-Cola sehr präsent" w="3968" h="2976" >}}
+{{< postimg "IMG_20190121_145720.jpg" >}}
 
 Zusätzlich bestand aber auch die Gefahr durch riesige Wellen. Sowas sieht man selten an öffentlichen Stadtstränden. Ich würde behaupten die Wellen waren teilweise vier Meter hoch!
 
@@ -63,7 +162,7 @@ Zusätzlich bestand aber auch die Gefahr durch riesige Wellen. Sowas sieht man s
 
 An der Strandpromenade mit den Hochhäuser wird auch noch weiterhin fleißig gebaut.
 
-{{< postimg src="IMG_20190121_145705.jpg" alt="Promenade" title="Weitere Hochhäuser befinden sich schon im Bau" w="3968" h="2976" >}}
+{{< postimg "IMG_20190121_145705.jpg" >}}
 
 Viña del Mar lässt sich tatsächlich einfach per Bus erreichen. In Valparaíso fahren im Minutentakt Busse. Man braucht allerdings gute Augen, um die passende Busnummer (Google Maps ist hier dein Freund) ausfindig zu machen. Ein beherztes Heranwinken des Busses führt dann zum Erfolg. Knapp 0,75€ kostet eine Fahrt, ein Schnapper!
 
@@ -83,17 +182,17 @@ Am folgenden Tag hat es das Erdbeben auch auf [Spiegel Online](http://www.spiege
 
 In dem Café [La Belle Epoque](https://goo.gl/maps/K89mQatqXyr) vebrachten wir mehrere Nachmittage bei schöner Aussicht auf einer sonnengeschützten Terrasse. Die Cheesecakes, aber auch das Essen waren echt lecker.
 
-{{< postimg src="IMG_20190120_164745.jpg" alt="Cheesecake" title="Leckerer Cheesecake mit Aussicht" w="3968" h="2976" >}}
+{{< postimg "IMG_20190120_164745.jpg" >}}
 
 Hier sahen wir mehrmals den Sonnenuntergang, aber auch den Mondaufgang:
 
-{{< postimg src="IMG_20190120_212337.jpg" alt="Moonrise" title="Mondaufgang von der Terrasse" w="3968" h="2976" >}}
+{{< postimg "IMG_20190120_212337.jpg" >}}
 
 Ebenso kann ich das Meeresfrüchterestaurant [Mar de Amores](https://goo.gl/maps/B6oMP7oMKN22) empfehlen. Hier hatten wir einen Muschelteller mit Parmesan überbacken und einen echt günstigen Thunfisch mit Quinoa-Risotto ... sehr lecker!
 
-{{< postimg src="IMG_20190119_201249.jpg" alt="Muscheln" title="Muschelteller" w="3968" h="2976" >}}
+{{< postimg "IMG_20190119_201249.jpg" >}}
 
-{{< postimg src="IMG_20190119_203053.jpg" alt="Thuna" title="Thunfischsteak mit Quinoa-Risotto" w="3968" h="2976" >}}
+{{< postimg "IMG_20190119_203053.jpg" >}}
 
 ## Abreise
 

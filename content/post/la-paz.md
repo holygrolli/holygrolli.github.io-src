@@ -13,15 +13,86 @@ tags:
 - bolivien
 - la paz
 title: La Paz, Bolivien
+images:
+  - src: IMG_20181231_110052.jpg
+    width: 3968
+    height: 2976
+    alt: Babyalpakas
+    title: Babyalpakas mit Fell zum Hexen
+    orientation: l
+    type: postimg
+  - src: IMG_20181231_110137.jpg
+    width: 3968
+    height: 2976
+    alt: Getrocknet
+    title: Links geschrumpftrocknete, gehäutete Alpakas?!
+    orientation: l
+    type: postimg
+  - src: IMG_20181231_115335.jpg
+    width: 2976
+    height: 3968
+    alt: Souvenirs
+    title: Souvenirläden in typischen Innenhöfen
+    orientation: l
+    type: postimg
+  - src: IMG_20181231_111053.jpg
+    width: 3968
+    height: 2976
+    alt: murals1
+    title: Wandmalereien an jeder Ecke
+    orientation: l
+    type: postimg
+  - src: IMG_20190101_141015.jpg
+    width: 3968
+    height: 2976
+    alt: murals2
+    title: Noch mehr Kunst an den Wänden
+    orientation: l
+    type: postimg
+  - src: IMG_20181231_163229.jpg
+    width: 3968
+    height: 2976
+    alt: bunt
+    title: Bunte, interessante Häuser
+    orientation: l
+    type: postimg
+  - src: IMG_20190102_151443-01.jpeg
+    width: 3968
+    height: 2976
+    alt: Illimani
+    title: Blick über die Stadt mit dem Berg Illimani
+    orientation: l
+    type: postimg
+  - src: IMG_20190102_143646-01.jpeg
+    width: 8353
+    height: 2992
+    alt: Killi
+    title: Panorama vom Mirador Killi Killi
+    orientation: l
+    type: postimg
+  - src: IMG_20190102_155427-01.jpeg
+    width: 3968
+    height: 2976
+    alt: Regen
+    title: Ausblick mit Regenschauern über der Stadt
+    orientation: l
+    type: postimg
+  - src: IMG_20190102_161557-01.jpeg
+    width: 3968
+    height: 2976
+    alt: Tanzgruppe
+    title: Lokale Tanzgruppe beim Videodreh
+    orientation: l
+    type: postimg
 ---
 
 ## Hexenmarkt
 
 Nach dem Besuch des (angeblich) [größten Markts der Welt](/post/la-paz-el-alto/) könnte man meinen, das war schon alles, was La Paz zu bieten hat. Dem ist aber nicht so! In La Paz befindet sich auch der berühmte [Hexenmarkt](https://goo.gl/maps/uT36qgC4VCS2). Unser Hotel war um die Ecke und wir konnten uns direkt in das Getümmel stürzen. Da der Hexenmarkt jeden Tag ist und nur aus ein paar wenigen Straßenständen, dafür umso mehr regulären Geschäften besteht, ist hier die Hektik und das Treiben nicht so ausgeprägt, wie auf dem Sonntagsmarkt. Dafür sind die Angebote der Händlerinnen umso kurioser. Hier werden getrocknete Babyalpakas komplett mit Fell genauso wie gehäutet verkauft. Dazu gibt es noch verschiedene Mischungen, die auf einer kleinen Feuerschale verbrannt werden konnten, wahrscheinlich um böse Geister zu vertreiben.
 
-{{< postimg src="IMG_20181231_110052.jpg" alt="Babyalpakas" title="Babyalpakas mit Fell zum Hexen" w="3968" h="2976" >}}
+{{< postimg "IMG_20181231_110052.jpg" >}}
 
-{{< postimg src="IMG_20181231_110137.jpg" alt="Getrocknet" title="Links geschrumpftrocknete, gehäutete Alpakas?!" w="3968" h="2976" >}}
+{{< postimg "IMG_20181231_110137.jpg" >}}
 
 Die Bilder konnten wir nur unter größter Gefahr für Leib und Leben machen. Die _nette_ Verkäuferin dachte wohl, wir machen Fotos von ihr und hat uns direkt beworfen und wahrscheinlich auch verflucht!
 
@@ -29,31 +100,31 @@ Die Bilder konnten wir nur unter größter Gefahr für Leib und Leben machen. Di
 
 Direkt neben dem Hexenmarkt erstrecken sich mehrere Gassen, in denen Souvenirs, Schmuck und Mode verkauft wurden, alles schön integriert in die alten Gebäude. Viele der Gebäude hatten zusätzlich noch einen Innenhof, wo Cafés oder weitere Souvenirläden warteten.
 
-{{< postimg src="IMG_20181231_115335.jpg" alt="Souvenirs" title="Souvenirläden in typischen Innenhöfen" w="2976" h="3968" >}}
+{{< postimg "IMG_20181231_115335.jpg" >}}
 
 Generell mussten wir feststellen, dass La Paz kein günstiges Pflaster ist. Die Alpakakleidung war zum Beispiel in Copacabana oder auch in einigen Örtchen in Peru um einiges billiger. Auch das Essen in den Restaurants war nicht billig.
 
 Egal wo man sich befand, La Paz wirkte sehr bunt. Nicht nur die Häuser waren teilweise bunt gestrichen, es befanden sich auch an allen Ecken verschiedenste Graffitis.
 
-{{< postimg src="IMG_20181231_111053.jpg" alt="murals1" title="Wandmalereien an jeder Ecke" w="3968" h="2976" >}}
+{{< postimg "IMG_20181231_111053.jpg" >}}
 
-{{< postimg src="IMG_20190101_141015.jpg" alt="murals2" title="Noch mehr Kunst an den Wänden" w="3968" h="2976" >}}
+{{< postimg "IMG_20190101_141015.jpg" >}}
 
-{{< postimg src="IMG_20181231_163229.jpg" alt="bunt" title="Bunte, interessante Häuser" w="3968" h="2976" >}}
+{{< postimg "IMG_20181231_163229.jpg" >}}
 
 Wir bewegten uns aus der Altstadt im Stadtteil _Juan XIII_ ohne Probleme zu Fuß zu dem Aussichtspunkt [Mirador Killi Killi](https://goo.gl/maps/oh3dnzGP8WU2). Man musste natürlich ein paar Höhenmeter überwinden, aber auch kein Problem. Dabei waren die Leute in dem dortigen Stadtteil _Villa Pabón_ auch sehr freundlich und empfahlen uns den schnelleren und einfacheren Weg zum Aussichtspunkt. Dass La Paz angeblich unsicher ist können wir zumindest hier nicht bestätigen.
 
 Auf dem Aussichtspunkt hatten wir diesmal auch Glück mit dem Wetter. Es schien die Sonne und erst gegen Ende gab es einen starken Regen- und Hagelschauer. Wir konnten aber diesmal auch Fotos der in der Ferne liegenden Gipfel des _Illimani_ machen. Insgesamt vier schneebedeckte Gipfel über 6000m am Horizont der Stadt!
 
-{{< postimg src="IMG_20190102_151443-01.jpeg" alt="Illimani" title="Blick über die Stadt mit dem Berg Illimani" w="3968" h="2976" >}}
+{{< postimg "IMG_20190102_151443-01.jpeg" >}}
 
-{{< postimg src="IMG_20190102_143646-01.jpeg" alt="Killi" title="Panorama vom Mirador Killi Killi" w="8353" h="2992" >}}
+{{< postimg "IMG_20190102_143646-01.jpeg" >}}
 
-{{< postimg src="IMG_20190102_155427-01.jpeg" alt="Regen" title="Ausblick mit Regenschauern über der Stadt" w="3968" h="2976" >}}
+{{< postimg "IMG_20190102_155427-01.jpeg" >}}
 
 Auf dem Aussichtspunkt hatte sich dann auch eine lokale Tanzgruppe versammelt, um ein Video zu drehen.
 
-{{< postimg src="IMG_20190102_161557-01.jpeg" alt="Tanzgruppe" title="Lokale Tanzgruppe beim Videodreh" w="3968" h="2976" >}}
+{{< postimg "IMG_20190102_161557-01.jpeg" >}}
 
 ## Silvester
 

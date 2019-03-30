@@ -14,6 +14,70 @@ tags:
 - drohne
 - mavic
 title: Salar de Uyuni
+images:
+  - src: IMG_20190105_114039.jpg
+    width: 3968
+    height: 2976
+    alt: Salzstein
+    title: Ziegelsteine aus Salz vor einem Salzhaufen
+    orientation: l
+    type: postimg
+  - src: IMG_20190105_114729.jpg
+    width: 3968
+    height: 2976
+    alt: Salzkristall
+    title: Ein wirklich riesiger Salzkristall
+    orientation: l
+    type: postimg
+  - src: IMG_20190105_134152.jpg
+    width: 3968
+    height: 2976
+    alt: Lunchbuffet
+    title: Unser Lunchbuffet aufgebaut mitten in der Salzwüste
+    orientation: l
+    type: postimg
+  - src: IMG_20190105_132422.jpg
+    width: 3968
+    height: 2976
+    alt: Salar1
+    title: Wolkenreflexion im Wasser der Salzwüste
+    orientation: l
+    type: postimg
+  - src: IMG_20190105_172554.jpg
+    width: 4864
+    height: 3200
+    alt: Salar2
+    title: Der Horizont verschwimmt!
+    orientation: l
+    type: postimg
+  - src: DJI_1546714844000.jpg
+    width: 4000
+    height: 3000
+    alt: Wir
+    title: Wir, mitten in der Unendlichkeit!
+    orientation: l
+    type: postimg
+  - src: IMG_3998.jpg
+    width: 4032
+    height: 3024
+    alt: Perspektive1
+    title: Rapunzel lass dein Haar herunter!
+    orientation: l
+    type: postimg
+  - src: IMG_4007.jpg
+    width: 4032
+    height: 3024
+    alt: Perspektive2
+    title: Eine akrobatische Leistung
+    orientation: l
+    type: postimg
+  - src: IMG_20190105_191340.jpg
+    width: 3968
+    height: 2976
+    alt: Sonnenuntergang
+    title: Sonnenuntergang über dem Salar de Uyuni
+    orientation: l
+    type: postimg
 ---
 
 ## Wahl des Anbieters 
@@ -30,11 +94,11 @@ Wie ihr auf den folgenden Seiten lesen werdet, haben wir aber alles richtig gema
 
 Es hatte sich am Vorabend schon per WhatsApp angekündigt: Unser geplanter, englischsprachiger Fahrer Marco fuhr gerade eine Tour in entgegengesetzter Richtung zu Ende. Das Pärchen sollte an ihrem letzten Tag die Salzwüste besuchen. Somit fuhren wir an unserem ersten Tag in einer Vierergruppe in Richtung der endlosen, weißen Salzwüste. Wir mussten knapp 30 Minuten in den Norden fahren, wo das Dorf _Colchani_ den östlichen Eingang zum Salar de Uyuni bildet. Gleichzeitig ist Colchani auch ein Dorf, was vom Salzabbau und von den Salztouristen lebt. Hier befindet sich ein kleines Salzmuseum und ein Markt. Hier konnte man sehen, wie aus dem Salzsee gewonnene Steine als Ziegelsteine zum Hausbau verwendet werden! 
 
-{{< postimg src="IMG_20190105_114039.jpg" alt="Salzstein" title="Ziegelsteine aus Salz vor einem Salzhaufen" w="3968" h="2976" >}}
+{{< postimg "IMG_20190105_114039.jpg" >}}
 
 Ebenso wurden die wenigen Phasen der Herstellung des hiesigen Speisesalzes gezeigt, genauso wie riesige Salzkristalle.
 
-{{< postimg src="IMG_20190105_114729.jpg" alt="Salzkristall" title="Ein wirklich riesiger Salzkristall" w="3968" h="2976" >}}
+{{< postimg "IMG_20190105_114729.jpg" >}}
 
 Natürlich wurden auch wieder Strickwaren verkauft. Im Vergleich zu La Paz waren die Preise aber hier wirklich günstig.
 
@@ -42,21 +106,21 @@ Danach ging es weiter zum Eingang der Salzwüste. Kurz dahinter war alles eine r
 
 Da wir erst recht spät am Vormittag losgefahren sind war unser erster Stopp die Mittagspause. Marco suchte einen einsamen Punkt irgendwo in der Salzwüste, richtete das Auto entsprechend dem Wind aus und parkte. Dann hatten wir Zeit, Fotos zu machen während er das Mittagessen vorbereitete. Südamerikanisch typisch gab es vorbereitetes Hühnchen mit Beilagen. Sogar Wein hatte Marco mitgebracht. Es sah sehr exquisit aus:
 
-{{< postimg src="IMG_20190105_134152.jpg" alt="Lunchbuffet" title="Unser Lunchbuffet aufgebaut mitten in der Salzwüste" w="3968" h="2976" >}}
+{{< postimg "IMG_20190105_134152.jpg" >}}
 
 An dem Standort war alles über weite Teile mit einem Film von Wasser überzogen, meist keine zwei Finger breit, so dass man ohne Gummistiefel auch mit Wanderschuhen stehen konnte. Wir waren mit Flip-Flops vorbeitet und das Wasser war durch die Sonne auch angenehm warm. Die Reflexionen sorgten auch dank des super Wetters für tolle Motive.
 
-{{< postimg src="IMG_20190105_132422.jpg" alt="Salar1" title="Wolkenreflexion im Wasser der Salzwüste" w="3968" h="2976" >}}
+{{< postimg "IMG_20190105_132422.jpg" >}}
 
-{{< postimg src="IMG_20190105_172554.jpg" alt="Salar2" title="Der Horizont verschwimmt!" w="4864" h="3200" >}}
+{{< postimg "IMG_20190105_172554.jpg" >}}
 
-{{< postimg src="DJI_1546714844000.jpg" alt="Wir" title="Wir, mitten in der Unendlichkeit!" w="4000" h="3000" >}}
+{{< postimg "DJI_1546714844000.jpg" >}}
 
 Ein späterer Stopp war dann für die typischen Perspektivfotos. Unser Fahrer Marco war _der_ Profifotograf und sagte uns dauernd was wir noch alles machen könnten. Er nahm dafür unsere Telefone und fotografierte in einer Tour. Alle Posen waren am Anfang für uns schon ziemlich merkwürdig, die Ergebnisse dafür umso besser.
 
-{{< postimg src="IMG_3998.jpg" alt="Perspektive1" title="Rapunzel lass dein Haar herunter!" w="4032" h="3024" >}}
+{{< postimg "IMG_3998.jpg" >}}
 
-{{< postimg src="IMG_4007.jpg" alt="Perspektive2" title="Eine akrobatische Leistung" w="4032" h="3024" >}}
+{{< postimg "IMG_4007.jpg" >}}
 
 Wie auf dem letzten Foto zu sehen hatten wir trotz der ursprünglich geplanten Tour zu zweit auch zu viert eine Menge Spaß. Das schweizer Pärchen Erika und Daniel waren dabei definitiv eine Bereicherung für die Tour. Für die Salzwüste muss man daher klar sagen, es macht in einer größeren Gruppe einfach mehr Spaß!
 
@@ -66,6 +130,6 @@ Während unserer Stopps und auch während der Fahrt kam auch mal wieder die Droh
 
 Nach 17 Uhr waren wir dann mit allem fertig und Marco, unser Fahrer, wollte uns wahrscheinlich gern zurück nach Uyuni fahren. Aber wir wollten unbedingt den Sonnenuntergang abwarten. Wir warteten dann tatsächlich noch im Auto auf den Sonnenuntergang. Leider war es sehr bewölkt, so dass die Fotos nicht ganz so beeindruckend wurden, wie wir uns erhofft haben.
 
-{{< postimg src="IMG_20190105_191340.jpg" alt="Sonnenuntergang" title="Sonnenuntergang über dem Salar de Uyuni" w="3968" h="2976" >}}
+{{< postimg "IMG_20190105_191340.jpg" >}}
 
 Am Ende ging es dann nach einem unglaublichen Tag zurück nach Uyuni, wo wir uns auf die nächsten zwei Tage im Hochland von Bolivien freuen konnten. Diese Tage beschreibe ich im [nächsten](/post/rtw-uyuni-san-pedro/) Blogpost.

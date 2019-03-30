@@ -8,6 +8,31 @@ tags:
 - Fotos
 - Handy
 title: Moto G6 - ein kurzer (Foto-) Erfahrungsbericht
+images:
+  - src: IMG_20180527_131518_affinity.jpg
+    width: 4
+    height: 3
+    title: Moto G6 RAW mit Affinity
+    orientation: l
+    type: postimg
+  - src: LRM_EXPORT_20180527_132635.jpg
+    width: 2048
+    height: 1534
+    title: Moto G6 RAW mit Android Lightroom
+    orientation: l
+    type: postimg
+  - src: IMG_20180527_131407847_HDR.jpg
+    width: 4
+    height: 3
+    title: Moto G6 HDR mit Motorola App
+    orientation: l
+    type: postimg
+  - src: IMG_20180527_131402304.jpg
+    width: 4
+    height: 3
+    title: Moto G6 mit Motorola App
+    orientation: l
+    type: postimg
 ---
 
 Nach über einem Jahr mit meinem Motorola G5 Plus, welches ich schon (erfolgreich) an mehrere Verwandte und Bekannte empfohlen habe, habe ich auf den Erscheinungstermin des Moto G6 in der Special Edition bei [Amazon][amazonG6] gewartet. Special Edition deshalb, weil die Version mit 4 GB RAM und 64 GB Speicher exklusiv bei Amazon verkauft wird, und das für nur 40 Euro mehr.
@@ -20,19 +45,19 @@ Ein Jahr habe ich mit Lightroom "gearbeitet", um hier und da etwas mehr aus Foto
 
 Im Hinblick auf das Moto G6 muss ich auch wieder feststellen, dass Affinity hier keine brauchbaren Ergebnisse liefert. Generell sind die RAW-Fotos des G6 wirklich _roh_, d.h. die Farben sehen sehr blass aus, was in Affinity nur bedingt zu retten, wie dieses Foto beweist:
 
-{{< postimg src="IMG_20180527_131518_affinity.jpg" alt="Moto G6 RAW mit Affinity">}}
+{{< postimg "IMG_20180527_131518_affinity.jpg" >}}
 
 Vergleicht man das Ergebnis mit der Lightroom Android App, die begrenzte kostenlose Möglichkeiten bietet, dann liegen Welten dazwischen:   
 
-{{< postimg src="LRM_EXPORT_20180527_132635.jpg" alt="Moto G6 RAW mit Android Lightroom" w="2048" h="1534" >}}
+{{< postimg "LRM_EXPORT_20180527_132635.jpg" >}}
 
 Sieht man sich dann noch die HDR-Aufnahme der Motorola-Kamera-App an, dann muss man echt feststellen, dass das Bild schon initial sehr gut aussieht:
 
-{{< postimg src="IMG_20180527_131407847_HDR.jpg" alt="Moto G6 HDR mit Motorola App">}}
+{{< postimg "IMG_20180527_131407847_HDR.jpg" >}}
 
 Zu guter Letzt und wegen der Vollständigkeit hier die normale Aufnahme, ohne HDR:
 
-{{< postimg src="IMG_20180527_131402304.jpg" alt="Moto G6 mit Motorola App">}}
+{{< postimg "IMG_20180527_131402304.jpg" >}}
 
 Am Ende muss ich feststellen, dass ich auf alle Fälle noch ein wenig mehr mit Affinity Photo üben muss. Weiterhin muss ich noch anmerken, dass es mit dem Moto G6 und der [AusweisApp2][ausweisapp] endlich möglich ist, sich mit dem neuen Personalausweis auszuweisen. Das "alte" Moto G5 Plus hatte den Dienst mit Protokollfehlern verweigert.
 

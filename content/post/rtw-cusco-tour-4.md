@@ -13,6 +13,28 @@ tags:
 - cusco
 - alpaka
 title: Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 4
+images:
+  - src: IMG_20181209_110450.jpg
+    width: 4
+    height: 3
+    alt: Terrassen
+    title: Die Inkaterrassen von Pisac
+    orientation: l
+    type: postimg
+  - src: IMG_20181209_122534.jpg
+    width: 4
+    height: 3
+    alt: Draufsicht
+    title: Sicht von oben auf die Ruinen und Terrassen
+    orientation: l
+    type: postimg
+  - src: IMG_20181209_150509-01.jpeg
+    width: 4
+    height: 3
+    alt: Markt
+    title: Markt in den Gassen von Pisac
+    orientation: l
+    type: postimg
 ---
 
 Am 9. Dezember machten wir unsere letzte Tagestour ins Umland von Cusco. Diesmal starteten wir ein bisschen später, da unser Taxifahrer Ricardo an diesem Sonntag noch wählen gehen durfte. Allerdings erklärte er uns auf der Fahrt, dass es eine Art Wahlpflicht gibt, denn Nichtwähler müssen eine "Strafe" zahlen.
@@ -25,15 +47,15 @@ Die Inkaruine von Pisac ist natürlich auf dem Berg, d.h. es ging von Pisac mit 
 
 Die Ruinen ziehen sich wieder entlang des Berges und werden von den typischen Inkaterrassen unterstützt, die noch heute für Landwirtschaft genutzt werden. Dabei reichten die Terrassen wiederum fast bis ins Tal. Auch hier muss ich wieder einen Vergleich mit [Machu Picchu]({{< ref "rtw-machu-picchu.md" >}}) anstellen. Der Machu Picchu liegt halt einfach abgeschiedener und wirkt dadurch beeindruckender. Die Ruinen von Pisac stehen dem Machu Picchu aber meiner Meinung nach architektonisch in nichts nach.
 
-{{< postimg src="IMG_20181209_110450.jpg" alt="Terrassen" title="Die Inkaterrassen von Pisac" >}}
+{{< postimg "IMG_20181209_110450.jpg" >}}
 
-{{< postimg src="IMG_20181209_122534.jpg" alt="Draufsicht" title="Sicht von oben auf die Ruinen und Terrassen" >}}
+{{< postimg "IMG_20181209_122534.jpg" >}}
 
 ## Historischer Markt
 
 Ein weiteres Highlight ist der historische Markt im Zentrum von Pisac. Immer Dienstags, Donnerstags und Sonntags versuchen hier zahlreiche Händler vor allem Kleidung und Schmuck loszuwerden. Der größte Markttag ist dabei der Sonntag. Hier lohnt es sich vorbeizuschauen, um sehr günstig Silberschmuck und Alpakakleidung zu bekommen. Verglichen mit Cusco kann man hier teilweise noch einmal 50% sparen. Dazu muss man aber gewillt sein, mit den Händlern zu handeln, auch wenn die normalen Preise schon unter denen von Cusco liegen.
 
-{{< postimg src="IMG_20181209_150509-01.jpeg" alt="Markt" title="Markt in den Gassen von Pisac" >}}
+{{< postimg "IMG_20181209_150509-01.jpeg" >}}
 
 Rückblickend bleibt zu schreiben, dass man sich zuerst in Cusco umschauen, aber zurückhalten sollte. In Cusco gibt es teilweise modernere Kleidungsstücke. Wenn man dann den Markt in Pisac besucht hat und noch Platz im Gepäck bzw. noch Geld übrig hat, dann kann man in Cusco zuschlagen. Eine Alpakastrickjacke hat mich hier umgerechnet keine 15€ gekostet. Der Silberschmuck (950er Silber) war im Set (Halskette mit zwei Ohrringen) mit den verschiedensten lokalen Steinen und Inkaformen für knapp 25€ zu bekommen.
 

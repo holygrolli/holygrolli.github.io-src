@@ -14,6 +14,157 @@ tags:
 - argentinien
 - brasilien
 title: Puerto Iguazú, Argentinien
+images:
+  - src: IMG_20190208_131940.jpg
+    width: 3968
+    height: 2976
+    title: Warnung vor den Risiken der Natur
+    orientation: l
+    type: postimg
+  - src: IMG_20190208_135106.jpg
+    width: 2976
+    height: 3968
+    title: Argentinier und Mate sind untrennbar
+    orientation: l
+    type: postimg
+  - src: IMG_20190208_144347.jpg
+    width: 3968
+    height: 2976
+    title: Sicht auf einen Teil der Wasserfälle
+    orientation: l
+    type: postimg
+  - src: IMG_20190208_144418.jpg
+    width: 9856
+    height: 3072
+    title: Panorama mitten im Dschungel
+    orientation: l
+    type: postimg
+  - src: IMG_20190208_164229.jpg
+    width: 7424
+    height: 3136
+    title: Blick auf die größten Wasserfälle
+    orientation: l
+    type: postimg
+  - src: IMG_20190208_145500.jpg
+    width: 2976
+    height: 3968
+    title: Schmetterlinge ...
+    orientation: l
+    type: postimg
+  - src: IMG_20190208_171708.jpg
+    width: 3968
+    height: 2976
+    title: ... waren überall zu sehen
+    orientation: l
+    type: postimg
+  - src: IMG_20190209_112946.jpg
+    width: 3968
+    height: 2976
+    title: Mittagsschlaf der Nasenbären
+    orientation: l
+    type: postimg
+  - src: IMG_20190209_113027.jpg
+    width: 3968
+    height: 2976
+    title: Mittagssnack für kleine Nasenbären
+    orientation: l
+    type: postimg
+  - src: IMG_20190209_131416.jpg
+    width: 4864
+    height: 3200
+    title: Die Iguazú-Wasserfälle von vorn
+    orientation: l
+    type: postimg
+  - src: IMG_20190209_134614~2.jpg
+    width: 3968
+    height: 2976
+    title: Echse im Gebüsch
+    orientation: l
+    type: postimg
+  - src: IMG_20190209_143512.jpg
+    width: 3968
+    height: 2976
+    title: Weiterer Blick von vorn
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_143636.jpg
+    width: 3968
+    height: 2976
+    title: Kronenkranich
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_143701.jpg
+    width: 3968
+    height: 2976
+    title: Flamingos
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_143855.jpg
+    width: 3968
+    height: 2976
+    title: Ein Spiegel gaukelt weitere Partner vor
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_145244.jpg
+    width: 3968
+    height: 2976
+    title: Ein Huhn mit Haube
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_150854.jpg
+    width: 3968
+    height: 2976
+    title: Tucan
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_151158.jpg
+    width: 3968
+    height: 2976
+    title: Zwei Tucane beim Fressen
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_155515.jpg
+    width: 3968
+    height: 2976
+    title: Eine riesige Schnecke
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_155910.jpg
+    width: 2976
+    height: 3968
+    title: eine von vielen Blüten
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_161735.jpg
+    width: 3968
+    height: 2976
+    title: Eine Raupe im Schmetterlingshaus
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_162146.jpg
+    width: 3968
+    height: 2976
+    title: Ein entspannter Kolibri
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_160723.jpg
+    width: 3968
+    height: 2976
+    title: Ein kleinerer Papagai
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_164047.jpg
+    width: 3968
+    height: 2976
+    title: Zwei große Papageien
+    orientation: l
+    type: postimg
+  - src: IMG_20190210_163238.jpg
+    width: 2976
+    height: 3968
+    title: Eine kleine Eule
+    orientation: l
+    type: postimg
 ---
 
 ## Anreisemarathon
@@ -26,27 +177,27 @@ Ursprünglich wollten wir unsere knappe Zeit hier gleich am ersten Tag nutzen, u
 
 Nach einem entspannten Frühstück ging es erst am späten Vormittag mit dem öffentlichen Bus für 130 ARS pro Person zum Nationalpark. Der Eintritt schlug mit weiteren 700 ARS (weniger als 17€) zu Buche. Danach ging es dann auf den oberen Wanderweg zu Wasserfällen. Am Eingang weist ein Schild noch auf die "riesigen" Gefahren im Park hin. Wahrscheinlich muss man sich auch hier rechtlich gegen alles mögliche absichern.
 
-{{< postimg src="IMG_20190208_131940.jpg" alt="Warnung vor den Risiken der Natur" w="3968" h="2976" >}}
+{{< postimg "IMG_20190208_131940.jpg" >}}
 
 Amüsant fanden wir auch die Häufigkeit von Menschen, die Thermogefäße mit heißem Wasser und passendem Mate Becher bei sich hatten - bei 30°C im Schatten.
 
-{{< postimg src="IMG_20190208_135106.jpg" alt="Argentinier und Mate sind untrennbar" w="2976" h="3968" >}}
+{{< postimg "IMG_20190208_135106.jpg" >}}
 
 Aber das nur am Rande, denn auf dem Weg des Rundkurses sahen wir schon immer wieder kleinere Wasserfälle. Insgesamt bestehen die Iguazú-Wasserfälle aus über 200 einzelnen Wasserfällen mit einer Ausdehnung über 2km. Von einer der Aussichtspunkte sah man einen _kleinen_ Ausschnitt:
 
-{{< postimg src="IMG_20190208_144347.jpg" alt="Sicht auf einen Teil der Wasserfälle" w="3968" h="2976" >}}
+{{< postimg "IMG_20190208_144347.jpg" >}}
 
-{{< postimg src="IMG_20190208_144418.jpg" alt="Panorama mitten im Dschungel" title="" w="9856" h="3072" >}}
+{{< postimg "IMG_20190208_144418.jpg" >}}
 
 Nach dem Rundkurs ging es dann mit einer kleinen Eisenbahn zu einem langen System von Brücken, die über die Arme des Flusses _Río Iguazú_ gebaut wurden, um aus zentraler Position auf die größten Wasserfälle zu blicken.
 
-{{< postimg src="IMG_20190208_164229.jpg" alt="Blick auf die größten Wasserfälle" w="7424" h="3136" >}}
+{{< postimg "IMG_20190208_164229.jpg" >}}
 
 Auf dem Weg durch den Dschungel konnte man viele Schmetterlinge und Vögel sehen, die auch nicht allzu scheu waren.
 
-{{< postimg src="IMG_20190208_145500.jpg" alt="Schmetterlinge ..." w="2976" h="3968" >}}
+{{< postimg "IMG_20190208_145500.jpg" >}}
 
-{{< postimg src="IMG_20190208_171708.jpg" alt="... waren überall zu sehen" w="3968" h="2976" >}}
+{{< postimg "IMG_20190208_171708.jpg" >}}
 
 Da wir an dem Tag nicht alles geschafft hatten, beschlossen wir auch am darauffolgenden Tag noch einmal die Wasserfälle zu besuchen. Für den folgenden Tag gibt es 50% Rabatt auf das Ticket. Dieses muss aber noch am ersten Tag am Ticketschalter auf den Tickets vermerkt werden.
 
@@ -54,21 +205,21 @@ Wir hatten uns wirklich vorgenommen, diesmal am Vormittag den Bus rechtzeitig zu
 
 Im Park hatten wir direkt hinter dem Eingang noch das Vergnügen ein Rudel Nasenbären beim Mittagsschlaf zu sehen. Die Mittagshitze machte ihnen zu schaffen und da kann man ruhig alle viere von sich strecken:
 
-{{< postimg src="IMG_20190209_112946.jpg" alt="Mittagsschlaf der Nasenbären" w="3968" h="2976" >}}
+{{< postimg "IMG_20190209_112946.jpg" >}}
 
-{{< postimg src="IMG_20190209_113027.jpg" alt="Mittagssnack für kleine Nasenbären" w="3968" h="2976" >}}
+{{< postimg "IMG_20190209_113027.jpg" >}}
 
 Diesmal begaben wir uns auf den unteren Rundweg, der wieder eine andere Perspektive bot, die aber mindestens genauso beeindruckend war. 
 
-{{< postimg src="IMG_20190209_131416.jpg" alt="Die Iguazú-Wasserfälle von vorn" w="4864" h="3200" >}}
+{{< postimg "IMG_20190209_131416.jpg" >}}
 
 Im Gebüsch konnte man Echsen erspähen, die hofften, Leckereien von Touristen zu bekommen.
 
-{{< postimg src="IMG_20190209_134614~2.jpg" alt="Echse im Gebüsch" w="3968" h="2976" >}}
+{{< postimg "IMG_20190209_134614~2.jpg" >}}
 
 Am Ende würde ich jedem raten, alle Rundwege zu laufen, da die Perspektiven schon grundverschieden sind und sich auf alle Fälle lohnen. Ob man dafür ein oder zwei Tage einplant hängt sicher vom Wetter und dem persönlichen Wünschen ab.
 
-{{< postimg src="IMG_20190209_143512.jpg" alt="Weiterer Blick von vorn" w="3968" h="2976" >}}
+{{< postimg "IMG_20190209_143512.jpg" >}}
 
 ## Parque das Aves
 
@@ -76,43 +227,43 @@ An unserem dritten Tag hatten wir bis Mittag mit Regen zu tun. Grundsätzlich ha
 
 Am [Parque das Aves](https://goo.gl/maps/Z6peqcQqFBL2) bezahlten wir gerade einmal knapp 10,50€ pro Person und bekamen den ganzen Tag Zugang zum Park, der mitten im Dschungel ist und aus einzelnen Gehegen, Käfigen aber auch aus riesigen, mit Netzen abgetrennten Anlagen besteht. Hier gab es viele Vögel zu sehen, zu Beginn hier ein Kronenkranich:
 
-{{< postimg src="IMG_20190210_143636.jpg" alt="Kronenkranich" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_143636.jpg" >}}
 
 Schön zu beobachten waren auch die Flamingos, deren Gehege an einer Seite mit einem Spiegel begrenzt war, um den in großen Gruppen lebenden Vögeln noch mehr Artgenossen vorzugaukeln.
 
-{{< postimg src="IMG_20190210_143701.jpg" alt="Flamingos" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_143701.jpg" >}}
 
-{{< postimg src="IMG_20190210_143855.jpg" alt="Ein Spiegel gaukelt weitere Partner vor" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_143855.jpg" >}}
 
 Hühner gab es auch.
 
-{{< postimg src="IMG_20190210_145244.jpg" alt="Ein Huhn mit Haube" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_145244.jpg" >}}
 
 In einer großen Anlage konnten wir auch Tucane erleben:
 
-{{< postimg src="IMG_20190210_150854.jpg" alt="Tucan" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_150854.jpg" >}}
 
-{{< postimg src="IMG_20190210_151158.jpg" alt="Zwei Tucane beim Fressen" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_151158.jpg" >}}
 
 Auf dem Weg in der Anlage wäre ich beinahe über eine riesige Schnecke gestolpert!
 
-{{< postimg src="IMG_20190210_155515.jpg" alt="Eine riesige Schnecke" title="" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_155515.jpg" >}}
 
 Neben den verschiedenen Vögeln gab es auch unzählige Blüten zu sehen. Ebenso gab es ein extra Schmetterlingshaus in dem nicht nur viele Schmetterlinge waren, sondern auch Kolibris, die mal nicht hektisch durch die Gegend flogen und man sie sogar mit dem Telefon ablichten konnte.
 
-{{< postimg src="IMG_20190210_155910.jpg" alt="eine von vielen Blüten" w="2976" h="3968" >}}
+{{< postimg "IMG_20190210_155910.jpg" >}}
 
-{{< postimg src="IMG_20190210_161735.jpg" alt="Eine Raupe im Schmetterlingshaus" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_161735.jpg" >}}
 
-{{< postimg src="IMG_20190210_162146.jpg" alt="Ein entspannter Kolibri" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_162146.jpg" >}}
 
 Neben verschiedenen Papagaien gab es auch einige Greifvögel wie Adler und Eulen zu sehen.
 
-{{< postimg src="IMG_20190210_160723.jpg" alt="Ein kleinerer Papagai" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_160723.jpg" >}}
 
-{{< postimg src="IMG_20190210_164047.jpg" alt="Zwei große Papageien" w="3968" h="2976" >}}
+{{< postimg "IMG_20190210_164047.jpg" >}}
 
-{{< postimg src="IMG_20190210_163238.jpg" alt="Eine kleine Eule" w="2976" h="3968" >}}
+{{< postimg "IMG_20190210_163238.jpg" >}}
 
 Nach dem Besuch des Vogelparks ließen wir uns von dem Taxifahrer direkt in Puerto Iguazú absetzen, da dort ein Aussichtspunkt mit Blick auf das Dreiländereck ist. Hier, wo der Río Iguazú in den Río Paraná mündet, treffen die drei Länder Paraguay, Brasilien und Argentinien aufeinander.
 

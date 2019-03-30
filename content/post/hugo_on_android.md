@@ -7,6 +7,13 @@ description: 'Challenge: den Blog auf Reisen aktualisieren - nur mit einem Andro
 tags:
 - hugo
 title: Hugo auf einem Android Tablet
+images:
+  - src: IMG_20171229_130724_HDR.jpg
+    width: 4
+    height: 3
+    title: Hugo auf dem Tablet
+    orientation: l
+    type: postimg
 ---
 
 Gerade beginnt Woche 3 in Sri Lanka und während wir auf unseren Fahrer warten habe ich 2 Stunden Zeit zum Basteln. 
@@ -21,6 +28,6 @@ Nach dem Entpacken steht einem nun die Hugo Binary zur Verfügung und kann genau
 
 Das ganze ermöglicht dann doch eine recht mobile Variante des Bloggens, wie dieses Bild beweist:
 
-{{< postimg src="IMG_20171229_130724_HDR.jpg" alt="Hugo auf dem Tablet">}}
+{{< postimg "IMG_20171229_130724_HDR.jpg" >}}
 
 [hugo]: https://github.com/gohugoio/hugo/releases

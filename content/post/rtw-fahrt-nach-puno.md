@@ -11,6 +11,14 @@ tags:
 - cusco
 - puno
 title: Fahrt nach Puno am Titicaca-See
+images:
+  - src: IMG_20181213_124323.jpg
+    width: 4
+    height: 3
+    alt: Plaza
+    title: Plaza de Armas von Puno
+    orientation: l
+    type: postimg
 ---
 
 Nach unserer [letzten]({{< ref "rtw-cusco-tour-4.md" >}}) Tagestour hatten wir noch zwei volle Tage, um in Cusco auszuspannen bzw. noch ein [Museum]({{< ref "rtw-cusco.md" >}}) zu besuchen. Dann hieß es aber endgültig Abschied nehmen, denn Südamerika hat noch eine Menge zu bieten, auch wenn ich persönlich nicht glaube, dass es irgendwo besser sein kann, als in Cusco. Aber wir haben ja noch ein paar Monate vor uns, die mich eines Besseren belehren können.
@@ -25,7 +33,7 @@ Das Programm von Boliviahop erforderte nicht zwingend eine Übernachtung in Puno
 
 Als wir uns dann ein wenig in der Stadt umschauten, mussten wir feststellen, dass Puno nicht wirklich etwas zu bieten hat. Wie immer gab es einen Plaza de Armas mit einer Kirche.
 
-{{< postimg src="IMG_20181213_124323.jpg" alt="Plaza" title="Plaza de Armas von Puno" >}}
+{{< postimg "IMG_20181213_124323.jpg" >}}
 
 Nach ein wenig Überlegen über die Möglichkeiten haben wir uns dann doch für eine Zweitagestour zu den Inseln des Titicaca-See entschieden. Wir gingen direkt zu dem Tourveranstalter, den Boliviahop für 130 Soles vermittelt hätte und buchten die gleiche Tour (ohne Mittagessen an Tag 2) für nur 100 Soles pro Person, also gerade einmal 25€ für Übernachtung bei einer Familie, Mittagessen, Abendessen und Frühstück und natürlich in Summe knapp sechs Stunden Bootsfahrt. Wie es auf der Tour war, könnt ihr dann im nächsten Beitrag lesen. Wir mussten natürlich auch unser Hotel um eine Nacht verlängern, damit wir unser komplettes Gepäck während der Inseltour einfach im Zimmer lassen konnten.
 

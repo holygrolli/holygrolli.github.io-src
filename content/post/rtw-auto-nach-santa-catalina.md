@@ -10,6 +10,70 @@ tags:
 - rtw
 - panama
 title: Mit dem Auto nach Santa Catalina
+images:
+  - src: IMG_20181102_103653.jpg
+    width: 4
+    height: 3
+    alt: Panama-Kanal
+    title: Panama-Kanal, Blick nach Norden zur nächsten Schleuse
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_103756.jpg
+    width: 2368
+    height: 6464
+    alt: Panama-Kanal
+    title: Panorama der Schleuse vom Panama-Kanal
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_133634.jpg
+    width: 4
+    height: 3
+    alt: Burger1
+    title: leckerer vegetarischer Burger
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_133639.jpg
+    width: 4
+    height: 3
+    alt: Burger-Trio
+    title: drei kleine Mini-Burger
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_142919.jpg
+    width: 4
+    height: 3
+    alt: Supermarkt
+    title: Gemüse im Supermarkt
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_142934.jpg
+    width: 4
+    height: 3
+    alt: Supermarkt
+    title: Ananas und Bananen schön sortiert
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_143145.jpg
+    width: 4
+    height: 3
+    alt: Supermarkt
+    title: Orangen und anderes Obst
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_220535.jpg
+    width: 4
+    height: 3
+    alt: Unterkunft
+    title: unser AirBnB-Zimmer in Santa Catalina
+    orientation: l
+    type: postimg
+  - src: IMG_20181102_223901.jpg
+    width: 4
+    height: 3
+    alt: Moskitonetz
+    title: das Bett nach persönlichen Anpassungen
+    orientation: l
+    type: postimg
 ---
 
 Der fünfte Tag sollte wieder ein Reisetag werden. Ziel war Santa Catalina in der Region Veraguas im Südwesten Panamas. Mit dem Auto war die Reisezeit von Panama City mit ca. 5h 30m angegeben. Kurz nach Panama City war noch der Panama-Kanal auf der Agenda.
@@ -38,9 +102,9 @@ Am Panama-Kanal kam der erste kleine Dämpfer: $20 Eintritt pro Person ... für 
 
 Zuerst waren wir auf der Aussichtsplattform, da wir noch 20 Minuten Zeit hatten, bis der Einlass zur englischsprachigen Vorführung begann (Zwei Vorstellungen pro Stunde, eine Englisch, eine Spanisch). Dort angekommen haben wir erfahren, dass wir gerade ein Schiff verpasst haben. Die Aussicht war leider auch nicht so spektakulär.
 
-{{< postimg src="IMG_20181102_103653.jpg" alt="Panama-Kanal" title="Panama-Kanal, Blick nach Norden zur nächsten Schleuse" >}}
+{{< postimg "IMG_20181102_103653.jpg" >}}
 
-{{< postimg src="IMG_20181102_103756.jpg" alt="Panama-Kanal" title="Panorama der Schleuse vom Panama-Kanal" w="2368" h="6464" >}}
+{{< postimg "IMG_20181102_103756.jpg" >}}
 
 Nach der leichten Enttäuschung über die unspektakulären Bilder besuchten wir den Film und das Museum. Danach dämmerte es uns (und es war wirklich nicht offensichtlich): eine Erweiterung des Kanals für größere Containerschiffe wurde 2016 fertiggestellt und diese Erweiterung in Form einer neuen Schleuse befindet sich _hinter_ der hier dargestellten und ist von der Aussichtsplattform nicht zu sehen ... enttäuschend (zumal Drohnenflüge natürlich nicht erlaubt sind).
 
@@ -54,17 +118,17 @@ Wie wir im Nachhinein feststellen mussten, war unser Ausflugswochenende auch noc
 
 Ziemlich zu Beginn der Fahrt hatten wir noch einmal kurz zum Mittagessen gehalten. In Panama sieht vieles aus, wie in den USA. Dadurch waren entlang der Panamericana oft typisch amerikanische Malls. Katrin wollte unbedingt einen Burgerladen, [Slabón](https://goo.gl/maps/1ZUtAY9HSJk), testen. Dieser war zwar nicht günstig, aber gut. Ich hatte den einzigen vegetarischen Burger, dessen Patty scheinbar aus einer leckeren Auberginenmischung bestand.
 
-{{< postimg src="IMG_20181102_133634.jpg" alt="Burger1" title="leckerer vegetarischer Burger" >}}
+{{< postimg "IMG_20181102_133634.jpg" >}}
 
-{{< postimg src="IMG_20181102_133639.jpg" alt="Burger-Trio" title="drei kleine Mini-Burger" >}}
+{{< postimg "IMG_20181102_133639.jpg" >}}
 
 Der Supermarkt in der Mall war auch typisch amerikanisch und bot fein gestapelte Früchte und Gemüse, soweit das Auge reichte.
 
-{{< postimg src="IMG_20181102_142919.jpg" alt="Supermarkt" title="Gemüse im Supermarkt" >}}
+{{< postimg "IMG_20181102_142919.jpg" >}}
 
-{{< postimg src="IMG_20181102_142934.jpg" alt="Supermarkt" title="Ananas und Bananen schön sortiert" >}}
+{{< postimg "IMG_20181102_142934.jpg" >}}
 
-{{< postimg src="IMG_20181102_143145.jpg" alt="Supermarkt" title="Orangen und anderes Obst" >}}
+{{< postimg "IMG_20181102_143145.jpg" >}}
 
 ## Ankunft
 
@@ -72,13 +136,13 @@ Gegen 22 Uhr waren wir endlich in Santa Catalina und waren gefühlt auf den letz
 
 Aufgrund der angespannten Feiertagssituation gab es zum Buchungszeitpunkt keine freien Unterkünfte in den typischen Hotelportalen mehr. Glücklicherweise haben wir dann noch etwas bei AirBnB gefunden und auch überraschenderweise eine sofortige Rückmeldung vom Gastgeber erhalten. Als wir dann aber angekommen waren und uns das Zimmer übergeben wurde, waren wir doch ein wenig enttäuscht. Nicht nur dass die Unterkunft "leicht" nach Schimmel roch, nein, es waren auch die Bezüge des Betts bunt mit Flecken durchzogen.
 
-{{< postimg src="IMG_20181102_220535.jpg" alt="Unterkunft" title="unser AirBnB-Zimmer in Santa Catalina" >}}
+{{< postimg "IMG_20181102_220535.jpg" >}}
 
 Die Gastgeberin versorgte uns daraufhin noch mit neuen Bezügen, allerdings mit dem Hinweis, dass das doch in Santa Catalina normal sei, da ja die Luftfeuchtigkeit regelmäßg weit über 90 Prozent liegt. Leider waren die neuen Bezüge auch nicht perfekt. Das Ergebnis war, dass wir unsere Hüttenschlafsäcke gleich zur Anwendung brachten.
 
 Natürlich gehört es sich auch, sich selbst vor allem möglichen Ungeziefer und vor allem Mücken zu schützen. Das Ergebnis war nun auch die wie immer spannende Montage des Moskitonetzes.
 
-{{< postimg src="IMG_20181102_223901.jpg" alt="Moskitonetz" title="das Bett nach persönlichen Anpassungen" >}}
+{{< postimg "IMG_20181102_223901.jpg" >}}
 
 Da die _alte_ Klimanlage direkt über den Kopf war, verzichteten wir hier auch auf eine Benutzung, was den Aufenthalt nicht unbedingt besser machte.
 
