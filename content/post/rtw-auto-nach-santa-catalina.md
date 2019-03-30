@@ -64,7 +64,7 @@ Der Supermarkt in der Mall war auch typisch amerikanisch und bot fein gestapelte
 
 {{< postimg src="IMG_20181102_142934.jpg" alt="Supermarkt" title="Ananas und Bananen schön sortiert" >}}
 
-{{< postimg src="IMG_20181102_142934.jpg" alt="Supermarkt" title="Orangen und anderes Obst" >}}
+{{< postimg src="IMG_20181102_143145.jpg" alt="Supermarkt" title="Orangen und anderes Obst" >}}
 
 ## Ankunft
 

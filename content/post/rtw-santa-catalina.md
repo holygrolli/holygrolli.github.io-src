@@ -59,8 +59,6 @@ Da wir kein Frühstück im AirBnB dabei hatten, mussten wir eine Alternative fin
 
 Das Essen war so gut, dass wir hier jeden Tag frühstückten.
 
-{{< postimg src="IMG_20181103_093810.jpg" alt="Bekanntschaften" title="Sandwiches in der La Panaderia Vieja" >}}
-
 Die zwei Abendessen genehmigten wir uns im [El Chillinguito](https://goo.gl/maps/z4kKMJAAQHr) und im [Hotel Iguanito](https://goo.gl/maps/hoDuFzpSHBq) dessen Besitzer ein deutscher Auswanderer ist. Der hier servierte _tropical Sangria_ war ein Traum! Wir hatten hier auch wunderbare Thunfischfilets, einmal als Art Teriyaki und einmal mit Sesamkruste.
 
 {{< postimg src="IMG_20181104_210002.jpg" alt="Abendessen" title="Thunfisch im Iguanito" >}}
