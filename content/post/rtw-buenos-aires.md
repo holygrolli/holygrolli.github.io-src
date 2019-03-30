@@ -5,13 +5,19 @@ comments: true
 date: "2019-02-28T08:40:53+13:00"
 description: Fünf Tage zu Besuch in der Stadt des Tangos
 draft: false
-image: IMG_20190215_122958.jpg
 tags:
 - rtw
 - buenos aires
 - argentinien
 title: Buenos Aires, Argentinien
 images:
+  - src: IMG_20190215_122958.jpg
+    width: 3968
+    height: 2976
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190213_130201.jpg
     width: 3968
     height: 2976

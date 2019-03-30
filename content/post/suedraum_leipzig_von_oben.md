@@ -2,12 +2,10 @@
 categories:
 - vonoben
 comments: true
-coverimage: DJI_0171-HDR.jpg
 date: "2017-02-07T18:18:29+01:00"
 description: Noch keine zwei Wochen ist die Mavic mein neues Spielzeug. Fest steht,
   die Fotos werden echt spitze!
 draft: false
-image: DJI_0157-HDR.jpg
 tags:
 - fotos
 - mavic
@@ -21,6 +19,7 @@ images:
     title: Bild 1
     orientation: l
     type: postimg
+    header: true
   - src: DJI_0171-HDR.jpg
     width: 3285
     height: 2462
@@ -28,6 +27,7 @@ images:
     title: Bild 2
     orientation: l
     type: postimg
+    featured: true
   - src: DJI_0172-HDR.jpg
     width: 3992
     height: 2992

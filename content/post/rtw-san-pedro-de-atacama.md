@@ -2,17 +2,22 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190110_200542-02.jpeg
 date: "2019-01-20T14:11:48-03:00"
 description: Die ersten Tage in Chile verbrachten wir in der Atacamawüste
 draft: false
-image: IMG_20190110_161600.jpg
 tags:
 - rtw
 - chile
 - sanpedro
 title: San Pedro de Atacama, Chile
 images:
+  - src: IMG_20190110_161600.jpg
+    width: 11136
+    height: 3072
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190110_161509-01.jpeg
     width: 3968
     height: 2976
@@ -69,6 +74,7 @@ images:
     title: Valle de la Muerte zum Sonnenuntergang
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190110_201529-02.jpeg
     width: 3968
     height: 2976

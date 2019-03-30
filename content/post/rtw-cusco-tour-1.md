@@ -5,7 +5,6 @@ comments: true
 date: "2018-12-20T22:16:26-04:00"
 description: Tagestour zu den nahen Ruinen Sacsayhuamán, Q’enqo, Puca Pucara und Tambomachay
 draft: false
-image: IMG_20181205_130718.jpg
 tags:
 - rtw
 - peru
@@ -13,6 +12,13 @@ tags:
 - alpaka
 title: Ruinen um Cusco Teil 1
 images:
+  - src: IMG_20181205_130718.jpg
+    width: 8576
+    height: 3200
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20181205_103250.jpg
     width: 4
     height: 3

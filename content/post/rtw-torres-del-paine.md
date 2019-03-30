@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190125_184750.jpg
 date: "2019-02-07T02:22:00-03:00"
 description: Vier Tage in der rauen Natur von Patagonien, im bekannten Nationalpark
   Torres del Paine
 draft: false
-image: IMG_20190125_131859.jpg
 tags:
 - rtw
 - patagonien
@@ -15,6 +13,13 @@ tags:
 title: Torres del Paine, Patagonien
 update: "2019-02-10T23:03:00-03:00"
 images:
+  - src: IMG_20190125_184750.jpg
+    width: 3968
+    height: 2976
+    title: 
+    orientation: l
+    type: postimg
+    featured: true
   - src: IMG_20190123_103940.jpg
     width: 3968
     height: 2976
@@ -148,6 +153,7 @@ images:
     title: Aussicht vom Mirador del Toro
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20190125_142312.jpg
     width: 3968
     height: 2976

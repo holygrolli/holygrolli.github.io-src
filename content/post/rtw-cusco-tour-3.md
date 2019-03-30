@@ -5,13 +5,19 @@ comments: true
 date: "2018-12-22T09:50:00-04:00"
 description: Tagestour nach Chinchero, Moray und den Salzminen im Nordwesten von Cusco
 draft: false
-image: IMG_20181208_121443.jpg
 tags:
 - rtw
 - peru
 - cusco
 title: Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 3
 images:
+  - src: IMG_20181208_121443.jpg
+    width: 8576
+    height: 3136
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20181208_094055.jpg
     width: 4
     height: 3

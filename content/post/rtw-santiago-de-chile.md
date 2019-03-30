@@ -2,17 +2,22 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190115_132824.jpg
 date: "2019-01-22T15:54:03-03:00"
 description: Sieben Tage in Santiago de Chile, der Hauptstadt von Chile
 draft: false
-image: IMG_20190115_105620.jpg
 tags:
 - rtw
 - chile
 - santiago
 title: Santiago de Chile
 images:
+  - src: IMG_20190115_105620.jpg
+    width: 6080
+    height: 3200
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190112_201038.jpg
     width: 3968
     height: 2976
@@ -55,6 +60,7 @@ images:
     title: Blick auf die Stadt
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190115_133951.jpg
     width: 3968
     height: 2976

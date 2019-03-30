@@ -2,7 +2,6 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190225_150925.jpg
 date: "2019-03-04T13:35:49+13:00"
 description: Fahrt entlang der Nordküste zur Coromandel-Halbinsel
 draft: false
@@ -48,6 +47,7 @@ images:
     title: Ein Fels in der Bucht Cathedral Cove
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190225_151154.jpg
     width: 3968
     height: 2976

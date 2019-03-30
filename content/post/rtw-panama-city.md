@@ -5,7 +5,6 @@ comments: true
 date: "2018-11-04T06:36:56-05:00"
 description: 2 Tage in der Hauptstadt Panamas
 draft: false
-image: IMG_20181031_122337.jpg
 tags:
 - essen
 - rtw
@@ -19,6 +18,7 @@ images:
     title: Panorama über die Stadt
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20181031_140534.jpg
     width: 4
     height: 3

@@ -2,17 +2,22 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190221_112853-01.jpeg
 date: "2019-03-03T14:16:03+13:00"
 description: Ankunft in Neuseeland und Besuch des nördlichsten Punkts des Festlands.
 draft: false
-image: IMG_20190220_153602.jpg
 tags:
 - rtw
 - paihia
 - neuseeland
 title: Far North District, Neuseeland
 images:
+  - src: IMG_20190220_153602.jpg
+    width: 7232
+    height: 3072
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190217_195907.jpg
     width: 3968
     height: 2976
@@ -43,6 +48,7 @@ images:
     title: Aussicht von Motuarohia Island
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190221_131020.jpg
     width: 3968
     height: 2976

@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20181209_110450.jpg
 date: "2018-12-22T18:12:43-04:00"
 description: Tagestour nach Pisac im Norden von Cusco - Ruinen und Marktbesuch
 draft: false
-image: IMG_20181209_110616.jpg
 tags:
 - rtw
 - peru
@@ -14,6 +12,13 @@ tags:
 - alpaka
 title: Ruinen und Sehenswürdig&shy;keiten um Cusco Teil 4
 images:
+  - src: IMG_20181209_110616.jpg
+    width: 8512
+    height: 3136
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20181209_110450.jpg
     width: 4
     height: 3
@@ -21,6 +26,7 @@ images:
     title: Die Inkaterrassen von Pisac
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20181209_122534.jpg
     width: 4
     height: 3

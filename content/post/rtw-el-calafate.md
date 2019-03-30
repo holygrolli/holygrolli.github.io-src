@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190129_152515.jpg
 date: "2019-02-10T23:05:46-03:00"
 description: Neben dem Besuch des Perito Moreno-Gletschers erlebten wir noch ein weiteres
   Highlight
 draft: false
-image: IMG_20190130_115403.jpg
 tags:
 - rtw
 - el calafate
@@ -15,6 +13,13 @@ tags:
 - argentinien
 title: El Calafate, Patagonien
 images:
+  - src: IMG_20190130_115403.jpg
+    width: 6144
+    height: 3200
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190128_131312.jpg
     width: 3968
     height: 2976
@@ -42,6 +47,7 @@ images:
     title: Perito Moreno Gletscher vom ersten Aussichtspunkt
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190129_154450.jpg
     width: 3968
     height: 2976

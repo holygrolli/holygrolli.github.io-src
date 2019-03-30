@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190107_081453-01.jpeg
 date: "2019-01-15T09:46:46-03:00"
 description: Teil 2 unserer Mehrtagestour geht durch die Hochebene bis nach Chile
   fernab von Straßen hoch auf 5000m
 draft: false
-image: IMG_20190106_175416.jpg
 tags:
 - rtw
 - bolivien
@@ -15,6 +13,13 @@ tags:
 - sanpedro
 title: Uyuni nach San Pedro de Atacama
 images:
+  - src: IMG_20190106_175416.jpg
+    width: 8576
+    height: 3200
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190106_092416.jpg
     width: 3968
     height: 2976
@@ -92,6 +97,7 @@ images:
     title: Spiegelungen in der Laguna Colorado
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190107_081931.jpg
     width: 3968
     height: 2976

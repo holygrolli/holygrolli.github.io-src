@@ -5,7 +5,6 @@ comments: true
 date: "2018-12-18T14:00:13-04:00"
 description: Von Arequipa durch das Hochland in die Inkahauptstadt Cusco
 draft: false
-image: IMG_20181125_102315-01.jpeg
 tags:
 - rtw
 - peru
@@ -47,6 +46,7 @@ images:
     title: Blick auf die Laguna Lagunillas von 4444m Höhe
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20181125_122116.jpg
     width: 4
     height: 3

@@ -5,7 +5,6 @@ comments: true
 date: "2018-12-17T17:30:00-04:00"
 description: Von Huacachina nach Arequipa, mit Stopps in einem Weingut und in Nazca
 draft: false
-image: IMG_20181123_174348.jpg
 tags:
 - rtw
 - peru
@@ -49,6 +48,7 @@ images:
     title: Der Baum der Nazca-Linien
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20181124_080522.jpg
     width: 4
     height: 3

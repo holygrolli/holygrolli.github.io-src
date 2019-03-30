@@ -3,12 +3,10 @@ categories:
 - vonoben
 - reise
 comments: true
-coverimage: DJI_0080-01.jpeg
 date: "2018-12-12T15:20:00-05:00"
 description: Mit dem Bus von Lima 300km nach Süden entlang der Pazifikküste über Paracas
   nach Huacachina
 draft: false
-image: DJI_0080-01.jpeg
 tags:
 - drohne
 - mavic
@@ -74,6 +72,8 @@ images:
     title: Blick auf die Wüste
     orientation: l
     type: postimg
+    featured: true
+    header: true
   - src: IMG_20181122_183837.jpg
     width: 4
     height: 3

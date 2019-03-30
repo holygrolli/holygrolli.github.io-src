@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: rtw-DJI_0172.jpeg
 date: "2019-03-14T14:41:46+13:00"
 description: Natur und Entspannen entlang der Westküste auf der Nordinsel von Neuseeland
 draft: false
-image: IMG_20190307_142429.jpg
 tags:
 - rtw
 - westküste
@@ -15,6 +13,13 @@ tags:
 - drohne
 title: Die Westküste der Nordinsel von Neuseeland
 images:
+  - src: IMG_20190307_142429.jpg
+    width: 7296
+    height: 3136
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190301_151308.jpg
     width: 3968
     height: 2976
@@ -57,6 +62,7 @@ images:
     title: Ein Anfänger im flachen Wasser
     orientation: l
     type: postimg
+    featured: true
   - src: rtw-DJI_0176.jpeg
     width: 3992
     height: 2992

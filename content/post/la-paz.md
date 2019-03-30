@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190101_141015.jpg
 date: "2019-01-09T10:18:00-03:00"
 description: 'Über Silvester in La Paz: Besuch des Hexenmarkts, Stadtrundgang, Street
   Art und kulinarische Empfehlungen'
 draft: false
-image: IMG_20190102_143646-01.jpeg
 tags:
 - rtw
 - bolivien
@@ -49,6 +47,7 @@ images:
     title: Noch mehr Kunst an den Wänden
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20181231_163229.jpg
     width: 3968
     height: 2976
@@ -70,6 +69,7 @@ images:
     title: Panorama vom Mirador Killi Killi
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20190102_155427-01.jpeg
     width: 3968
     height: 2976

@@ -3,7 +3,6 @@ categories:
 - vonoben
 - reise
 comments: true
-coverimage: IMG_20181104_163759.jpg
 date: "2018-11-11T21:26:50-06:00"
 description: Drei Nächte im Surfparadies von Panama
 draft: false
@@ -42,6 +41,7 @@ images:
     title: Durch die Reflektionen wirkt der Strand wie ein Spiegel
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20181105_085746.jpg
     width: 4
     height: 3

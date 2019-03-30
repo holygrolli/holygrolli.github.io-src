@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: DJI_1546714844000.jpg
 date: "2019-01-14T11:04:45-03:00"
 description: Besuch der größten Salzwüste der Welt
 draft: false
-image: IMG_20190105_172554.jpg
 tags:
 - rtw
 - bolivien
@@ -50,6 +48,7 @@ images:
     title: Der Horizont verschwimmt!
     orientation: l
     type: postimg
+    header: true
   - src: DJI_1546714844000.jpg
     width: 4000
     height: 3000
@@ -57,6 +56,7 @@ images:
     title: Wir, mitten in der Unendlichkeit!
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_3998.jpg
     width: 4032
     height: 3024

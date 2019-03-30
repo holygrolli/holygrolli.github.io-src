@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20181127_134551.jpg
 date: "2018-12-18T18:43:06-04:00"
 description: Zwei erlebnisreiche Tage für An- und Abreise und den Besuch des Machu
   Picchu
 draft: false
-image: IMG_20181127_111424.jpg
 tags:
 - rtw
 - peru
@@ -106,6 +104,7 @@ images:
     title: Auch endlich von weiter unten gute Sicht!
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20181127_124606.jpg
     width: 4
     height: 3
@@ -134,6 +133,7 @@ images:
     title: Alpaka Mutter und Kind
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20181127_134623.jpg
     width: 4
     height: 3

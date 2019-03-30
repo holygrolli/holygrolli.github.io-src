@@ -2,7 +2,6 @@
 categories:
 - reise
 comments: true
-coverimage: GOPR4155.JPG
 date: "2018-11-29T17:29:12-05:00"
 description: '7 Tage auf Santa Cruz: diese Touren haben wir gemacht'
 draft: false
@@ -26,6 +25,7 @@ images:
     title: Meeresschildkröte vor Pinzón
     orientation: l
     type: postimg
+    featured: true
   - src: GOPR4147.JPG
     width: 4
     height: 3

@@ -6,7 +6,6 @@ date: "2018-12-20T17:00:00-04:00"
 description: 17 Nächte in Cusco, DER Stadt zum Entspannen, Entdecken oder kreativ
   sein
 draft: false
-image: IMG_20181128_123326.jpg
 tags:
 - rtw
 - peru
@@ -14,6 +13,13 @@ tags:
 - alpaka
 title: Cusco, Peru
 images:
+  - src: IMG_20181128_123326.jpg
+    width: 6080
+    height: 3200
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20181128_115451-EFFECTS.jpg
     width: 4
     height: 3

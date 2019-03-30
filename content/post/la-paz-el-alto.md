@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20181230_134812.jpg
 date: "2019-01-08T15:28:44-03:00"
 description: Von Copacabana nach La Paz und der Besuch des angeblich größten Markts
   der Welt
 draft: false
-image: IMG_20181230_152836.jpg
 tags:
 - rtw
 - bolivien
@@ -56,6 +54,7 @@ images:
     title: Ausblick über den Dächern von La Paz
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20181230_141952.jpg
     width: 3968
     height: 2976
@@ -98,6 +97,7 @@ images:
     title: La Paz aus einer anderen Perspektive
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20181230_153529.jpg
     width: 3968
     height: 2976

@@ -2,7 +2,6 @@
 categories:
 - reise
 comments: true
-coverimage: P1190562.jpg
 date: "2018-11-19T05:00:00Z"
 description: Allgemeine Eindrücke der Galapagosinsel Santa Cruz
 draft: false
@@ -96,6 +95,7 @@ images:
     title: Leguanliebe
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20181109_144035-01.jpeg
     width: 3952
     height: 2960

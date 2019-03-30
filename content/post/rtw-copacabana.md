@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20181220_191634-02.jpeg
 date: "2018-12-24T15:31:33-04:00"
 description: Fahrt nach Bolivien und Entspannen in Copacabana
 draft: false
-image: IMG_20181220_191634-02.jpeg
 tags:
 - rtw
 - bolivien
@@ -63,6 +61,8 @@ images:
     title: Sonnenuntergang in Copacabana
     orientation: l
     type: postimg
+    featured: true
+    header: true
   - src: IMG_20181219_143605.jpg
     width: 4
     height: 3

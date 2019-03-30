@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190131_115646.jpg
 date: "2019-02-13T10:30:42-03:00"
 description: Drei Nächte im Trekkingparadies um den Berg Fitz Roy
 draft: false
-image: IMG_20190201_150424.jpg
 tags:
 - rtw
 - el chalten
@@ -22,6 +20,7 @@ images:
     title: Holzschnitzereien zieren die Straßen von El Chaltén
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190131_145133.jpg
     width: 3968
     height: 2976
@@ -46,6 +45,7 @@ images:
     title: Der Weg bot wieder einmal tolle Aussichten
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20190201_134255.jpg
     width: 3968
     height: 2976

@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190120_160706.jpg
 date: "2019-01-23T01:29:12-03:00"
 description: Ein weiteres UNESCO Welterbe auf unserer Reiseliste
 draft: false
-image: IMG_20190120_212337.jpg
 tags:
 - rtw
 - chile
@@ -63,6 +61,7 @@ images:
     title: Aber auch mit Tieren
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190122_193922.jpg
     width: 2976
     height: 3968
@@ -98,6 +97,7 @@ images:
     title: Mondaufgang von der Terrasse
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20190119_201249.jpg
     width: 3968
     height: 2976

@@ -2,12 +2,10 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190210_164047.jpg
 date: "2019-02-22T12:29:41+13:00"
 description: Von Patagonien an die Grenze zu Brasilien und Paraguay, um die Iguazú-Wasserfälle
   zu sehen
 draft: false
-image: IMG_20190208_144418.jpg
 tags:
 - rtw
 - iguazu
@@ -39,6 +37,7 @@ images:
     title: Panorama mitten im Dschungel
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20190208_164229.jpg
     width: 7424
     height: 3136
@@ -159,6 +158,7 @@ images:
     title: Zwei große Papageien
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190210_163238.jpg
     width: 2976
     height: 3968

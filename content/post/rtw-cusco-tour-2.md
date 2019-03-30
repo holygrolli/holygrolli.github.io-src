@@ -6,13 +6,19 @@ date: "2018-12-21T13:57:31-04:00"
 description: Tagestour zu den eine Stunde von Cusco entfernten Ruinen Tipón, Rumicolca
   und Pikillacta
 draft: false
-image: IMG_20181207_114125.jpg
 tags:
 - rtw
 - peru
 - cusco
 title: Ruinen um Cusco Teil 2
 images:
+  - src: IMG_20181207_114125.jpg
+    width: 8576
+    height: 3136
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20181207_110947-01.jpeg
     width: 4
     height: 3

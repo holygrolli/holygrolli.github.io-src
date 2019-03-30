@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20181119_074357.jpg
 date: "2018-12-03T08:20:49-05:00"
 description: Fast eine Woche auf der, für mich, günstigsten Galapagosinsel
 draft: false
-image: IMG_20181114_180545.jpg
 tags:
 - rtw
 - ecuador
@@ -76,6 +74,7 @@ images:
     title: Sonnenuntergang am Playa Mann
     orientation: l
     type: postimg
+    header: true
   - src: IMG_20181116_112513.jpg
     width: 3
     height: 4
@@ -153,6 +152,7 @@ images:
     title: Abschied von Galapagos
     orientation: l
     type: postimg
+    featured: true
 ---
 
 Am Tag 16 unserer großen Reise sollte es am Nachmittag mit dem Boot auf unsere zweite Galapagosinsel gehen. _San Cristóbal_ ist die östlichste Galapagosinsel und touristisch nicht so stark erschlossen, wie Santa Cruz. Das Ticket für $25 pro Person hatten wir uns schon bei unserem Tourenanbieter vorab gekauft. Er sagte uns mehrfach, dass es 13 Uhr losgeht. Mit unserer deutschen Pünktlichkeit haben wir uns natürlich schon 12:30 Uhr am Hafen eingefunden, weil es auf den Schildern hieß, dass man rechtzeitig _vorher_ erscheinen soll, unter anderem wird noch das Gepäck untersucht. Zu dieser Zeit war natürlich noch niemand vor Ort und am Ende war die offizielle Abfahrtszeit 14 Uhr. Die Ansage "13 Uhr" war also wirklich die Check-in-Zeit und nicht die Boarding-Zeit. Mit Sack und Pack sprachen wir bei der Gepäckkontrolle vor:

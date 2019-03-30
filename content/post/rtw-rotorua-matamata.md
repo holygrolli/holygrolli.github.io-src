@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190227_154503.jpg
 date: "2019-03-10T12:55:08+13:00"
 description: Das weltweit jüngste geothermale Gebiet und Ausflug nach Mittelerde
 draft: false
-image: IMG_20190228_154326.jpg
 tags:
 - rtw
 - rotorua
@@ -15,12 +13,20 @@ tags:
 - neuseeland
 title: Rotorua und Matamata, Neuseeland
 images:
+  - src: IMG_20190228_154326.jpg
+    width: 6144
+    height: 3072
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190227_154503.jpg
     width: 2976
     height: 3968
     title: Ortschild von Hobbiton
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190227_154656.jpg
     width: 3968
     height: 2976

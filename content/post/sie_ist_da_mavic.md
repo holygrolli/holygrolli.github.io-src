@@ -2,17 +2,22 @@
 categories:
 - vonoben
 comments: true
-coverimage: DJI_0083.JPG
 date: "2017-01-29T17:52:46+01:00"
 description: 'Als Gadget-Liebhaber, Traveler und Fotoliebhaber gab es ein großes Ziel:
   eine DJI Mavic Pro!'
-image: vonoben-bg.jpg
 tags:
 - mavic
 - drohne
 - fotos
 title: Sie ist da
 images:
+  - src: vonoben-bg.jpg
+    width: 3646
+    height: 2733
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: DJI_0051.JPG
     width: 4
     height: 3
@@ -31,6 +36,7 @@ images:
     title: von oben
     orientation: l
     type: postimg
+    featured: true
   - src: DJI_0106.JPG
     width: 4
     height: 3

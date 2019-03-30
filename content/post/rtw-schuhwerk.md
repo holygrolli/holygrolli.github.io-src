@@ -2,7 +2,6 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20180930_175226392.jpg
 date: "2018-10-21T14:57:53+02:00"
 description: 9 Monate Weltreise - barfuß!
 draft: false
@@ -31,6 +30,7 @@ images:
     title: Hanwag Tatra und Vivobarefoot Tracker
     orientation: p
     type: postimg
+    featured: true
   - src: IMG_20180930_194508745.jpg
     width: 4
     height: 3

@@ -2,11 +2,9 @@
 categories:
 - reise
 comments: true
-coverimage: IMG_20190204_115611-01.jpeg
 date: "2019-02-18T21:37:39+13:00"
 description: Überragendes Wetter beim Besuch von Feuerland mit tierischen Überraschungen
 draft: false
-image: IMG_20190204_162404.jpg
 tags:
 - rtw
 - feuerland
@@ -15,6 +13,13 @@ tags:
 - argentinien
 title: Feuerland, Patagonien
 images:
+  - src: IMG_20190204_162404.jpg
+    width: 9856
+    height: 3136
+    title: 
+    orientation: l
+    type: header
+    featured: false
   - src: IMG_20190204_105333.jpg
     width: 3968
     height: 2976
@@ -33,6 +38,7 @@ images:
     title: Aussicht über den Lago Escondido
     orientation: l
     type: postimg
+    featured: true
   - src: IMG_20190204_123059.jpg
     width: 3968
     height: 2976
