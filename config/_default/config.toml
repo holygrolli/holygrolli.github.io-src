@@ -6,6 +6,7 @@ theme = "blomp"
 copyright = "Copyright © ChaosBlog 2018"
 disqusShortname = "thechaosblog"
 googleAnalytics = "UA-259583-6"
+onesignalAppId = "4373a84e-c094-48e0-9e5e-58d81c8fc1b9"
 
 [permalinks]
 post = "/post/:filename"
