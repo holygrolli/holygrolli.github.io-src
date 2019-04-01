@@ -28,7 +28,7 @@ pipeline {
             }
             steps {
                 dir("src") {
-                    sh "hugo -d ../target"
+                    sh "hugo --cleanDestinationDir -d ../target"
                 }
             }
         }
