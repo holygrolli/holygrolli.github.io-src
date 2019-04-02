@@ -124,4 +124,4 @@ An einem Tag war am Strand von Warrington ein Meer von "Glibbereiern"(?). Eine G
 
 {{< postimg "IMG_20190320_174252.jpg" >}}
 
-Die 7 Nächte vergingen wie im Flug, aber es war sehr entspannend. Am nunmehr 145. Tag unserer Weltreise ging es dann weiter in Richtung der Region _Catlins_, die ich separat noch beschreiben werde. Der 145. Tag bedeutet auch, dass wir am 22. März 2019 den 144. Tag und somit Halbzeit unserer Weltreise feierten. Die Zeit rennt!
+Die 7 Nächte vergingen wie im Flug, aber es war sehr entspannend. Am nunmehr 145. Tag unserer Weltreise ging es dann weiter in Richtung der Region _Catlins_, die ich separat noch beschreiben werde. Der 145. Tag bedeutet auch, dass wir am 21. März 2019 den 143. Tag und somit Halbzeit unserer Weltreise feierten. Die Zeit rennt!
