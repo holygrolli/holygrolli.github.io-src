@@ -42,6 +42,7 @@ pipeline {
                     dir("target"){
                         sh """#!/bin/bash
                             git status
+                            git status --short
                             git config --global user.email "andreas.groll@gmail.com"
                             git config --global user.name "Andreas Groll"
                             [[ \$(git status --short | wc -c) -ne 0 ]] && \
