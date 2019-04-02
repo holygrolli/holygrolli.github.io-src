@@ -42,9 +42,11 @@ pipeline {
                     dir("target"){
                         sh """#!/bin/bash
                             git status
+                            echo checkpoint 1
                             git status --short
                             git config --global user.email "andreas.groll@gmail.com"
                             git config --global user.name "Andreas Groll"
+                            echo checkpoint 2
                             [[ \$(git status --short | wc -c) -ne 0 ]] && \
                             echo changes found && \
                             git add . && \
