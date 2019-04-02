@@ -3,6 +3,7 @@ pipeline {
     options {
         buildDiscarder(logRotator(numToKeepStr: '30', artifactNumToKeepStr: '15'))
     }
+    triggers { upstream(upstreamProjects: 'blog-cron-trigger-${BRANCH_NAME}', threshold: hudson.model.Result.SUCCESS) }
     stages {
         stage ('Init') {
             steps {
@@ -44,8 +45,8 @@ pipeline {
                             git config --global user.email "andreas.groll@gmail.com"
                             git config --global user.name "Andreas Groll"
                             git add .
-                            git commit -m 'new content'
-                            git push origin master"""
+                            [[ \$(git status --short --show-stash | wc -c) -ne 0 ]] && git commit -m 'new content' && git push origin master || echo nothing to commit
+                            """
                     }
                 }
             }
