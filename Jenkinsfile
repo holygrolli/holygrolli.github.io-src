@@ -45,6 +45,7 @@ pipeline {
                             git config --global user.email "andreas.groll@gmail.com"
                             git config --global user.name "Andreas Groll"
                             [[ \$(git status --short | wc -c) -ne 0 ]] && \
+                            echo changes found && \
                             git add . && \
                             git commit -m 'new content' && \
                             git push origin master
