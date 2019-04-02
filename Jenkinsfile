@@ -3,7 +3,7 @@ pipeline {
     options {
         buildDiscarder(logRotator(numToKeepStr: '30', artifactNumToKeepStr: '15'))
     }
-    triggers { upstream(upstreamProjects: 'blog-cron-trigger-${BRANCH_NAME}', threshold: hudson.model.Result.SUCCESS) }
+    triggers { upstream(upstreamProjects: "blog-cron-trigger-${BRANCH_NAME}", threshold: hudson.model.Result.SUCCESS) }
     stages {
         stage ('Init') {
             steps {
