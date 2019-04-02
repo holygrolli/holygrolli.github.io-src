@@ -40,7 +40,7 @@ pipeline {
             steps {
                 sshagent(['GITHUB']) {
                     dir("target"){
-                        sh """
+                        sh """#!/bin/bash
                             git status
                             git config --global user.email "andreas.groll@gmail.com"
                             git config --global user.name "Andreas Groll"
