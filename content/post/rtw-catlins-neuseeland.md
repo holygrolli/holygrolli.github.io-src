@@ -69,6 +69,13 @@ images:
     orientation: l
     type: postimg
     featured: false
+  - src: IMG_20190325_120226_001_COVER-01.jpeg
+    width: 3968
+    height: 2976
+    title: Ein Hector-Delfin beim Springen
+    orientation: l
+    type: postimg
+    featured: false
 ---
 
 Von unserem [längeren Aufenthalt](/post/rtw-neuseeland-suedinsel-ostseite/) in der Gegend von _Dunedin_ ging es immer weiter in Richtung der _Catlins_, laut [Wikipedia](https://de.wikipedia.org/wiki/The_Catlins) einer mit 1200 Bewohnern extrem dünn besiedelten Gegend. Dafür soll die Küste atemberaubend sein. Ob die Catlins eine Reise wert sind?
@@ -92,6 +99,10 @@ Als wir dann gegen Mittag ankamen, gab es erst einmal Frühstück/Mittagessen au
 Aber das Beste kam noch, denn unsere Hoffnungen auf Delfine wurden erfüllt! (Hier passt "awesome"!) Der Campingplatz liegt direkt auf einer Landzunge, die die _Curio Bay_ von der _Porpoise Bay_ trennt. Vom Campervan hatten wir Blick auf die rauhe _Curio Bay_, aber die Delfine befanden sich nur einige hundert Meter entfernt in der _Porpoise Bay_. Hier schwammen sie in kleinen Gruppen teilweise zwischen Surfern und Badegästen. Dabei konnte man immer wieder sehen, wie die Delfine selbst die Wellen entlang surften. Leider ist das auf dem Foto nur mit gekonntem Blick zu erkennen:
 
 {{< postimg "IMG_20190325_121803_1_BURST001_COVER.jpg" >}}
+
+Glücklicherweise haben wir die Delfine später auch noch einmal beim Herumtollen gesehen, wo man sie auf dem Foto besser erkennen kann:
+
+{{< postimg "IMG_20190325_120226_001_COVER-01.jpeg" >}}
 
 Dass die Delfine aber wirklich direkt neben uns geschwommen sind sieht man am besten auf einem Video, welches unter Qual, da die Wassertemperaturen hier unten vorsichtig gesagt "anstrengend" sind:
 
