@@ -3,6 +3,7 @@ categories:
 - reise
 comments: true
 date: "2019-04-03T09:00:00+13:00"
+lastmod: "2019-04-04T09:30:00+13:00"
 description: Entlang der Küste durch dünn besiedeltes Land
 draft: false
 tags:
