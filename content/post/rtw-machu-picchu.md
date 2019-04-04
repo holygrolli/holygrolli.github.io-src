@@ -14,71 +14,71 @@ tags:
 title: Aguas Calientes und Machu Picchu
 images:
   - src: IMG_20181126_065301.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bahnhof Poroy
     title: Bahnhofshalle von Poroy
     orientation: l
     type: postimg
   - src: IMG_20181126_103518.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Panoramawagen
     title: Aussicht aus dem Panoramawagen
     orientation: l
     type: postimg
   - src: IMG_20181126_105958.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Aguas Calientes
     title: Durch die Stadt zieht sich ein Bach
     orientation: l
     type: postimg
   - src: IMG_20181126_133006.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mittagessen
     title: Mittagessen auf dem Mercado für 2€
     orientation: l
     type: postimg
   - src: IMG_20181126_144420-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Marktplatz
     title: Hauptplatz von Aguas Calientes
     orientation: l
     type: postimg
   - src: IMG_20181127_052340.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schlange
     title: Warteschlange für die ersten Busse
     orientation: l
     type: postimg
   - src: IMG_20181127_062419.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wolken
     title: Wolken, nichts als Wolken
     orientation: l
     type: postimg
   - src: IMG_20181127_062717.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Dunst
     title: Der Weg durch die Ruinen sah nicht vielversprechend aus
     orientation: l
     type: postimg
   - src: IMG_20181127_072954.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Aufstieg
     title: Viele Wolken im Tal
     orientation: l
     type: postimg
   - src: IMG_20181127_081137.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Aufstieg2
     title: Der Weg nach oben sah nicht besser aus
     orientation: l
@@ -106,37 +106,37 @@ images:
     type: postimg
     header: true
   - src: IMG_20181127_124606.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Citadel
     title: Der normale Aussichtspunkt innerhalb der Ruinen
     orientation: l
     type: postimg
   - src: IMG_20181127_130215.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Citadel
     title: Die Ruinen aus der Nähe
     orientation: l
     type: postimg
   - src: IMG_20181127_131022.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka
     title: Alpaka vor den Ruinen
     orientation: l
     type: postimg
   - src: IMG_20181127_134551.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpakafamilie
     title: Alpaka Mutter und Kind
     orientation: l
     type: postimg
     featured: true
   - src: IMG_20181127_134623.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Duo
     title: Alpaka und geiler Typ (rechts)
     orientation: l
@@ -149,15 +149,15 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181127_144602.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Pass
     title: Weiterer Stempel in unseren Pässen
     orientation: p
     type: postimg
   - src: IMG_20181127_224451.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Pollo
     title: traditionelles Pollo a la Brasa
     orientation: p

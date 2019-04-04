@@ -11,29 +11,29 @@ tags:
 title: Das passende Schuhwerk
 images:
   - src: IMG_20180930_175107196.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Vivo Tracker
     title: Vivobarefoot Tracker ohne Thermosohle
     orientation: p
     type: postimg
   - src: IMG_20180930_175007490.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     title: Hanwag Tatra
     orientation: p
     type: postimg
   - src: IMG_20180930_175226392.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Vergleich
     title: Hanwag Tatra und Vivobarefoot Tracker
     orientation: p
     type: postimg
     featured: true
   - src: IMG_20180930_194508745.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vivobarefoot-Kollektion
     title: Vivobarefoot Schuhpark
     orientation: l

@@ -12,51 +12,51 @@ tags:
 title: 500km durch die Anden nach Cusco
 images:
   - src: IMG_20181125_073110.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vorort
     title: nicht so einladender Vorort von Arequipa
     orientation: l
     type: postimg
   - src: IMG_20181125_073130.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vorort
     title: nicht so einladender Vorort von Arequipa
     orientation: l
     type: postimg
   - src: IMG_20181125_081845.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Weitsicht
     title: Weitsicht entlang der Straße
     orientation: l
     type: postimg
   - src: IMG_20181125_083610.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vulkan
     title: Vulkan in weiter Ferne
     orientation: l
     type: postimg
   - src: IMG_20181125_102315-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Laguna
     title: Blick auf die Laguna Lagunillas von 4444m Höhe
     orientation: l
     type: postimg
     header: true
   - src: IMG_20181125_122116.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Verkehrschaos
     title: typische Verkehrssituation in Peru
     orientation: l
     type: postimg
   - src: IMG_20181125_212856.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Pizza
     title: erstes Abendessen in Cusco
     orientation: l

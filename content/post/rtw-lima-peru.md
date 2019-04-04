@@ -12,154 +12,154 @@ tags:
 title: Lima, Peru
 images:
   - src: IMG_20181119_212056.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Empfangskommitee
     title: Ein Beispiel für gebührenden Empfang in Peru
     orientation: l
     type: postimg
   - src: IMG_20181120_064711.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Empfangskommitee
     title: Konkurrierendes Empfangskommitee
     orientation: l
     type: postimg
   - src: IMG_20181120_101348.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Movistar Mitarbeiter
     title: selbstbeschäftigte Mitarbeiter von Movistar
     orientation: l
     type: postimg
   - src: IMG_20181120_112917.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Maracuja
     title: Peruanische Maxi-Maracuya
     orientation: p
     type: postimg
   - src: IMG_20181120_134406.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado
     title: Gut sortiertes Obst auf dem Markt
     orientation: l
     type: postimg
   - src: IMG_20181120_135134.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado
     title: Gemüse gab es natürlich auch auf dem Markt
     orientation: l
     type: postimg
   - src: IMG_20181120_140226.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado
     title: Neben Obst und Gemüse darf auch das frische Fleisch nicht fehlen
     orientation: l
     type: postimg
   - src: IMG_20181120_142524.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kochstudio
     title: Kochen im Hinterhof
     orientation: l
     type: postimg
   - src: IMG_20181120_142706.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kochstudio
     title: Arbeitsbereich mit eigener Schürze
     orientation: l
     type: postimg
   - src: IMG_20181120_153928.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kochstudio
     title: Das noch übersichtliche Schlachtfeld
     orientation: l
     type: postimg
   - src: IMG_20181120_162832.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kochaction
     title: Action beim Anbraten des Lomo Saltado
     orientation: l
     type: postimg
   - src: IMG_20181120_164225.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kochstudio
     title: Ein Teil des fertigen Menüs
     orientation: l
     type: postimg
   - src: IMG_20181121_110925.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: La Punta
     title: Man könnte denken, man ist in Havanna
     orientation: l
     type: postimg
   - src: IMG_20181121_112047.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: La Punta
     title: Imposante Gebäude
     orientation: l
     type: postimg
   - src: IMG_20181121_112712.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: La Punta
     title: Meer gab es natürlich auch
     orientation: l
     type: postimg
   - src: IMG_20181121_133738.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     title: Catedral de Lima
     orientation: l
     type: postimg
   - src: IMG_20181121_133801.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Centro Historico
     title: Koloniale Bauten im historischen Zentrum
     orientation: l
     type: postimg
   - src: IMG_20181121_140853.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado Centro Historico
     title: Markthalle im historischen Zentrum
     orientation: l
     type: postimg
   - src: IMG_20181121_141128.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Mercado Centro Historico
     title: Hier werden die Cremes direkt aus dem Kübel verkauft
     orientation: p
     type: postimg
   - src: IMG_20181121_151820.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kirche
     title: Kirche San Francisco de Asis
     orientation: l
     type: postimg
   - src: IMG_20181121_195947.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Küste
     title: Küste vom Parque del Amor aus
     orientation: l
     type: postimg
   - src: IMG_20181121_213815.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Party
     title: Live-Musik in Santiago de Surco
     orientation: l

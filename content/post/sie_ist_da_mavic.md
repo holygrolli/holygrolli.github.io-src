@@ -19,8 +19,8 @@ images:
     type: header
     featured: false
   - src: DJI_0051.JPG
-    width: 4
-    height: 3
+    width: 4000
+    height: 3000
     title: von oben
     orientation: l
     type: postimg
@@ -31,15 +31,15 @@ images:
     orientation: l
     type: postimg
   - src: DJI_0083.JPG
-    width: 4
-    height: 3
+    width: 4000
+    height: 3000
     title: von oben
     orientation: l
     type: postimg
     featured: true
   - src: DJI_0106.JPG
-    width: 4
-    height: 3
+    width: 4000
+    height: 3000
     title: von oben
     orientation: l
     type: postimg

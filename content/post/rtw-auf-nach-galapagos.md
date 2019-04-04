@@ -12,36 +12,36 @@ tags:
 title: Anreise auf die Galapagosinseln
 images:
   - src: IMG_20181107_004613.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Galapagosschalter
     title: Infos am Galapagosschalter
     orientation: p
     type: postimg
   - src: IMG_20181107_004621.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Galapagosschalter
     title: Einreisebestimmungen für Galapagos
     orientation: p
     type: postimg
   - src: IMG_20181107_103338.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: K9
     title: K9 Security Check am Flughafen Galapagos
     orientation: l
     type: postimg
   - src: IMG_20181107_105953.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wassertaxi
     title: Verladung der Gepäcks AUF dem Wassertaxi
     orientation: l
     type: postimg
   - src: IMG_20181107_110045.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wassertaxi
     title: tierische Überwachung des korrekten Verladeprozesses
     orientation: l

@@ -9,8 +9,8 @@ tags:
 title: Hugo auf einem Android Tablet
 images:
   - src: IMG_20171229_130724_HDR.jpg
-    width: 4
-    height: 3
+    width: 4032
+    height: 3024
     title: Hugo auf dem Tablet
     orientation: l
     type: postimg

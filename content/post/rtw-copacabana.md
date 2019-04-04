@@ -13,43 +13,43 @@ tags:
 title: Copacabana, Bolivien
 images:
   - src: IMG_20181216_113641.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Grenzweg
     title: Auf dem Weg über die Grenze
     orientation: l
     type: postimg
   - src: IMG_20181216_113826.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bolivien
     title: Willkommen in Bolivien!
     orientation: l
     type: postimg
   - src: IMG_20181216_114034.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Einreisekontrolle
     title: Hier reist man offiziell ein
     orientation: l
     type: postimg
   - src: IMG_20181221_152933.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Tretboote
     title: Sehr viele Tretboote am Ufer
     orientation: l
     type: postimg
   - src: IMG_20181221_153243.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Inka
     title: Eine Inkastatue darf auch nicht fehlen
     orientation: l
     type: postimg
   - src: IMG_20181216_143949.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Aussicht
     title: Aussicht aus unserem Zimmer
     orientation: l
@@ -64,22 +64,22 @@ images:
     featured: true
     header: true
   - src: IMG_20181219_143605.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka1
     title: Unsere tierischen Freunde
     orientation: l
     type: postimg
   - src: IMG_20181222_180436.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka2
     title: Einfach drollig
     orientation: l
     type: postimg
   - src: IMG_20181222_180642.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka3
     title: Zum Liebhaben!
     orientation: l

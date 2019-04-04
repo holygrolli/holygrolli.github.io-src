@@ -10,8 +10,8 @@ tags:
 title: Moto G6 - ein kurzer (Foto-) Erfahrungsbericht
 images:
   - src: IMG_20180527_131518_affinity.jpg
-    width: 4
-    height: 3
+    width: 4096
+    height: 3072
     title: Moto G6 RAW mit Affinity
     orientation: l
     type: postimg
@@ -22,14 +22,14 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20180527_131407847_HDR.jpg
-    width: 4
-    height: 3
+    width: 4096
+    height: 3072
     title: Moto G6 HDR mit Motorola App
     orientation: l
     type: postimg
   - src: IMG_20180527_131402304.jpg
-    width: 4
-    height: 3
+    width: 4096
+    height: 3072
     title: Moto G6 mit Motorola App
     orientation: l
     type: postimg

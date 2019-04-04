@@ -14,114 +14,114 @@ tags:
 title: Fahrt nach Arequipa
 images:
   - src: IMG_20181123_135620.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Weinlagerung
     title: Weinlagerung in historischen Gefäßen
     orientation: l
     type: postimg
   - src: IMG_20181123_140523.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Weinproduktion
     title: Destille für den Pisco
     orientation: l
     type: postimg
   - src: IMG_20181123_141054.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Weinprobe
     title: Weinverkostung
     orientation: l
     type: postimg
   - src: IMG_20181123_173342.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Straße nach Nazca
     title: Straße schnurgerade nach Nazca
     orientation: l
     type: postimg
   - src: IMG_20181123_174348.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Nazca-Tree
     title: Der Baum der Nazca-Linien
     orientation: l
     type: postimg
     header: true
   - src: IMG_20181124_080522.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Frühstück
     title: Frühstück im Hostal Solar
     orientation: l
     type: postimg
   - src: IMG_20181124_110050.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hinterhof
     title: Hinterhof in Arequipa
     orientation: l
     type: postimg
   - src: IMG_20181124_110300.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hinterhof
     title: weiterer Hinterhof in Arequipa
     orientation: l
     type: postimg
   - src: IMG_20181124_112107.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kathedrale
     title: Die Kathedrale von Arequipa
     orientation: l
     type: postimg
   - src: IMG_20181124_113325.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kathedrale
     title: Die historischen Gebäude am Plaza de Armas
     orientation: l
     type: postimg
   - src: IMG_20181124_113918.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Kathedrale
     title: Kirche am Plaza de Armas
     orientation: p
     type: postimg
   - src: IMG_20181124_120749.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado
     title: Obstauswahl im Mercado San Camilo
     orientation: l
     type: postimg
   - src: IMG_20181124_121157.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado
     title: verschiedenste Kartoffeln im Mercado San Camilo
     orientation: l
     type: postimg
   - src: IMG_20181124_121237.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mercado
     title: Auswahl an Oliven im Mercado San Camilo
     orientation: l
     type: postimg
   - src: IMG_20181124_134048.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka
     title: Alpaka-Snack in der Weinbar
     orientation: l
     type: postimg
   - src: IMG_20181124_180800.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Cuy
     title: Cuy bzw. Meerschweinchen auf Peruanisch
     orientation: l

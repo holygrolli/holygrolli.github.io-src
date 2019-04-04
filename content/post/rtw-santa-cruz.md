@@ -12,85 +12,85 @@ tags:
 title: Santa Cruz, Galapagos
 images:
   - src: IMG_20181107_123738.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wohnung
     title: Blick auf das Hauptbett
     orientation: l
     type: postimg
   - src: IMG_20181107_123807.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wohnung
     title: Blick auf das Zusatzbett
     orientation: l
     type: postimg
   - src: IMG_20181109_202437.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Essstrasse
     title: Restaurantstraße mit Tischen auf der Straße
     orientation: l
     type: postimg
   - src: IMG_20181107_165953.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Ceviche
     title: Ceviche de Cameron \(Shrimps\)
     orientation: l
     type: postimg
   - src: IMG_20181108_120309.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hummer
     title: Hummerauswahl
     orientation: l
     type: postimg
   - src: IMG_20181110_201441.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hummer
     title: Unser Hummer
     orientation: l
     type: postimg
   - src: IMG_20181108_152232.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Darwin
     title: Schildkröten in der Aufzuchtstation
     orientation: l
     type: postimg
   - src: IMG_20181108_152920.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Darwin2
     title: Schildkröte beim Futtern
     orientation: l
     type: postimg
   - src: IMG_20181111_162957.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Sealions
     title: Seelöwin mit Nachwuchs
     orientation: l
     type: postimg
   - src: IMG_20181109_155921.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Kakteen
     title: Kakteen aus einer anderen Welt
     orientation: p
     type: postimg
   - src: P1190502-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Beach
     title: Laaaanger Sandstrand
     orientation: l
     type: postimg
   - src: P1190562.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Iguanas
     title: Leguanliebe
     orientation: l
@@ -104,15 +104,15 @@ images:
     orientation: l
     type: postimg
   - src: P1190581-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bucht
     title: Die Bucht von Playa Mansa
     orientation: l
     type: postimg
   - src: G0164059.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Manta
     title: Mantarochen bei sehr schlechter Sicht
     orientation: l

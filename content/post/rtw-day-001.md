@@ -11,29 +11,29 @@ tags:
 title: Weltreise - Tag 1
 images:
   - src: IMG_20181029_080940.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Fluggastrechte
     title: Fluggastrechte bei Verspätung
     orientation: p
     type: postimg
   - src: IMG_20181029_103558.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Imbiss
     title: sogenannter Imbiss auf der Kurzstrecke
     orientation: l
     type: postimg
   - src: IMG_20181029_130727.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mittagessen
     title: Mittagessen am Flughafen
     orientation: l
     type: postimg
   - src: IMG_20181029_203945.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Salat
     title: Salat mit Grillgemüse
     orientation: l

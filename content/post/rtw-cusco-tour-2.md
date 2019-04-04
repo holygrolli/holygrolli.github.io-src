@@ -20,36 +20,36 @@ images:
     type: header
     featured: false
   - src: IMG_20181207_110947-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wasser
     title: Auslauf des Bewässerungssystems am Parkplatz
     orientation: l
     type: postimg
   - src: IMG_20181207_114155-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Terrassen
     title: Tipón besteht insgesamt aus 12 großen Terrassen
     orientation: l
     type: postimg
   - src: IMG_20181207_120512-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wassersystem
     title: Das Wasser wird über alle Terrassen geleitet
     orientation: l
     type: postimg
   - src: IMG_20181207_121649.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Läuft
     title: Das Wasser fließt noch heute
     orientation: l
     type: postimg
   - src: IMG_20181207_130738-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mauer
     title: Aquädukt, Mauer oder beides?
     orientation: l
@@ -69,8 +69,8 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181207_134149-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Aussicht
     title: Überblick über das Gelände mit schöner Aussicht
     orientation: l

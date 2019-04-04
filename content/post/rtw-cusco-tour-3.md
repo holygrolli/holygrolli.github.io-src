@@ -19,43 +19,43 @@ images:
     type: header
     featured: false
   - src: IMG_20181208_094055.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Chinchero1
     title: Terrassen von Chinchero bei schlechtem Wetter
     orientation: l
     type: postimg
   - src: IMG_20181208_094112.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Chinchero2
     title: Die Terrassen sind umgeben von Bergen
     orientation: l
     type: postimg
   - src: IMG_20181208_101540.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Chinchero3
     title: Oben befindet sich eine Kirche aus Kolonialzeiten
     orientation: l
     type: postimg
   - src: IMG_20181208_115435.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Moray1
     title: Terrassen eingebettet in bis zu 70m tiefe Karsttrichter
     orientation: l
     type: postimg
   - src: IMG_20181208_120048.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Moray2
     title: Es wirkt schon ein wenig wie von Außerirdischen erbaut
     orientation: l
     type: postimg
   - src: IMG_20181208_121411.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Moray3
     title: Mehrere dieser Trichter direkt nebeneinander
     orientation: l
@@ -68,15 +68,15 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181208_135740.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Salzpfannen
     title: Salzpfannen aus der Nähe
     orientation: l
     type: postimg
   - src: IMG_20181208_140326.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Salzpfannen2
     title: Salzpfannen überall
     orientation: l

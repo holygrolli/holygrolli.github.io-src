@@ -21,35 +21,35 @@ images:
     type: header
     featured: false
   - src: IMG_20181128_115451-EFFECTS.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     title: Plaza San Blas
     orientation: l
     type: postimg
   - src: IMG_20181128_120455.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Gasse
     title: typische Gassen - kommt ein Auto, muss man sich dünn machen!
     orientation: l
     type: postimg
   - src: IMG_20181128_121023.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Altbau
     title: Am Rand der Altstadt findet man auch solche Gebäude
     orientation: l
     type: postimg
   - src: IMG_20181128_121212.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: San Blas
     title: San Blas besteht nur aus solchen Gassen
     orientation: l
     type: postimg
   - src: IMG_20181128_122525.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: steil
     title: es gibt auch schnurgerade Gassen, die in einem steilen Anstieg enden
     orientation: l
@@ -69,155 +69,155 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181129_111948.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hinterhof
     title: typische Hinterhöfe auf denen Souvenirs verkauft werden
     orientation: l
     type: postimg
   - src: IMG_20181128_161318.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: San Pedro
     title: Mercado de San Pedro
     orientation: l
     type: postimg
   - src: IMG_20181128_202459.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Nachtlicht
     title: Wirkt wie eine Weihnachtsbaumbeleuchtung - die Berge im Hintergrund
     orientation: l
     type: postimg
   - src: IMG_20181203_205646.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Nachtlicht2
     title: Ein Lichtermeer am Horizont
     orientation: l
     type: postimg
   - src: IMG_20181204_120402.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Polizeiparade
     title: Polizeiparade auf dem Plaza de Armas
     orientation: l
     type: postimg
   - src: IMG_20181204_123328.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Einheimische
     title: Polizeiparade mit einheimischen Tänzern
     orientation: l
     type: postimg
   - src: IMG_20181204_132728.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Obstverkäufer
     title: Obstverkäufer mit Kaktusfeigen auf der Straße
     orientation: l
     type: postimg
   - src: IMG_20181204_132951.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: O-Saft
     title: Auch frisch gepresster Orangensaft wird auf der Straße verkauft
     orientation: l
     type: postimg
   - src: IMG_20181204_133142.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Fleisch
     title: Fleischstücke gehören auch zum typischen Bild der Straßenimbisse
     orientation: l
     type: postimg
   - src: IMG_20181203_192059.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Beetle
     title: Cusco mag den robusten VW Käfer
     orientation: l
     type: postimg
   - src: IMG_20181129_090109.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Coricancha
     title: Spanisches Kloster aufgebaut auf Inkamauern
     orientation: l
     type: postimg
   - src: IMG_20181129_090307.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Coricancha2
     title: Zu Inkazeiten soll das Coricancha komplett mit Gold überzogen gewesen sein
     orientation: l
     type: postimg
   - src: IMG_20181129_111345.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Coricancha3
     title: Überbleibsel der Inkamauern
     orientation: l
     type: postimg
   - src: IMG_20181207_144557.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Pachacutec
     title: Das Momument für den Inkaherrscher Pachacutec
     orientation: p
     type: postimg
   - src: IMG_20181205_100124.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Ticketübersicht
     title: Optionen und Preise des Touristic Ticket
     orientation: l
     type: postimg
   - src: IMG_20181205_102713.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Ticket
     title: Jede Attraktion kann einmal gelocht werden
     orientation: l
     type: postimg
   - src: IMG_20181204_203902.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Grillplatte
     title: gesunde Grillplatte für 2 Personen
     orientation: l
     type: postimg
   - src: IMG_20181204_103006.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bowls
     title: Gesundes Frühstück in Form verschiedener Bowls
     orientation: l
     type: postimg
   - src: IMG_20181204_154335.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Geiler Typ
     title: Auf dem Balkon macht sich die warme Alpakakleidung bezahlt
     orientation: p
     type: postimg
   - src: IMG_20181204_154441.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Drinks
     title: Coole Drinks mit Aussicht im Museo del Cafe
     orientation: p
     type: postimg
   - src: IMG_20181204_154923.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Leckereien
     title: Häppchen von der Forelle und Alpaka
     orientation: l
     type: postimg
   - src: IMG_20181129_102248.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Aussicht
     title: Frühstück mit Aussicht im Café Perla
     orientation: l

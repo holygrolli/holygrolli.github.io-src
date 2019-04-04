@@ -17,43 +17,43 @@ tags:
 title: Fahrt von Lima nach Huacachina
 images:
   - src: IMG_20181122_112344-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Birds
     title: Unmengen Vögel an Land und in der Luft
     orientation: l
     type: postimg
   - src: IMG_20181122_113409-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Birds
     title: Die Steilküste war nur aus sicherer Entfernung zu beobachten
     orientation: l
     type: postimg
   - src: IMG_20181122_112622.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Seelöwe
     title: Die Seelöwen hatten auch mit dem steilen Anstieg zu kämpfen
     orientation: l
     type: postimg
   - src: IMG_20181122_122412.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Paracas
     title: Der Hafen von Paracas
     orientation: l
     type: postimg
   - src: IMG_20181122_162836.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Salat
     title: Sehr leckerer Salat mit Hähnchen, das muss gesund sein!
     orientation: l
     type: postimg
   - src: IMG_20181122_172247.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Lagune
     title: Blick auf die Laguna, auf dem Weg auf die Spitze
     orientation: l
@@ -66,8 +66,8 @@ images:
     orientation: l
     type: postimg
   - src: DJI_0080-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wüste von oben
     title: Blick auf die Wüste
     orientation: l
@@ -75,22 +75,22 @@ images:
     featured: true
     header: true
   - src: IMG_20181122_183837.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Nightshot
     title: Abendlicher Blick in die Stadt mit einzelnen Dünen
     orientation: l
     type: postimg
   - src: DJI_0090.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wolken
     title: Sonnenaufgang über den Wolken
     orientation: l
     type: postimg
   - src: DJI_0094.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Gipfel
     title: Gipfelstürmer um 6 Uhr morgens
     orientation: l

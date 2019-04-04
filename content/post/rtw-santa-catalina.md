@@ -14,79 +14,79 @@ tags:
 title: Santa Catalina, Panama
 images:
   - src: IMG_20181104_121620.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Flußdurchquerung 1
     title: Flußdurchquerung mit allen Hilfsmitteln
     orientation: l
     type: postimg
   - src: IMG_20181103_173745.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Flußdurchquerung 2
     title: Flußdurchquerung, oder Bächlein
     orientation: l
     type: postimg
   - src: IMG_20181104_163609.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Strand 1
     title: Endloser Strand mit einem dünnen Wasserfilm
     orientation: l
     type: postimg
   - src: IMG_20181104_163759.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Strand 2
     title: Durch die Reflektionen wirkt der Strand wie ein Spiegel
     orientation: l
     type: postimg
     featured: true
   - src: IMG_20181105_085746.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Strand 3
     title: Panama 2018
     orientation: l
     type: postimg
   - src: rtw-DJI_0010.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Von Oben 1
     title: Santa Catalina von oben
     orientation: l
     type: postimg
   - src: rtw-DJI_0019.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Von Oben 2
     title: Santa Catalina von oben
     orientation: l
     type: postimg
   - src: rtw-DJI_0028.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Von Oben 3
     title: Santa Catalina von oben
     orientation: l
     type: postimg
   - src: IMG_20181103_093810.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Frühstück
     title: Sandwiches in der La Panaderia Vieja
     orientation: l
     type: postimg
   - src: IMG_20181104_210002.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Abendessen
     title: Thunfisch im Iguanito
     orientation: l
     type: postimg
   - src: IMG_20181104_095857.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Gabriel
     title: Das Nummernschild von Gabriel als Andenken
     orientation: l

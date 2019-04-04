@@ -12,37 +12,37 @@ tags:
 title: Touren auf Santa Cruz, Galapagos
 images:
   - src: GOPR4113.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schnorcheln
     title: Hai vor Daphne
     orientation: l
     type: postimg
   - src: GOPR4155.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schnorcheln
     title: Meeresschildkröte vor Pinzón
     orientation: l
     type: postimg
     featured: true
   - src: GOPR4147.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schnorcheln
     title: Fische vor Pinzón
     orientation: l
     type: postimg
   - src: GOPR4135.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schnorcheln
     title: viel mehr Fische vor Pinzón
     orientation: l
     type: postimg
   - src: G0184187_1541967634257_high.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schnorcheln
     title: Weißspitzenriffhaie vor Pinzón
     orientation: l
@@ -55,64 +55,64 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181112_121555.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: kleiner Seelöwe verkriecht sich vor der brennenden Sonne
     orientation: l
     type: postimg
   - src: IMG_20181112_113017.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: Fregattenvogel in typischer Kühlungshaltung
     orientation: l
     type: postimg
   - src: IMG_20181112_111401.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: mehrere Fregattenvögel inklusive Jungvogel
     orientation: l
     type: postimg
   - src: IMG_20181112_110054.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: die karge Landschaft von North Seymour
     orientation: l
     type: postimg
   - src: IMG_20181112_104633.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: junger Fregattenvogel
     orientation: l
     type: postimg
   - src: IMG_20181112_120320.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: Blaufußtölpel
     orientation: l
     type: postimg
   - src: IMG_20181112_110639.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vogelbild
     title: Leguan beim Fressen
     orientation: l
     type: postimg
   - src: IMG_20181112_104434.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Leguanbild
     title: Leguan auf seinehm Thron
     orientation: l
     type: postimg
   - src: G0284445.JPG
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schnorcheln
     title: Unterwasserwelt vor Santa Cruz
     orientation: l

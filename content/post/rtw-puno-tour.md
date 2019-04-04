@@ -13,92 +13,92 @@ tags:
 title: Zwei Tage auf dem Titicacasee
 images:
   - src: IMG_20181214_094536.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Talk
     title: Erklärungsrunde für die Touristen bei den Uros
     orientation: l
     type: postimg
   - src: IMG_20181214_103407.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schilf
     title: Alles bei den Uros wird aus Schilf gebaut
     orientation: l
     type: postimg
   - src: IMG_20181214_134440.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Familienauswahl
     title: Auf Amantani empfingen uns alle Gastfamilien
     orientation: l
     type: postimg
   - src: IMG_20181214_134845.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Willkommen
     title: Alle Gäste sind hier eine wichtige Einnahmequelle
     orientation: l
     type: postimg
   - src: IMG_20181215_070837.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Betten
     title: Unser Zimmer
     orientation: l
     type: postimg
   - src: IMG_20181214_142551.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Mittag
     title: Mittagessen bei unserer Gastfamilie
     orientation: l
     type: postimg
   - src: IMG_20181214_152319.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Familie
     title: Wir mit unserer Gastfamilie nach dem Einkauf
     orientation: l
     type: postimg
   - src: IMG_20181214_175524.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Sunset
     title: Sonnenuntergang auf dem Pachamama
     orientation: l
     type: postimg
   - src: IMG_20181214_175939.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Abstieg
     title: Abstieg vom Pachamama
     orientation: l
     type: postimg
   - src: IMG_20181214_205157.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kleidung
     title: Traditionelle Kleidung
     orientation: l
     type: postimg
   - src: IMG_20181215_063103.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Frühstück
     title: Frühstück in der spärlichen Küche
     orientation: l
     type: postimg
   - src: IMG_20181215_064957.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Kochecke
     title: Die einfache Kochecke
     orientation: l
     type: postimg
   - src: IMG_20181215_105050.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Taquile
     title: Blick von Taquile
     orientation: l

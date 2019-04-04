@@ -12,8 +12,8 @@ tags:
 title: Mit dem Auto nach Santa Catalina
 images:
   - src: IMG_20181102_103653.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Panama-Kanal
     title: Panama-Kanal, Blick nach Norden zur nächsten Schleuse
     orientation: l
@@ -26,50 +26,50 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181102_133634.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Burger1
     title: leckerer vegetarischer Burger
     orientation: l
     type: postimg
   - src: IMG_20181102_133639.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Burger-Trio
     title: drei kleine Mini-Burger
     orientation: l
     type: postimg
   - src: IMG_20181102_142919.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Supermarkt
     title: Gemüse im Supermarkt
     orientation: l
     type: postimg
   - src: IMG_20181102_142934.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Supermarkt
     title: Ananas und Bananen schön sortiert
     orientation: l
     type: postimg
   - src: IMG_20181102_143145.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Supermarkt
     title: Orangen und anderes Obst
     orientation: l
     type: postimg
   - src: IMG_20181102_220535.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Unterkunft
     title: unser AirBnB-Zimmer in Santa Catalina
     orientation: l
     type: postimg
   - src: IMG_20181102_223901.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Moskitonetz
     title: das Bett nach persönlichen Anpassungen
     orientation: l

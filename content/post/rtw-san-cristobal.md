@@ -12,142 +12,142 @@ tags:
 title: San Cristóbal, Galapagos
 images:
   - src: IMG_20181113_093208.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Gepäck
     title: Reisegepäck, unendlich optimiert und mit Ice Cream Bean
     orientation: p
     type: postimg
   - src: IMG_20181113_135417.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Reparatur
     title: Reparaturversuch 1
     orientation: l
     type: postimg
   - src: IMG_20181113_141835.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Reparatur
     title: Reparaturversuch 2
     orientation: l
     type: postimg
   - src: IMG_20181113_170208.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hotel
     title: Hotelzimmer
     orientation: l
     type: postimg
   - src: IMG_20181114_110105.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Hotel
     title: Fruchtfrühstück auf der Dachterrasse
     orientation: l
     type: postimg
   - src: IMG_20181114_142116.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Sealion
     title: Seelöwen ÜBERALL
     orientation: l
     type: postimg
   - src: IMG_20181114_150940.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Sealion
     title: Baby-Seelöwen
     orientation: l
     type: postimg
   - src: IMG_20181118_150822.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Sealion
     title: Love is in the air
     orientation: l
     type: postimg
   - src: IMG_20181114_180545.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Sonnenuntergang
     title: Sonnenuntergang am Playa Mann
     orientation: l
     type: postimg
     header: true
   - src: IMG_20181116_112513.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Daten
     title: Tourismuseinahmen und was davon bei den Einheimischen hängen bleibt
     orientation: p
     type: postimg
   - src: IMG_20181116_140533.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bucht
     title: Aussicht vom Mirador Cerro Tijeretas
     orientation: l
     type: postimg
   - src: IMG_20181116_141145.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bucht
     title: Fregattenvogel am Mirador Cerro Tijeretas
     orientation: l
     type: postimg
   - src: IMG_20181117_092021.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schildi
     title: Selfi mit Schildi
     orientation: l
     type: postimg
   - src: IMG_20181117_092553.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schildi
     title: Kleine Zankereien unter Schildkröten
     orientation: l
     type: postimg
   - src: IMG_20181117_094107.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schildi
     title: Die Wärme macht auch Schildkröten zu schaffen
     orientation: l
     type: postimg
   - src: IMG_20181117_101116.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Seelöwen
     title: Seelöwe beim "Picknick"
     orientation: l
     type: postimg
   - src: IMG_20181117_104626.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Seelöwen
     title: Schatten, egal wo
     orientation: l
     type: postimg
   - src: IMG_20181117_104656.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Seelöwen
     title: Wo Sonne ist, ist auch "Schatten"
     orientation: l
     type: postimg
   - src: IMG_20181117_112643.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Vulkan
     title: Laguna El Junco
     orientation: l
     type: postimg
   - src: IMG_20181119_074357.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Galapagos
     title: Abschied von Galapagos
     orientation: l

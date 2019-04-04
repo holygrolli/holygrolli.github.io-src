@@ -20,23 +20,23 @@ images:
     type: header
     featured: false
   - src: IMG_20181209_110450.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Terrassen
     title: Die Inkaterrassen von Pisac
     orientation: l
     type: postimg
     featured: true
   - src: IMG_20181209_122534.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Draufsicht
     title: Sicht von oben auf die Ruinen und Terrassen
     orientation: l
     type: postimg
   - src: IMG_20181209_150509-01.jpeg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Markt
     title: Markt in den Gassen von Pisac
     orientation: l

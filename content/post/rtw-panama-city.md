@@ -20,36 +20,36 @@ images:
     type: postimg
     header: true
   - src: IMG_20181031_140534.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schmetterling
     title: Schmetterling 1
     orientation: l
     type: postimg
   - src: IMG_20181031_140909_1.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schmetterlinge
     title: viele große Schmetterlinge
     orientation: l
     type: postimg
   - src: IMG_20181031_141645.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Schmetterling
     title: kontaktfreudiger Schmetterling
     orientation: l
     type: postimg
   - src: IMG_20181031_163301.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Food Court
     title: ein Food Court in der Albrook Mall
     orientation: l
     type: postimg
   - src: IMG_20181031_170338.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Bus
     title: Kurz- und Langstreckenbusse in Panama
     orientation: l
@@ -62,78 +62,78 @@ images:
     orientation: l
     type: postimg
   - src: IMG_20181101_130921.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Altstadt
     title: Blick in die Altstadt
     orientation: l
     type: postimg
   - src: IMG_20181101_131408.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Altstadt
     title: Blick in die Altstadt
     orientation: p
     type: postimg
   - src: IMG_20181101_165845.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Altstadt
     title: Blick in die Altstadt
     orientation: l
     type: postimg
   - src: IMG_20181101_181643.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Skyline
     title: Nächtlicher Blick uf die Skyline
     orientation: l
     type: postimg
   - src: IMG_20181101_150624.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Altstadt
     title: Platz auf den alten Festungsmuern
     orientation: l
     type: postimg
   - src: IMG_20181101_150631.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Altstadt
     title: Die alten Festungsmauern
     orientation: l
     type: postimg
   - src: IMG_20181101_160501_1.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Ceviche
     title: Ceviche 1
     orientation: l
     type: postimg
   - src: IMG_20181101_171540.jpg
-    width: 3
-    height: 4
+    width: 2976
+    height: 3968
     alt: Ceviche
     title: Ceviche 2 und 3
     orientation: p
     type: postimg
   - src: IMG_20181031_154439.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Essen
     title: Grillspieße
     orientation: l
     type: postimg
   - src: IMG_20181031_213856.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Essen
     title: Muscheln in Knoblauch
     orientation: l
     type: postimg
   - src: IMG_20181031_214936.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Essen
     title: Fleisch mit Gemüse und Reis
     orientation: l

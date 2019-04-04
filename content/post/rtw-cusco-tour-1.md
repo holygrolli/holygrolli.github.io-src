@@ -20,57 +20,57 @@ images:
     type: header
     featured: false
   - src: IMG_20181205_103250.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka
     title: Alpakas auf dem Gelände von Sacsayhuamán
     orientation: l
     type: postimg
   - src: IMG_20181205_104417.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Ruine
     title: Blick auf einen Hügel von Sacsayhuamán
     orientation: l
     type: postimg
   - src: IMG_20181205_105156.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Cusco
     title: Blick auf Cusco
     orientation: l
     type: postimg
   - src: IMG_20181205_112259.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka2
     title: Wie kann man sie nicht lieben?
     orientation: l
     type: postimg
   - src: IMG_20181205_114030.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Alpaka3
     title: Einfach zum Liebhaben!
     orientation: l
     type: postimg
   - src: IMG_20181205_130244.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Puca Pucara
     title: Blick auf Puca Pucara
     orientation: l
     type: postimg
   - src: IMG_20181205_135043.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wassersystem1
     title: Das Wassersystem der Inkas aus der Nähe
     orientation: l
     type: postimg
   - src: IMG_20181205_135551.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Wassersystem2
     title: Das Wassersystem der Inkas aus der Ferne
     orientation: l

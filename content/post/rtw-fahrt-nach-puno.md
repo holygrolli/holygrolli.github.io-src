@@ -13,8 +13,8 @@ tags:
 title: Fahrt nach Puno am Titicaca-See
 images:
   - src: IMG_20181213_124323.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Plaza
     title: Plaza de Armas von Puno
     orientation: l

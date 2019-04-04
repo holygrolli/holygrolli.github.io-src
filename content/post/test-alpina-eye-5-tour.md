@@ -12,29 +12,29 @@ tags:
 title: Alpina Eye-5 Tour im Langzeittest
 images:
   - src: IMG_20180715_133601834.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Brillenvergleich
     title: Die Eye-5 (hinten), die Twist Five (Mitte), die Oakley (vorn)
     orientation: l
     type: postimg
   - src: IMG_20180715_132945746.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Eye5
     title: Tönungsunterschiede nach Abdecken der Scheiben
     orientation: l
     type: postimg
   - src: IMG_20180715_110445967_HDR.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Eye5-Sonne
     title: Tönungsunterschiede bei Gegenlicht
     orientation: l
     type: postimg
   - src: IMG_20181225_131302.jpg
-    width: 4
-    height: 3
+    width: 3968
+    height: 2976
     alt: Gummi
     title: Der Gummi ist nach 5 Monaten hinüber!
     orientation: l
