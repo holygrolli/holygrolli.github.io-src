@@ -127,4 +127,4 @@ Die größte Stadt im Süden ist _Invercargill_, welche leider auch kein Freedom
 
 {{< postimg "IMG_20190326_200040.jpg" >}}
 
-Am nächsten Tag planten wir die Weiterfahrt in Richtung _Milford Sound_. Dazu später mehr. Zusammenfassend muss ich feststellen, dass sich _Curio Bay_ definitiv lohnt. Hier sollte man zwei Tage einplanen, in der Hoffnung, die Hector-Delfine sehen zu können. Wenn man noch mehr Glück hat, kann man sogar von einem Aussichtspunkt Pinguine sehen, das war aber zu unserer Zeit (Ende März) sehr unwahrscheinlich.
+Am nächsten Tag planten wir die Weiterfahrt in Richtung _Milford Sound_. Dazu [später mehr](/post/rtw-milford-sound/). Zusammenfassend muss ich feststellen, dass sich _Curio Bay_ definitiv lohnt. Hier sollte man zwei Tage einplanen, in der Hoffnung, die Hector-Delfine sehen zu können. Wenn man noch mehr Glück hat, kann man sogar von einem Aussichtspunkt Pinguine sehen, das war aber zu unserer Zeit (Ende März) sehr unwahrscheinlich.
