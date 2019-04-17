@@ -159,4 +159,4 @@ Neben der enormen Lücke und den zurückgebliebenen, steilen Wände der Gletsche
 
 Laut den Informationen am Aussichtspunkt war vor gerade einmal 100 Jahren das Eis noch durchgehend vorhanden und war mindestens über den Kanten der sichtbaren Steilwände. Ebendiese Informationstafel zeigte auch, dass vor knapp 2000 Jahren das Eis bis weit in die Berge hinein reichte. Mit diesem Bild im Hinterkopf hatten Katrin und ich kurz die Diskussion, wodurch das Eis schon in diesen fast 1900 Jahren so stark schmolz, ohne dass der Mensch direkt für den Klimawandel verantwortlich war. Ein Klimawandelleugner könnte dies doch als Anlass nehmen zu behaupten, dass das Eis ja schon so lange schmilzt, also kann der moderne Mensch ja nicht Schuld sein. Leider hatten wir darauf nun keine Antwort. Vielleicht jemand in den Kommentaren?!
 
-Nach diesen beeindruckenden Bildern setzten wir unsere Reise fort, mit dem Nordwesten der Südinsel als Ziel. Dazu später mehr.
+Nach diesen beeindruckenden Bildern setzten wir unsere Reise fort, mit dem Nordwesten der Südinsel als Ziel. Dazu [später](/post/rtw-in-den-nordwesten/) mehr.
