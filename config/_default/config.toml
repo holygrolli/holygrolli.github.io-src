@@ -30,11 +30,11 @@ onesignal = "4373a84e-c094-48e0-9e5e-58d81c8fc1b9"
 
 [[menu.main]]
   name = "Weltreise"
-  url = "/rtw"
+  url = "/rtw/"
   weight = -210
 [[menu.main]]
   name = "Über"
-  url = "/about"
+  url = "/about/"
   weight = -200
 [[menu.main]]
   name = "Archiv"
