@@ -3,6 +3,7 @@ categories:
 - reise
 comments: true
 date: "2019-04-21T20:31:51+12:00"
+lastmod: "2019-04-23T23:22:00+09:30"
 description: Nördlichster Punkt der Südinsel, Golden Bay und Abel Tasman National Park
 draft: false
 tags:
@@ -10,7 +11,7 @@ tags:
 - motueka
 - collingwood
 - abel tasman
-title: Tasman Dirstrict, Neuseeland
+title: Tasman District, Neuseeland
 images:
   - src: IMG_20190413_110636.jpg
     width: 3968
