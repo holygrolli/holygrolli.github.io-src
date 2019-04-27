@@ -3,6 +3,7 @@ categories:
 - reise
 comments: true
 date: "2018-11-19T05:00:00Z"
+lastmod: "2019-04-27T13:24:00+09:30"
 description: Allgemeine Eindrücke der Galapagosinsel Santa Cruz
 draft: false
 tags:
@@ -36,7 +37,7 @@ images:
     width: 3968
     height: 2976
     alt: Ceviche
-    title: Ceviche de Cameron \(Shrimps\)
+    title: Ceviche de Camaron (Shrimps)
     orientation: l
     type: postimg
   - src: IMG_20181108_120309.jpg
