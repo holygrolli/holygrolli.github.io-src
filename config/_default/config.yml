@@ -1,0 +1,49 @@
+title: "ChaosBlog"
+baseURL: "https://blog.networkchallenge.de/"
+languageCode: "de-de"
+paginate: 10
+theme: "blomp"
+copyright: "Copyright © ChaosBlog 2018"
+disqusShortname: "thechaosblog"
+googleAnalytics: "UA-259583-6"
+
+permalinks:
+  post: "/post/:filename"
+
+params:
+  Author: "Andreas Groll"
+  description: "Ein Blog über alles aus dem Leben mit den Schwerpunkten DevOps, Fotos, Reisen, Technik und Gadgets."
+  dateForm: "2. Jan 2006"
+  dateFormDateTime: "2006-01-02"
+  imgurl: "https://imgs.networkchallenge.de"
+  onesignal: "4373a84e-c094-48e0-9e5e-58d81c8fc1b9"
+  social:
+  - title: "google-plus"
+    url: "https://plus.google.com/+AndreasGroll"
+  - title: "github"
+    url: "https://github.com/adulescentulus"
+  - title: "instagram"
+    url: "https://www.instagram.com/holygrolli/"
+  authoren:
+  - key: "grolland"
+    name: "Andreas Groll"
+  - key: "katrin"
+    name: "Katrin Seifert"
+
+menu:
+  main:
+  - name: "Weltreise"
+    url: "/rtw/"
+    weight: -210
+  - name: Länder
+    identifier: laender
+    url: /reise/land/
+    weight: -220
+  - name: "Über"
+    url: "/about/"
+    weight: -200
+  - name: "Archiv"
+    url: "/post/"
+    weight: -180
+
+
