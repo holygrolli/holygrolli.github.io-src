@@ -14,7 +14,7 @@ images:
   - src: IMG_20190220_153602.jpg
     width: 7232
     height: 3072
-    title: 
+    title: Pahia "in" dort
     orientation: l
     type: header
     featured: false
