@@ -9,7 +9,6 @@ pipeline {
     environment {          
         def BRANCHSPEC = "${params.COMMITID}"
     }
-    triggers { upstream(upstreamProjects: "blog-cron-trigger-${BRANCH_NAME}", threshold: hudson.model.Result.SUCCESS) }
     stages {
         stage ('Init') {
             steps {
