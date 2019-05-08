@@ -76,4 +76,4 @@ Am nächsten Tag holten wir unseren Britz-Camper in der Nähe des Flughafens ab.
 
 Den darauffolgenden Großeinkauf absolvierten wir bei _Foodland_, die meinen Internetrecherchen zur Folge großen Wert auf lokale Lieferanten legen. In der Tat gab es bei den meisten Produkten groß beworbene, australische Alternativen. Immerhin konnten wir hier feststellen, dass die Preise im Supermarkt ein wenig günstiger (10 bis 20%) waren als in Neuseeland.
 
-Da wir für den nächsten Tag die Fähre nach _Kangaroo Island_ gebucht hatten, fuhren wir bis zum Sonnenuntergang bis kurz vor die Südspitze bei _Cape Jervis_, wo wir für günstige 10 AUD einen Stellplatz bekamen.
+Da wir für den nächsten Tag die Fähre nach _Kangaroo Island_ gebucht hatten, fuhren wir bis zum Sonnenuntergang bis kurz vor die Südspitze bei _Cape Jervis_, wo wir für günstige 10 AUD einen [Stellplatz](https://goo.gl/maps/hKQhmjghVSiA9TAt7) bekamen.
