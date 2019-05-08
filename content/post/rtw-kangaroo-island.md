@@ -2,7 +2,7 @@
 categories:
 - reise
 comments: true
-date: "2019-05-08T19:54:42+10:00"
+date: "2019-05-08T18:20:42+10:00"
 description: Eine Woche auf einer Insel vor Adelaide, mit allem was man von Australien gesehen haben muss?
 draft: false
 tags:
