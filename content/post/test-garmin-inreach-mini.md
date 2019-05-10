@@ -2,7 +2,7 @@
 categories:
 - tech
 comments: true
-date: "2019-05-00:12:45+10:00"
+date: "2019-05-11T00:12:45+10:00"
 description: Ein Notfall-Tracker im Weltreisegepäck. Dies sind meine Erfahrungen!
 draft: false
 tags:
