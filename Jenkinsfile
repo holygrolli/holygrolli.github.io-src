@@ -63,6 +63,7 @@ pipeline {
                             git add . && \
                             git commit -m 'new content from source ${SRCCOMMIT}' && \
                             git push origin master || echo was there a problem
+                            curl 'http://www.google.com/webmasters/sitemaps/ping?sitemap=https://blog.networkchallenge.de/sitemap.xml'
                             """
                     }
                 }
