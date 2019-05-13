@@ -10,6 +10,7 @@ tags:
 - australien
 - kangaroo island
 - sunset
+- south australia
 title: Kangaroo Island, Australien
 images:
   - src: IMG_20190425_094628.jpg

@@ -9,6 +9,7 @@ tags:
 - rtw
 - adelaide
 - australien
+- south australia
 title: Adelaide, Australien
 images:
   - src: IMG_20190423_154549.jpg
