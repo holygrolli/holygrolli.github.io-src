@@ -10,6 +10,9 @@ googleAnalytics: "UA-259583-6"
 permalinks:
   post: "/post/:filename"
 
+taxonomies:
+  tag: tags
+
 params:
   Author: "Andreas Groll"
   description: "Ein Blog über alles aus dem Leben mit den Schwerpunkten DevOps, Fotos, Reisen, Technik und Gadgets."
@@ -43,7 +46,7 @@ menu:
     url: "/about/"
     weight: -200
   - name: "Archiv"
-    url: "/post/"
+    url: "/archiv/"
     weight: -180
 
 
