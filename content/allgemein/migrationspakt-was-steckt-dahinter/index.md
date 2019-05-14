@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/migrationspakt-was-steckt-dahinter/
+type: post
 categories:
 - allgemein
 comments: true
