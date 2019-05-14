@@ -132,4 +132,4 @@ Nach 17 Uhr waren wir dann mit allem fertig und Marco, unser Fahrer, wollte uns 
 
 {{< postimg "IMG_20190105_191340.jpg" >}}
 
-Am Ende ging es dann nach einem unglaublichen Tag zurück nach Uyuni, wo wir uns auf die nächsten zwei Tage im Hochland von Bolivien freuen konnten. Diese Tage beschreibe ich im [nächsten](/post/rtw-uyuni-san-pedro/) Blogpost.
+Am Ende ging es dann nach einem unglaublichen Tag zurück nach Uyuni, wo wir uns auf die nächsten zwei Tage im Hochland von Bolivien freuen konnten. Diese Tage beschreibe ich im [nächsten]({{< relref "/post/rtw-uyuni-san-pedro" >}}) Blogpost.

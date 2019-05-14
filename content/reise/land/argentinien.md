@@ -21,11 +21,11 @@ In der kurzen Zeit ist es schwer spezielle Highlights herauszuarbeiten. Insgesam
 
 ### Iguazu-Wasserfälle
 
-Die Iguazu-Wasserfälle mitten im Regenwald sind ein imposantes Naturschauspiel. Wir hatten mehrere Tage in [Puerto Iguazú](/post/rtw-iguazu/) verbracht und von dort den Nationalpark mit den Wasserfällen besucht. Neben den Wasserfällen gab es als Bonus auch noch niedliche Nasenbären zu sehen.
+Die Iguazu-Wasserfälle mitten im Regenwald sind ein imposantes Naturschauspiel. Wir hatten mehrere Tage in [Puerto Iguazú]({{< relref "/post/rtw-iguazu" >}}) verbracht und von dort den Nationalpark mit den Wasserfällen besucht. Neben den Wasserfällen gab es als Bonus auch noch niedliche Nasenbären zu sehen.
 
 ### El Chaltén
 
-In wunderbarer Naturkulisse kann man in [El Chaltén](/post/rtw-el-chalten/) wandern und klettern. In der Ferne sieht man viele Gletscher.
+In wunderbarer Naturkulisse kann man in [El Chaltén]({{< relref "/post/rtw-el-chalten" >}}) wandern und klettern. In der Ferne sieht man viele Gletscher.
 
 ### Perito Moreno-Gletscher
 
@@ -33,13 +33,13 @@ Der Perito-Moreno-Gletscher bietet kleine Wanderungen in sicherer Entfernung ent
 
 ### Feuerland
 
-Entlang der inoffiziellen Panamericana kommt man bis nach [Ushuaia](/post/rtw-feuerland/), der südlichsten Stadt der Welt. Hier befindet sich auch der Nationalpark _Tierra del Fuego_, der wunderschöne Landschaften bietet, durchzogen von Flüssen und Seen. Bei unserem Besuch hatten wir sehr viel Glück mit dem Wetter, so dass wir dort auch Baden gehen konnten. Normalerweise ist Feuerland eher kalt und windig. Vielleicht hätte es Feuerland dann nicht auf meine Highlightliste geschafft.
+Entlang der inoffiziellen Panamericana kommt man bis nach [Ushuaia]({{< relref "/post/rtw-feuerland" >}}), der südlichsten Stadt der Welt. Hier befindet sich auch der Nationalpark _Tierra del Fuego_, der wunderschöne Landschaften bietet, durchzogen von Flüssen und Seen. Bei unserem Besuch hatten wir sehr viel Glück mit dem Wetter, so dass wir dort auch Baden gehen konnten. Normalerweise ist Feuerland eher kalt und windig. Vielleicht hätte es Feuerland dann nicht auf meine Highlightliste geschafft.
 
 ## Wissenswertes / Tipps
 
 ### Fortbewegung / Übernachtung
 
-Wir hatten unseren Mietwagen für die Patagonienrundreise in Chile angemietet. Für unsere Stationen ist ein Allradantrieb nicht notwendig gewesen. Ein Auto mit mehr Bodenfreiheit ist zu empfehlen, wenn man auch einmal Schotterstraßen (Beispiel [Ruta 7](/post/rtw-el-calafate/)) fahren will. Ansonsten reicht ein normaler PKW. Da man in Patagonien oft zwischen Chile und Argentinien wechseln muss, muss der Vermieter eine spezielle Bescheinigung für die Zollbeamten ausstellen. Ohne die darf mich nicht über die Grenze. Dies gilt für unsere Reise ausgehend von Chile, ich denke aber, dass es auch für argentinische Mietwagen so wäre.
+Wir hatten unseren Mietwagen für die Patagonienrundreise in Chile angemietet. Für unsere Stationen ist ein Allradantrieb nicht notwendig gewesen. Ein Auto mit mehr Bodenfreiheit ist zu empfehlen, wenn man auch einmal Schotterstraßen (Beispiel [Ruta 7]({{< relref "/post/rtw-el-calafate" >}})) fahren will. Ansonsten reicht ein normaler PKW. Da man in Patagonien oft zwischen Chile und Argentinien wechseln muss, muss der Vermieter eine spezielle Bescheinigung für die Zollbeamten ausstellen. Ohne die darf mich nicht über die Grenze. Dies gilt für unsere Reise ausgehend von Chile, ich denke aber, dass es auch für argentinische Mietwagen so wäre.
 
 In der Gegend um El Calafate und El Chaltén kann man mit genügend Geduld und einer Einschränkung bei der Flexibilität auch gut mit dem Bus vorwärts kommen. Dies ist sicher auch eine Option, wenn man nicht einen günstigen Mietwagen bekommen kann.
 

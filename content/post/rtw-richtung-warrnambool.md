@@ -73,7 +73,7 @@ images:
     featured: false
 ---
 
-Nach den tollen Tagen auf [Kangaroo Island](/post/rtw-kangaroo-island/) ging es nun wieder auf dem Festland grob in die Richtung der _Great Ocean Road_. Da wir versuchen, soweit wie möglich an der Küstenlinie entlang zu fahren, gab es nicht so viele Alternativen für die Route. Das grobe Ziel war _Warrnambool_, im nächsten Bundesstaat gelegen. Insgesamt haben wir ungefähr 750 Kilometer in sieben Tagen zurückgelegt, um _Warrnambool_ zu erreichen.
+Nach den tollen Tagen auf [Kangaroo Island]({{< relref "/post/rtw-kangaroo-island" >}}) ging es nun wieder auf dem Festland grob in die Richtung der _Great Ocean Road_. Da wir versuchen, soweit wie möglich an der Küstenlinie entlang zu fahren, gab es nicht so viele Alternativen für die Route. Das grobe Ziel war _Warrnambool_, im nächsten Bundesstaat gelegen. Insgesamt haben wir ungefähr 750 Kilometer in sieben Tagen zurückgelegt, um _Warrnambool_ zu erreichen.
 
 {{< screenshot "road-to-warrnambool.png" >}}
 

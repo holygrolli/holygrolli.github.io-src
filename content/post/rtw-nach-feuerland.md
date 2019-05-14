@@ -63,7 +63,7 @@ images:
     type: postimg
 ---
 
-Um unsere Patagionenrundreise zu komplettieren wollten wir noch Feuerland ansteuern, wo es auch freilebende Königspinguine geben sollte. Daher mussten wir nach unserem [Aufenthalt in El Chaltén](/post/rtw-el-chalten/) noch ganz in den Südosten von Patagonien fahren. Dafür planten wir einen Zwischenstopp an der Atlantikküste Patagoniens ein. _Río Gallegos_ ist dabei Mittel zum Zweck und bietet auch als Provinzhauptstadt genügend Übernachtungsmöglichkeiten. Nach unserem morgendlichen Ausflug in El Chaltén ging es dann über 450km auf asphaltierten Straßen nach Río Gallegos mit den Bergen im Rücken:
+Um unsere Patagionenrundreise zu komplettieren wollten wir noch Feuerland ansteuern, wo es auch freilebende Königspinguine geben sollte. Daher mussten wir nach unserem [Aufenthalt in El Chaltén]({{< relref "/post/rtw-el-chalten" >}}) noch ganz in den Südosten von Patagonien fahren. Dafür planten wir einen Zwischenstopp an der Atlantikküste Patagoniens ein. _Río Gallegos_ ist dabei Mittel zum Zweck und bietet auch als Provinzhauptstadt genügend Übernachtungsmöglichkeiten. Nach unserem morgendlichen Ausflug in El Chaltén ging es dann über 450km auf asphaltierten Straßen nach Río Gallegos mit den Bergen im Rücken:
 
 {{< postimg "IMG_20190202_122201.jpg" >}}
 
@@ -95,4 +95,4 @@ Am nächsten Morgen wollten wir dann zeitig los, da wir noch einmal 400km Weg, e
 
 Nach ungefähr 9 Stunden kamen wir dann in unserer Unterkunt in Río Grande an. Río Grande ist groß genug, um genügend Auswahl an Restaurants zu haben. Diesmal versuchten wir es mit Salat und Pizza, also ohne Fleisch, beim Italiener.
 
-Für den nächsten Tag stand dann eine Fahrt zur südlichsten Stadt Argentiniens auf dem Programmm. Mehr dazu auf einer [weiteren Seite](/post/rtw-feuerland/).
+Für den nächsten Tag stand dann eine Fahrt zur südlichsten Stadt Argentiniens auf dem Programmm. Mehr dazu auf einer [weiteren Seite]({{< relref "/post/rtw-feuerland" >}}).

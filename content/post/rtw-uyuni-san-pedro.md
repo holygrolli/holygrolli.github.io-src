@@ -149,7 +149,7 @@ images:
     type: postimg
 ---
 
-Nachdem ich in [Teil 1](/post/rtw-salar-de-uyuni/) über die größte Salzwüste der Welt und den finanziellen Teil der Tour berichtet habe geht es nun weiter in den Süden von Bolivien.
+Nachdem ich in [Teil 1]({{< relref "/post/rtw-salar-de-uyuni" >}}) über die größte Salzwüste der Welt und den finanziellen Teil der Tour berichtet habe geht es nun weiter in den Süden von Bolivien.
 
 ## Uyuni Eisenbahnfriedhof
 

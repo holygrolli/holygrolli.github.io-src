@@ -107,7 +107,7 @@ images:
     type: postimg
 ---
 
-Nach dem Besuch von [Mittelerde](/post/rtw-rotorua-matamata/) hatten wir überlegt noch weiter südlich an den _Lake Taupo_ zu fahren, allerdigs fanden wir nur relativ teure Unterkünfte und wir fragten uns auch, ob wir noch einen weiteren See sehen wollten, wenn Neuseeland doch so schöne Küsten vorzuweisen hat. Daher entschieden wir uns doch spontan, an die Westküste zu fahren. Das Ziel war _Raglan_, westlich von Hamilton, welches für seine tollen Surfstrände bekannt ist.
+Nach dem Besuch von [Mittelerde]({{< relref "/post/rtw-rotorua-matamata" >}}) hatten wir überlegt noch weiter südlich an den _Lake Taupo_ zu fahren, allerdigs fanden wir nur relativ teure Unterkünfte und wir fragten uns auch, ob wir noch einen weiteren See sehen wollten, wenn Neuseeland doch so schöne Küsten vorzuweisen hat. Daher entschieden wir uns doch spontan, an die Westküste zu fahren. Das Ziel war _Raglan_, westlich von Hamilton, welches für seine tollen Surfstrände bekannt ist.
 
 ## Hamilton
 
@@ -159,7 +159,7 @@ Dahinter waren dann die Three Sisters:
 
 {{< postimg "IMG_20190307_143522.jpg" >}}
 
-Man konnte noch viele Hundert Meter den Strand entlang und teilweise durch große Steintore gehen. Diese waren sogar imposanter als die besuchte [Cathedral Cove](/post/rtw-thames-coromandel/), vor allem weil hier kaum Menschen waren.
+Man konnte noch viele Hundert Meter den Strand entlang und teilweise durch große Steintore gehen. Diese waren sogar imposanter als die besuchte [Cathedral Cove]({{< relref "/post/rtw-thames-coromandel" >}}), vor allem weil hier kaum Menschen waren.
 
 {{< postimg "IMG_20190307_172340.jpg" >}}
 

@@ -114,7 +114,7 @@ images:
     type: postimg
 ---
 
-Nach unserem Besuch von [Santiago de Chile](/post/rtw-santiago-de-chile/) stand ein weiteres, berühmtes Ziel auf dem Programm. Zwei Stunden westlich von Santiago liegt die Küstenstadt _Valparaíso_, mit dem Urlaubsort _Viña del Mar_ zusammen der zweitgrößte Ballungsraum Chiles.
+Nach unserem Besuch von [Santiago de Chile]({{< relref "/post/rtw-santiago-de-chile" >}}) stand ein weiteres, berühmtes Ziel auf dem Programm. Zwei Stunden westlich von Santiago liegt die Küstenstadt _Valparaíso_, mit dem Urlaubsort _Viña del Mar_ zusammen der zweitgrößte Ballungsraum Chiles.
 
 ## Anreise
 

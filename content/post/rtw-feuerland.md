@@ -85,7 +85,7 @@ images:
 
 ## Ab in den Süden
 
-Nachdem wir uns für zwei Nächte in [Río Grande](/post/rtw-nach-feuerland/) entschieden hatten, ging es am 99. Tag der Weltreise zur südlichsten Stadt Argentiniens: Ushuaia. Entlang der Bundesstraße Ruta 3 ging es von Río Grande aus ca. 200km in Richtung Süden entlang vieler Seen oder Buchten. Eigentlich ist Feuerland (Tierra del Fuego) ein Archipel mit einer Hauptinsel. Die Magellanstraße trennt die Insel vom Festland. Auf dem Weg nach Ushuaia fährt man durch verdorrene, aber auch durch saftig grüne Wiesen. Der über 100km lange See _Lago Fagnano_ liegt auch dort. Diesen haben wir gleich als Fotomotiv genutzt, da im Hintergrund die schneebedeckten Berge zu sehen waren.
+Nachdem wir uns für zwei Nächte in [Río Grande]({{< relref "/post/rtw-nach-feuerland" >}}) entschieden hatten, ging es am 99. Tag der Weltreise zur südlichsten Stadt Argentiniens: Ushuaia. Entlang der Bundesstraße Ruta 3 ging es von Río Grande aus ca. 200km in Richtung Süden entlang vieler Seen oder Buchten. Eigentlich ist Feuerland (Tierra del Fuego) ein Archipel mit einer Hauptinsel. Die Magellanstraße trennt die Insel vom Festland. Auf dem Weg nach Ushuaia fährt man durch verdorrene, aber auch durch saftig grüne Wiesen. Der über 100km lange See _Lago Fagnano_ liegt auch dort. Diesen haben wir gleich als Fotomotiv genutzt, da im Hintergrund die schneebedeckten Berge zu sehen waren.
 
 {{< postimg "IMG_20190204_105333.jpg" >}}
 

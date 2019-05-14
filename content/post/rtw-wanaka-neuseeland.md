@@ -56,7 +56,7 @@ images:
     featured: true
 ---
 
-Nach der letzten gepressten [Zusammenfassung](/post/rtw-richtung-queenstown/) der letzten sieben Tage möchte ich diesmal einen eigenen Beitrag verfassen, obwohl dieser nur einen Tag abdeckt. Insgesamt haben wir bei schönstem Wetter so viele Fotos gemacht, dass es einen eigenen Artikel rechtfertigt.
+Nach der letzten gepressten [Zusammenfassung]({{< relref "/post/rtw-richtung-queenstown" >}}) der letzten sieben Tage möchte ich diesmal einen eigenen Beitrag verfassen, obwohl dieser nur einen Tag abdeckt. Insgesamt haben wir bei schönstem Wetter so viele Fotos gemacht, dass es einen eigenen Artikel rechtfertigt.
 
 Von unserem Schlafplatz in Lowburn ging es knapp 50 km weiter in Richtung Nordwesten, nach Wanaka. Auf dem Weg zum Mount Cook Nationalpark ist dies eigentlich ein Umweg. Katrin hatte aber gelesen, dass die Gegend schön zum Wandern sein soll. Bei schönstem Sonnenschein sind wir also zuerst nach Wanaka gefahren, wo wir noch ein paar Brötchen für ein Frühstück holten und bei Vodafone noch einmal 10 GB Daten in Form einer Travel-SIM kauften. Natürlich machten wir noch ein paar Fotos vom gleichnamigen See _Lake Wanaka_, der direkt vor der Stadt lag und im Hintergrund die Neuseeländischen Alpen als Kulisse bot.
 

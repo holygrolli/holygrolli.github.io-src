@@ -85,7 +85,7 @@ images:
     featured: false
 ---
 
-Nach der [regnerischen Anreise](/post/rtw-in-den-nordwesten/) ging es an der Küste entlang nach Norden. Ziel war die kleine Stadt _Westport_, da es hier den letzten freien Campingplatz in Strandnähe geben sollte, bevor es wieder auf dem Weg an die Nordspitze etwas ins Landesinnere gehen sollte. Wir fuhren insgesamt nur rund 120 Kilometer, brauchten dafür aber eine gefühlte Ewigkeit, da es immer wieder kleinere Regenschauer gab und sich die Straße die Küste entlangwindet.
+Nach der [regnerischen Anreise]({{< relref "/post/rtw-in-den-nordwesten" >}}) ging es an der Küste entlang nach Norden. Ziel war die kleine Stadt _Westport_, da es hier den letzten freien Campingplatz in Strandnähe geben sollte, bevor es wieder auf dem Weg an die Nordspitze etwas ins Landesinnere gehen sollte. Wir fuhren insgesamt nur rund 120 Kilometer, brauchten dafür aber eine gefühlte Ewigkeit, da es immer wieder kleinere Regenschauer gab und sich die Straße die Küste entlangwindet.
 
 Auf diesem Weg hielten wir eigentlich nur mit dem Ziel eines leckeren Pancakes am [Pancake Rocks Cafe](https://goo.gl/maps/uP9WKfwzYedp9MVT7) und machten den kleinen Rundweg [Punakaiki Pancake Rocks and Blowholes Walk](https://goo.gl/maps/FGeVy3JungUuTEzm9) eigentich nur vollständigkeitshalber. Zum Glück haben wir das getan! Tatsächlich war gleich einer der ersten Stopps auf dem Weg ein bisher nicht gesehenes Naturschauspiel: Die Wellen drückten energisch Wasser einen kleinen Felsspalt nach oben, was das ganze wie Wasserdampf eines Geysirs wirken ließ, am Ende aber nur feinstes, zerstäubtes Meerwasser war, mit einem Geräusch, als bläßt ein Elefant Wasser durch seinen Rüssel. Das war eine holprig lange Beschreibung für dieses Naturschauspiel:
 

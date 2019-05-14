@@ -107,7 +107,7 @@ images:
     type: postimg
 ---
 
-Am mittlerweile 120. Tag fuhren wir von den heißen Quellen der [Coromandel-Halbinsel](/post/rtw-thames-coromandel/) südlich in Richtung Rotorua. Hier hatten wir drei Nächte eingeplant und planten am Ankunftstag gleich die weiteren zwei Tage. So planten wir für den darauffolgenden Tag den Besuch im naheliegenden _Mittelerde_.
+Am mittlerweile 120. Tag fuhren wir von den heißen Quellen der [Coromandel-Halbinsel]({{< relref "/post/rtw-thames-coromandel" >}}) südlich in Richtung Rotorua. Hier hatten wir drei Nächte eingeplant und planten am Ankunftstag gleich die weiteren zwei Tage. So planten wir für den darauffolgenden Tag den Besuch im naheliegenden _Mittelerde_.
 
 ## Das Auenland - Hobbiton Movie Set
 

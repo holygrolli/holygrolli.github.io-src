@@ -55,7 +55,7 @@ images:
     featured: false
 ---
 
-Nach den schönen Eindrücken des [Mount Cook National Park](/post/rtw-mount-cook/) ging es einen langen Weg an die Nordwestküste. Wir hielten für einen kurzen Snack im Restaurant der [High Country Salmon](https://goo.gl/maps/hZD8dtG8qDiNgW5k8) Lachsfarm. 
+Nach den schönen Eindrücken des [Mount Cook National Park]({{< relref "/post/rtw-mount-cook" >}}) ging es einen langen Weg an die Nordwestküste. Wir hielten für einen kurzen Snack im Restaurant der [High Country Salmon](https://goo.gl/maps/hZD8dtG8qDiNgW5k8) Lachsfarm. 
 
 {{< postimg "IMG_20190409_134831.jpg" >}}
 

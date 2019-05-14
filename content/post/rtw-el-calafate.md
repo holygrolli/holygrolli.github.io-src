@@ -136,4 +136,4 @@ Auf dem Rückweg hielten wir noch einmal in El Calafate für einen Kaffee. Dabei
 
 {{< postimg "IMG_20190130_161407.jpg" >}}
 
-Nachdem wir nun in [Torres del Paine](/post/rtw-torres-del-paine/) die Bootsfahrt zum Grey-Gletscher mitgemacht haben, muss ich festhalten, dass der Perito Moreno-Gletscher ein besserer Preis-Leistungsverhältnis hat. Natürlich kann man beide Erlebnisse nicht direkt miteinander vergleichen, aber die Möglichkeit, den Perito Moreno entlang der Küste selbstbestimmt abzulaufen, schlägt die geführte Bootstour in meinen Augen.
+Nachdem wir nun in [Torres del Paine]({{< relref "/post/rtw-torres-del-paine" >}}) die Bootsfahrt zum Grey-Gletscher mitgemacht haben, muss ich festhalten, dass der Perito Moreno-Gletscher ein besserer Preis-Leistungsverhältnis hat. Natürlich kann man beide Erlebnisse nicht direkt miteinander vergleichen, aber die Möglichkeit, den Perito Moreno entlang der Küste selbstbestimmt abzulaufen, schlägt die geführte Bootstour in meinen Augen.

@@ -119,7 +119,7 @@ images:
     featured: false
 ---
 
-Nach unserer [Übernachtung in Fortrose](/post/rtw-catlins-neuseeland/) ging es über die Stadt Invercargill zunächst einmal ein wenig nach Norden. Da wir in Invercargill noch ein wenig einkaufen (Regenjacke und -hose) waren und auch unsere Vorräte wieder auffüllen mussten, kamen wir erst spät los, so dass wir nicht ganz so weit fahren konnten. Wir entschieden uns in _Lumsden_ auf einem städtischen [Freedom Campground](https://goo.gl/maps/UD1RqYCyxP32) zu übernachten. Diesen muss man auf alle Fälle empfehlen: große, saubere Toiletten, viel Platz, Abwasserstation und Frischwasser und zu guter Letzt ordentliches Vodafone-Netz.
+Nach unserer [Übernachtung in Fortrose]({{< relref "/post/rtw-catlins-neuseeland" >}}) ging es über die Stadt Invercargill zunächst einmal ein wenig nach Norden. Da wir in Invercargill noch ein wenig einkaufen (Regenjacke und -hose) waren und auch unsere Vorräte wieder auffüllen mussten, kamen wir erst spät los, so dass wir nicht ganz so weit fahren konnten. Wir entschieden uns in _Lumsden_ auf einem städtischen [Freedom Campground](https://goo.gl/maps/UD1RqYCyxP32) zu übernachten. Diesen muss man auf alle Fälle empfehlen: große, saubere Toiletten, viel Platz, Abwasserstation und Frischwasser und zu guter Letzt ordentliches Vodafone-Netz.
 
 Nach der Übernachtung ging es dann weiter zum fast 200 km entfernten _Milford Sound_. Die letzte Stadt vorher ist _Te Anau_ und nachdem man sie passiert hat gibt es auch keinen Handyempfang mehr. Auf dem weiteren Weg sollte man unbedingt an den [Mirror Lakes](https://goo.gl/maps/j5Fer5wBEfS2) stoppen. Diese ermöglichen schöne Spiegelmotive der Berge im Hintergrund.
 

@@ -86,7 +86,7 @@ images:
     type: postimg
 ---
 
-Nach dem Dschungel in [Puerto Iguazú](/post/rtw-iguazu/) stand zum Abschluss von Südamerika noch ein Aufenthalt in Buenos Aires auf dem Programm. Die Tage haben wir eher entspannt verbracht: Ausschlafen, _Haus des Geldes_ auf Netflix zu Ende schauen und natürlich ein wenig die Stadt anschauen.
+Nach dem Dschungel in [Puerto Iguazú]({{< relref "/post/rtw-iguazu" >}}) stand zum Abschluss von Südamerika noch ein Aufenthalt in Buenos Aires auf dem Programm. Die Tage haben wir eher entspannt verbracht: Ausschlafen, _Haus des Geldes_ auf Netflix zu Ende schauen und natürlich ein wenig die Stadt anschauen.
 
 Eine der touristischen Hauptattraktionen ist der Stadtteil _La Boca_. Hier reihen sich bunte Häuser aneinander und unzählige Restaurants buhlen um die Touristen. Zusätzlich stehen an allen Ecken übergroße Figuren der lokalen Helden, zu denen gerade hier im Stadtteil Diego Maradona gehört. Nebenbei gibt es in einigen Restaurants Tangoshows für die Gäste.
 

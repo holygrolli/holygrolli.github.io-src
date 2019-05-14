@@ -90,11 +90,11 @@ images:
     type: postimg
 ---
 
-Nach unseren zwei Nächten in [El Calafate](/post/rtw-el-calafate/) ging es am späten Nachmittag in Richtung _El Chaltén_ ebenso in Argentinien. El Chaltén wurde erst 1985, also in der jüngergen Vergangenheit gegründet. Man hätte vermuten können, dass wir auch hier über eine Schotterpiste an das Ziel gelangen würden. Auch peilte Google Maps knapp über 3 Stunden Fahrzeit an. Glücklicherweise wurden wir eines Besseren belehrt und wir brauchten nur 2 Stunden, da die letzte Straße nach der Ruta 40 auch sauber mit Asphalt überzogen war. Google Maps kannte das wohl noch nicht und so reduzierte sich die angezeigte Restzeit je Kilometer dramatisch.
+Nach unseren zwei Nächten in [El Calafate]({{< relref "/post/rtw-el-calafate" >}}) ging es am späten Nachmittag in Richtung _El Chaltén_ ebenso in Argentinien. El Chaltén wurde erst 1985, also in der jüngergen Vergangenheit gegründet. Man hätte vermuten können, dass wir auch hier über eine Schotterpiste an das Ziel gelangen würden. Auch peilte Google Maps knapp über 3 Stunden Fahrzeit an. Glücklicherweise wurden wir eines Besseren belehrt und wir brauchten nur 2 Stunden, da die letzte Straße nach der Ruta 40 auch sauber mit Asphalt überzogen war. Google Maps kannte das wohl noch nicht und so reduzierte sich die angezeigte Restzeit je Kilometer dramatisch.
 
 In El Chaltén hatten wir einen kleinen Familienbungalow in der Anlage [Cabañas Cerro Torre](https://goo.gl/maps/NEudVEAKMWp), der auch hier wieder etwas besser gepflegt hätte sein können. Die Gasheizung in den Zimmern durfte von uns nicht verstellt werden und ballerte die erste Nacht durch. Die einzige Regulationsmöglichkeit war die Bungalowtür und das kleine Badezimmerfenster, alle anderen Fenster waren nicht zu öffnen.
 
-In El Calafate hatten wir uns wieder im großen Supermarkt eingedeckt, da El Chaltén nur bedingt Infrastruktur hat. Es gibt kleinere Supermärkte. Die Auswahl, so nahmen wir an, war aber beschränkt. Für uns bedeutete das drei Abende Pasta, Risotto und Pasta, der Abwechslung zuliebe. Unser Frühstück bestand aus den Resten des Vorabends und dem in [Torres del Paine](/post/rtw-torres-del-paine/) erprobten Thunfischsalat mit Kichererbsen.
+In El Calafate hatten wir uns wieder im großen Supermarkt eingedeckt, da El Chaltén nur bedingt Infrastruktur hat. Es gibt kleinere Supermärkte. Die Auswahl, so nahmen wir an, war aber beschränkt. Für uns bedeutete das drei Abende Pasta, Risotto und Pasta, der Abwechslung zuliebe. Unser Frühstück bestand aus den Resten des Vorabends und dem in [Torres del Paine]({{< relref "/post/rtw-torres-del-paine" >}}) erprobten Thunfischsalat mit Kichererbsen.
 
 El Chaltén versprüht genauso wie auch El Calafate einen Charme einer amerikanischen Kleinstadt in den Bergen. Breite Straßen, Holzhütten und eine Menge kleiner, individueller Restaurants und Cafés, die sich gegen Nachmittag mit Wanderern füllten, wie beim Après-Ski nur mit argentinischem Wein statt Jagertee.
 
@@ -158,7 +158,7 @@ Auf dem Rückweg entschieden wir uns noch, den kleinen Wasserfall [Chorillo del 
 
 {{< postimg "IMG_20190202_112021-01.jpeg" >}}
 
-Danach ging es dann [weiter](/post/rtw-nach-feuerland/) in den Südosten in Richtung Atlantikküste.
+Danach ging es dann [weiter]({{< relref "/post/rtw-nach-feuerland" >}}) in den Südosten in Richtung Atlantikküste.
 
 ## Fazit
 
