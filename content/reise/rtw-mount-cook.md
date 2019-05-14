@@ -108,7 +108,7 @@ images:
     featured: false
 ---
 
-Nach der [Wanderung am Vortag]({{< relref "/post/rtw-wanaka-neuseeland" >}}) waren wir zeitlich gut unterwegs, um unseren Weg in Richtung _Mount Cook National Park_ fortzusetzen. Die gesamte Fahrt dahin ließ immer wieder die Neuseeländischen Alpen im Hintergrund erscheinen. Mit Beginn des _Lake Pukaki_ ging es los, dass nicht nur die Gewässer in Blau erstrahlten und aufgrund der Sonne und schneebedeckter Berge im Hintergrund super Fotomotive boten.
+Nach der [Wanderung am Vortag]({{< relref "rtw-wanaka-neuseeland" >}}) waren wir zeitlich gut unterwegs, um unseren Weg in Richtung _Mount Cook National Park_ fortzusetzen. Die gesamte Fahrt dahin ließ immer wieder die Neuseeländischen Alpen im Hintergrund erscheinen. Mit Beginn des _Lake Pukaki_ ging es los, dass nicht nur die Gewässer in Blau erstrahlten und aufgrund der Sonne und schneebedeckter Berge im Hintergrund super Fotomotive boten.
 
 {{< postimg "IMG_20190407_123436.jpg" >}}
 
@@ -134,7 +134,7 @@ Von dem Aussichtspunkt aus hatte man einen schönen Blick über das Tal mit dem 
 
 {{< postimg "IMG_20190408_160154.jpg" >}}
 
-Die _Red Tarns_ selbst waren eigentlich keinen solchen Aufstieg wert. Der Anstieg ging über tausende Stufen nach oben, man fühlte sich an den Aufstieg zum [Machu Picchu Mountain]({{< relref "/post/rtw-machu-picchu" >}}) erinnert.
+Die _Red Tarns_ selbst waren eigentlich keinen solchen Aufstieg wert. Der Anstieg ging über tausende Stufen nach oben, man fühlte sich an den Aufstieg zum [Machu Picchu Mountain]({{< relref "rtw-machu-picchu" >}}) erinnert.
 
 {{< postimg "IMG_20190408_160831.jpg" >}}
 
@@ -150,7 +150,7 @@ Zusätzlich zu unseren Wanderungen in der schönen Landschaft konnten wir auch d
 
 {{< postimg "IMG_20190407_232659.jpg" >}}
 
-Eigentlich heißt es, dass die [Atacama-Wüste]({{< relref "/post/rtw-san-pedro-de-atacama" >}}) genial für Fotos des Sternenhimmels ist. Wir hatten damals aber nicht so viel Glück. Auch kann ich mich nicht erinnern, dass es in Bolivien so intensiv zu sehen war.
+Eigentlich heißt es, dass die [Atacama-Wüste]({{< relref "rtw-san-pedro-de-atacama" >}}) genial für Fotos des Sternenhimmels ist. Wir hatten damals aber nicht so viel Glück. Auch kann ich mich nicht erinnern, dass es in Bolivien so intensiv zu sehen war.
 
 Nach unseren zwei Nächten im _Mount Cook National Park_ ging es nun am letzten Morgen den Highway 80 zurück entlang des _Lake Pukaki_, vorher allerdings machten wir noch einen kleinen Umweg, um kurz vor dem Mount Cook Village noch zum [Tasman Glacier Viewpoint](https://goo.gl/maps/ZzTdFZQdVYC2) zu fahren. Hinter jedem Hügel verbirgt sich hier ein anderer Gletscher. Leider sind diese aber schon stark geschmolzen, was die Fotos aber nicht minder eindrucksvoll macht, da man dadurch erst die großen Lücken sehen kann, die das Eis hinterlassen hat. 
 
@@ -162,4 +162,4 @@ Neben der enormen Lücke und den zurückgebliebenen, steilen Wände der Gletsche
 
 Laut den Informationen am Aussichtspunkt war vor gerade einmal 100 Jahren das Eis noch durchgehend vorhanden und war mindestens über den Kanten der sichtbaren Steilwände. Ebendiese Informationstafel zeigte auch, dass vor knapp 2000 Jahren das Eis bis weit in die Berge hinein reichte. Mit diesem Bild im Hinterkopf hatten Katrin und ich kurz die Diskussion, wodurch das Eis schon in diesen fast 1900 Jahren so stark schmolz, ohne dass der Mensch direkt für den Klimawandel verantwortlich war. Ein Klimawandelleugner könnte dies doch als Anlass nehmen zu behaupten, dass das Eis ja schon so lange schmilzt, also kann der moderne Mensch ja nicht Schuld sein. Leider hatten wir darauf nun keine Antwort. Vielleicht jemand in den Kommentaren?!
 
-Nach diesen beeindruckenden Bildern setzten wir unsere Reise fort, mit dem Nordwesten der Südinsel als Ziel. Dazu [später]({{< relref "/post/rtw-in-den-nordwesten" >}}) mehr.
+Nach diesen beeindruckenden Bildern setzten wir unsere Reise fort, mit dem Nordwesten der Südinsel als Ziel. Dazu [später]({{< relref "rtw-in-den-nordwesten" >}}) mehr.

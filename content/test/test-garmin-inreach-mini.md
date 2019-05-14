@@ -55,7 +55,7 @@ links:
     url: https://www.amazon.de/dp/B0751HV9QT/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=chaosblog-21&linkId=2b1a4b161bb6df56b23f86365c748722&language=de_DE
 ---
 
-Nach meinem Langzeittest mit meiner [Alpina Sonnenbrille]({{< relref "/post/test-alpina-eye-5-tour" >}}) möchte ich nun etwas zu einem weiteren Stück Ausrüstung auf der Weltreise schreiben. Das {{< affiliate inreach >}} ist ein Satellitenkommunikationsgerät, das überall auf der Welt (unter freiem Himmel) Empfang hat und somit auch ohne Mobilfunknetz auskommt.
+Nach meinem Langzeittest mit meiner [Alpina Sonnenbrille]({{< relref "test-alpina-eye-5-tour" >}}) möchte ich nun etwas zu einem weiteren Stück Ausrüstung auf der Weltreise schreiben. Das {{< affiliate inreach >}} ist ein Satellitenkommunikationsgerät, das überall auf der Welt (unter freiem Himmel) Empfang hat und somit auch ohne Mobilfunknetz auskommt.
 
 ## Einsatzzweck
 

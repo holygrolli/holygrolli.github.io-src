@@ -173,7 +173,7 @@ images:
 
 ## Anreise
 
-Wir sind mit Sky Airlines von [San Pedro de Atacama]({{< relref "/post/rtw-san-pedro-de-atacama" >}}) in zwei Stunden zum Hauptstadtflughafen geflogen. Sky Airlines ist keine wirkliche Billigairline, aber trotzdem gab es nicht einmal ein kostenloses Getränk. Am Flughafen von Santiago de Chile befindet sich direkt nach den Gepäckbändern von Sky der Ausgang und dort warten mehrere Taxiunternehmen auf potentielle Kunden. Als Kunde von Sky gab es direkt 10% Rabatt bei TRANSVIP. Somit ging es für knapp 16€ vom Flughafen in 20 Minuten zu unserer Unterkunft im Zentrum Santiagos. Allerdings war der Minivan auch voll belegt. Glücklicherweise waren wir die letzten zwei, die einstiegen und auch als erstes wieder ausstiegen.
+Wir sind mit Sky Airlines von [San Pedro de Atacama]({{< relref "rtw-san-pedro-de-atacama" >}}) in zwei Stunden zum Hauptstadtflughafen geflogen. Sky Airlines ist keine wirkliche Billigairline, aber trotzdem gab es nicht einmal ein kostenloses Getränk. Am Flughafen von Santiago de Chile befindet sich direkt nach den Gepäckbändern von Sky der Ausgang und dort warten mehrere Taxiunternehmen auf potentielle Kunden. Als Kunde von Sky gab es direkt 10% Rabatt bei TRANSVIP. Somit ging es für knapp 16€ vom Flughafen in 20 Minuten zu unserer Unterkunft im Zentrum Santiagos. Allerdings war der Minivan auch voll belegt. Glücklicherweise waren wir die letzten zwei, die einstiegen und auch als erstes wieder ausstiegen.
 
 ## Unterkunft
 
@@ -261,7 +261,7 @@ Auch muss ich unbedingt das leckere Eis der Kette _Bravissimo_ erwähnen. Hier g
 
 ## Sonderausgaben
 
-Als Sonderausgabe muss bzw. darf ich meine neue Sonnenbrille verbuchen. Nach dem [großen Debakel]({{< relref "/post/test-alpina-eye-5-tour" >}}) mit meiner Alpina Sonnenbrille und der Nichterreichbarkeit des Alpina-Supports habe ich mich in Santiago auf die Suche nach einem ordentlichen Ersatz gemacht. Letztendlich wusste ich genau, was ich wollte, schließlich war ich lange Zeit gut mit der Oakley Flak 2.0 XL unterwegs. Von dem günstigsten Angebot am Airport in Calama für knapp 170€ konnte ich mich noch gerade retten. In den Straßen von Santiago war ich bei über 200€ nicht sehr angetan. Letztlich wurde ich bei der Kette _sunglasseshut_ (wie auch am Airport) fündig und man gab mir noch zusätzlich 20% Rabatt. Wahrscheinlich das günstigste Angebot bei so einem Notkauf.
+Als Sonderausgabe muss bzw. darf ich meine neue Sonnenbrille verbuchen. Nach dem [großen Debakel]({{< relref "test-alpina-eye-5-tour" >}}) mit meiner Alpina Sonnenbrille und der Nichterreichbarkeit des Alpina-Supports habe ich mich in Santiago auf die Suche nach einem ordentlichen Ersatz gemacht. Letztendlich wusste ich genau, was ich wollte, schließlich war ich lange Zeit gut mit der Oakley Flak 2.0 XL unterwegs. Von dem günstigsten Angebot am Airport in Calama für knapp 170€ konnte ich mich noch gerade retten. In den Straßen von Santiago war ich bei über 200€ nicht sehr angetan. Letztlich wurde ich bei der Kette _sunglasseshut_ (wie auch am Airport) fündig und man gab mir noch zusätzlich 20% Rabatt. Wahrscheinlich das günstigste Angebot bei so einem Notkauf.
 
 {{< postimg "IMG_20190118_110526.jpg" >}}
 
@@ -269,7 +269,7 @@ Danke Alpina, nie wieder!
 
 ## Bekanntschaften
 
-Seitdem wir vor knapp 2 Wochen auf unserer [Tour]({{< relref "/post/rtw-salar-de-uyuni" >}}) das schweizer Pärchen Erika und Daniel kennengelernt haben kreuzten sich unsere Wege nicht nur in San Pedro de Atacama. Die beiden waren in der Zwischenzeit auf der Osterinsel und wir verabredeten uns nicht nur einmal in Santiago. Beide müssen am 1. Februar wieder in der Schweiz sein und stehen uns aktuell mit Tipps zu Patagonien zur Seite. Eine hoffentlich länger währende Bekanntschaft!
+Seitdem wir vor knapp 2 Wochen auf unserer [Tour]({{< relref "rtw-salar-de-uyuni" >}}) das schweizer Pärchen Erika und Daniel kennengelernt haben kreuzten sich unsere Wege nicht nur in San Pedro de Atacama. Die beiden waren in der Zwischenzeit auf der Osterinsel und wir verabredeten uns nicht nur einmal in Santiago. Beide müssen am 1. Februar wieder in der Schweiz sein und stehen uns aktuell mit Tipps zu Patagonien zur Seite. Eine hoffentlich länger währende Bekanntschaft!
 
 ## Fazit
 

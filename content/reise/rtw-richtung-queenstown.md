@@ -117,7 +117,7 @@ images:
     featured: false
 ---
 
-Es ist immer schwierig das richtige Gleichgewicht zwischen Informationen und Bildern zu finden. Nach unseren Tagen in [Milford Sound]({{< relref "/post/rtw-milford-sound" >}}) haben wir keine großen Unternehmungen durchgeführt und sind eigentlich ungetrieben weitergereist, daher gibt es hier eine Zusammenfassung. Wir wollten natürlich irgendwann in den Norden, was uns bei unserer Rundfahrt nur über _Queenstown_ möglich war. Aufgrund der starken Unwetter vor unserem Besuch von Milford Sound hat es im Westen bei den beliebten Fox Gletscher und Franz Josef Gletscher eine Brücke der einzigen Straße weggespült. Dadurch konnten wir dort nicht mehr in den Norden fahren. Somit war uns die Entscheidung aber leicht gefallen, über die "Mitte", also Queenstown hochzufahren.
+Es ist immer schwierig das richtige Gleichgewicht zwischen Informationen und Bildern zu finden. Nach unseren Tagen in [Milford Sound]({{< relref "rtw-milford-sound" >}}) haben wir keine großen Unternehmungen durchgeführt und sind eigentlich ungetrieben weitergereist, daher gibt es hier eine Zusammenfassung. Wir wollten natürlich irgendwann in den Norden, was uns bei unserer Rundfahrt nur über _Queenstown_ möglich war. Aufgrund der starken Unwetter vor unserem Besuch von Milford Sound hat es im Westen bei den beliebten Fox Gletscher und Franz Josef Gletscher eine Brücke der einzigen Straße weggespült. Dadurch konnten wir dort nicht mehr in den Norden fahren. Somit war uns die Entscheidung aber leicht gefallen, über die "Mitte", also Queenstown hochzufahren.
 
 Auf der Rückfahrt von Milford Sound kamen wir wieder durch Te Anau durch. Hier war kein Freedom Camping möglich, daher hielten wir hier zwei Nächte im [Lakeview Kiwi Holiday Park](https://goo.gl/maps/SvNcBBCpisM2), direkt am _Lake Te Anau_ der mit klarem Wasser (im Sommer) zum Baden einlädt. In Te Anau sündigten wir auch mal wieder, als wir nach einigen Wochen Fleischverzicht uns einen großen Teller _Surf'n'Turf_ im [The Olive Tree Cafe](https://goo.gl/maps/5eiv93BADEn) teilten. Tatsächlich war das Stück Rindfleisch eins der besten, was ich je gegessen habe. Der Preis mit über 40NZD für den einen Teller war aber gepfeffert.
 
@@ -139,7 +139,7 @@ Durch die zwei Nächte konnten wir uns auch entscheiden, was wir als nächstes m
 
 {{< postimg "IMG_20190403_134228.jpg" >}}
 
-Nach dem Umweg über Bluff hätten wir es nicht mehr ins über 200 km entfernte Queenstown geschafft. Daher hielten wir [noch einmal]({{< relref "/post/rtw-milford-sound" >}}) in Lumsden für die Nacht. Queenstown liegt an dem riesigen See _Lake Wakatipu_, an dem sich die Straße bis nach Queenstown entlangschlängelt.
+Nach dem Umweg über Bluff hätten wir es nicht mehr ins über 200 km entfernte Queenstown geschafft. Daher hielten wir [noch einmal]({{< relref "rtw-milford-sound" >}}) in Lumsden für die Nacht. Queenstown liegt an dem riesigen See _Lake Wakatipu_, an dem sich die Straße bis nach Queenstown entlangschlängelt.
 
 {{< postimg "IMG_20190404_121439.jpg" >}}
 
@@ -167,4 +167,4 @@ Aufgrund des Regens in der Nacht und der stark gefallenen Temperaturen kam es da
 
 Der Neuschnee läutete hier in den Bergen tatsächlich weitere frostige Nächte ein. So hatten wir nachts Temperaturen um den Gefrierpunkt. Da waren wir froh, dass wir zusätzlich noch Schlafsäcke dabei hatten, die wir nun einweihen konnten.
 
-Das war die eher fotografische Zusammenfassung von 7 Tagen im Südwesten von Neuseeland. Rückblickend fragt man sich schon, wo die Zeit geblieben ist. Aber wir haben aus dem wechselhaften Wetter das Beste und vor allem uns keinen Stress gemacht. Anstatt von direkt 220 km von Te Anau nach Lowburn sind wir einen kleinen Umweg gefahren, insgesamt knapp 500 km. Das nächste Ziel sollte dann der _Mount Cook National Park_ werden, den wir [danach]({{< relref "/post/rtw-wanaka-neuseeland" >}}) ansteuerten.
+Das war die eher fotografische Zusammenfassung von 7 Tagen im Südwesten von Neuseeland. Rückblickend fragt man sich schon, wo die Zeit geblieben ist. Aber wir haben aus dem wechselhaften Wetter das Beste und vor allem uns keinen Stress gemacht. Anstatt von direkt 220 km von Te Anau nach Lowburn sind wir einen kleinen Umweg gefahren, insgesamt knapp 500 km. Das nächste Ziel sollte dann der _Mount Cook National Park_ werden, den wir [danach]({{< relref "rtw-wanaka-neuseeland" >}}) ansteuerten.

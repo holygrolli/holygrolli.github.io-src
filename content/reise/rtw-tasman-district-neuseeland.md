@@ -126,7 +126,7 @@ images:
 
 ## Anreise von Westport 
 
-Nach dem Strand und den Feierlichkeiten zu meinem Geburtstag in [Westport]({{< relref "/post/rtw-nordwestkueste-neuseeland" >}}) haben wir uns am 165. Tag der Weltreise weiter auf in den Norden gemacht. Es ging entlang kurviger Straßen durch die Berge, wo wir bei tollem Wetter wieder für einige Fotos anhalten konnten.
+Nach dem Strand und den Feierlichkeiten zu meinem Geburtstag in [Westport]({{< relref "rtw-nordwestkueste-neuseeland" >}}) haben wir uns am 165. Tag der Weltreise weiter auf in den Norden gemacht. Es ging entlang kurviger Straßen durch die Berge, wo wir bei tollem Wetter wieder für einige Fotos anhalten konnten.
 
 {{< postimg "IMG_20190413_110636.jpg" >}}
 
@@ -148,7 +148,7 @@ Leider hatten wir nicht so gutes Wetter und hatten bei Regenschauern den nächst
 
 ## Wharariki Beach
 
-Hier sollte man sich auf vom Meer ausgespülte Höhlen und Felsbögen freuen, genauso wie man mit Glück Seelöwen sehen sollte. Das alles geht aber nur bei Ebbe, da nur die Ebbe den stark hügeligen Sandstrand freilegt. Zuerst waren wir doch ein wenig enttäuscht, weil es nur zwei Seelöwen unter einem Felsvorsprung zu sehen gab. Nichts spektakuläres, wenn man schon zum Beispiel auf den [Galapagosinseln]({{< relref "/post/rtw-san-cristobal" >}}) war. Als wir dann aber weiter den Strand erkundeten gab es in mehreren "Ecken" kleine natürliche Becken, mit Meerwasser gefüllte Sandlöcher. In mehreren waren dort Babyseelöwen, die drollig miteinander spielten! Das war tatsächlich etwas besonderes. Wir hatten zwar schone viele süße Momente auf Galapagos, aber noch keine zwei verspielten Babies, die in den Pools sogar wie Flipper aus dem Wasser sprangen.
+Hier sollte man sich auf vom Meer ausgespülte Höhlen und Felsbögen freuen, genauso wie man mit Glück Seelöwen sehen sollte. Das alles geht aber nur bei Ebbe, da nur die Ebbe den stark hügeligen Sandstrand freilegt. Zuerst waren wir doch ein wenig enttäuscht, weil es nur zwei Seelöwen unter einem Felsvorsprung zu sehen gab. Nichts spektakuläres, wenn man schon zum Beispiel auf den [Galapagosinseln]({{< relref "rtw-san-cristobal" >}}) war. Als wir dann aber weiter den Strand erkundeten gab es in mehreren "Ecken" kleine natürliche Becken, mit Meerwasser gefüllte Sandlöcher. In mehreren waren dort Babyseelöwen, die drollig miteinander spielten! Das war tatsächlich etwas besonderes. Wir hatten zwar schone viele süße Momente auf Galapagos, aber noch keine zwei verspielten Babies, die in den Pools sogar wie Flipper aus dem Wasser sprangen.
 
 {{< postimg "IMG_20190416_132533.jpg" >}}
 

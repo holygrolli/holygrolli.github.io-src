@@ -81,9 +81,9 @@ images:
     featured: false
 ---
 
-Knapp zwei Wochen ohne einen Reisebericht. Im Hintergrund habe ich ein paar [technische Änderungen]({{< relref "/post/umstellung-auf-amp" >}}) am Blog gemacht. Insgesamt machte es auch nicht so viel Sinn, nach jedem Zwischenstopp etwas zu schreiben, da wir das alles hier auf der Südinsel etwas entspannter angehen.
+Knapp zwei Wochen ohne einen Reisebericht. Im Hintergrund habe ich ein paar [technische Änderungen]({{< relref "umstellung-auf-amp" >}}) am Blog gemacht. Insgesamt machte es auch nicht so viel Sinn, nach jedem Zwischenstopp etwas zu schreiben, da wir das alles hier auf der Südinsel etwas entspannter angehen.
 
-Nach unserer [Rückfahrt nach Auckland]({{< relref "/post/rtw-ueber-osten-nach-auckland" >}}) ging es am Abend mit dem Flugzeug und Air New Zealand nach Christchurch. Dabei konnten wir einen wunderbaren Sonnenuntergang über den Wolken sehen.
+Nach unserer [Rückfahrt nach Auckland]({{< relref "rtw-ueber-osten-nach-auckland" >}}) ging es am Abend mit dem Flugzeug und Air New Zealand nach Christchurch. Dabei konnten wir einen wunderbaren Sonnenuntergang über den Wolken sehen.
 
 {{< postimg "IMG_20190312_195945.jpg" >}}
 
@@ -127,4 +127,4 @@ An einem Tag war am Strand von Warrington ein Meer von "Glibbereiern"(?). Eine G
 
 {{< postimg "IMG_20190320_174252.jpg" >}}
 
-Die 7 Nächte vergingen wie im Flug, aber es war sehr entspannend. Am nunmehr 145. Tag unserer Weltreise ging es dann weiter in Richtung der Region _Catlins_, die ich [separat]({{< relref "/post/rtw-catlins-neuseeland" >}}) noch beschreiben werde. Der 145. Tag bedeutet auch, dass wir am 21. März 2019 den 143. Tag und somit Halbzeit unserer Weltreise feierten. Die Zeit rennt!
+Die 7 Nächte vergingen wie im Flug, aber es war sehr entspannend. Am nunmehr 145. Tag unserer Weltreise ging es dann weiter in Richtung der Region _Catlins_, die ich [separat]({{< relref "rtw-catlins-neuseeland" >}}) noch beschreiben werde. Der 145. Tag bedeutet auch, dass wir am 21. März 2019 den 143. Tag und somit Halbzeit unserer Weltreise feierten. Die Zeit rennt!

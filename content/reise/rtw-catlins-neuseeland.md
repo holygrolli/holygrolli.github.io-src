@@ -82,7 +82,7 @@ images:
     featured: false
 ---
 
-Von unserem [längeren Aufenthalt]({{< relref "/post/rtw-neuseeland-suedinsel-ostseite" >}}) in der Gegend von _Dunedin_ ging es immer weiter in Richtung der _Catlins_, laut [Wikipedia](https://de.wikipedia.org/wiki/The_Catlins) einer mit 1200 Bewohnern extrem dünn besiedelten Gegend. Dafür soll die Küste atemberaubend sein. Ob die Catlins eine Reise wert sind?
+Von unserem [längeren Aufenthalt]({{< relref "rtw-neuseeland-suedinsel-ostseite" >}}) in der Gegend von _Dunedin_ ging es immer weiter in Richtung der _Catlins_, laut [Wikipedia](https://de.wikipedia.org/wiki/The_Catlins) einer mit 1200 Bewohnern extrem dünn besiedelten Gegend. Dafür soll die Küste atemberaubend sein. Ob die Catlins eine Reise wert sind?
 
 Die erste größere Attraktion auf der Liste für die Catlins ist der [Nugget Point](https://goo.gl/maps/R5Q9uJrZ1qj), wo ein Leuchtturm vor ein paar Felsenbrocken (Nuggets) steht. Der Leuchtturm war jetzt nicht der Rede wert. Das Panorama der Küste war dafür um einiges besser!
 
@@ -130,4 +130,4 @@ Die größte Stadt im Süden ist _Invercargill_, welche leider auch kein Freedom
 
 {{< postimg "IMG_20190326_200040.jpg" >}}
 
-Am nächsten Tag planten wir die Weiterfahrt in Richtung _Milford Sound_. Dazu [später mehr]({{< relref "/post/rtw-milford-sound" >}}). Zusammenfassend muss ich feststellen, dass sich _Curio Bay_ definitiv lohnt. Hier sollte man zwei Tage einplanen, in der Hoffnung, die Hector-Delfine sehen zu können. Wenn man noch mehr Glück hat, kann man sogar von einem Aussichtspunkt Pinguine sehen, das war aber zu unserer Zeit (Ende März) sehr unwahrscheinlich.
+Am nächsten Tag planten wir die Weiterfahrt in Richtung _Milford Sound_. Dazu [später mehr]({{< relref "rtw-milford-sound" >}}). Zusammenfassend muss ich feststellen, dass sich _Curio Bay_ definitiv lohnt. Hier sollte man zwei Tage einplanen, in der Hoffnung, die Hector-Delfine sehen zu können. Wenn man noch mehr Glück hat, kann man sogar von einem Aussichtspunkt Pinguine sehen, das war aber zu unserer Zeit (Ende März) sehr unwahrscheinlich.

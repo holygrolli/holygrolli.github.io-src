@@ -102,7 +102,7 @@ images:
     featured: false
 ---
 
-Mit den Tagen im [Tasman District]({{< relref "/post/rtw-tasman-district-neuseeland" >}}) waren schon 5 Wochen unseres Roadtrips vorbei. Glücklicherweise war der Camper noch länger verfügbar, somit hatten wir noch ein paar Tage mehr, um zurück nach Christchurch zu kommen. Es ging weiter entlang der _Tasman Bay_ bis sich die Straße wieder durch die herbstlichen Berge windete und man in _Havelock_ entweder die enge Küstenstraße nach Picton fahren oder man den schnelleren Highway nehmen kann. Natürlich haben wir uns für die Küstenstraße entschieden. Hier gab es kurz hinter _Havelock_ einen [Aussichtspunkt](https://goo.gl/maps/6dt2q9isYg5bMe5a9) über das nördlichste Fjörd der Südinsel: _Mahau Sound_. 
+Mit den Tagen im [Tasman District]({{< relref "rtw-tasman-district-neuseeland" >}}) waren schon 5 Wochen unseres Roadtrips vorbei. Glücklicherweise war der Camper noch länger verfügbar, somit hatten wir noch ein paar Tage mehr, um zurück nach Christchurch zu kommen. Es ging weiter entlang der _Tasman Bay_ bis sich die Straße wieder durch die herbstlichen Berge windete und man in _Havelock_ entweder die enge Küstenstraße nach Picton fahren oder man den schnelleren Highway nehmen kann. Natürlich haben wir uns für die Küstenstraße entschieden. Hier gab es kurz hinter _Havelock_ einen [Aussichtspunkt](https://goo.gl/maps/6dt2q9isYg5bMe5a9) über das nördlichste Fjörd der Südinsel: _Mahau Sound_. 
 
 {{< postimg "IMG_20190418_115852.jpg" >}}
 
@@ -136,7 +136,7 @@ Da wir noch weiter weg von Christchurch waren mussten wir an unserem letzten Mor
 
 {{< postimg "IMG_20190420_062128.jpg" >}}
 
-Die vierstündige Fahrt nach Süden zog sich ein wenig, wurde aber wieder durch sehr abwechslungsreiche Landschaft versüßt. Das besondere Highlight waren aber Unmengen Delfine in der Bucht vor _Peketa_. Wir waren in den [Catlins]({{< relref "/post/rtw-catlins-neuseeland" >}}) schon sehr entzückt, aber das hier war sehr unerwartet. Wir sahen auf dem Meer vom Auto aus viele kleine Gruppen Delfine, die hier munter durch das Wasser sprangen, so wie man es aus Tierdokus kennt. Leider aber war das auf die Entfernung nicht gut genug mit meinem Telefon zu erkennen. So muss die Erinnerung daran reichen.
+Die vierstündige Fahrt nach Süden zog sich ein wenig, wurde aber wieder durch sehr abwechslungsreiche Landschaft versüßt. Das besondere Highlight waren aber Unmengen Delfine in der Bucht vor _Peketa_. Wir waren in den [Catlins]({{< relref "rtw-catlins-neuseeland" >}}) schon sehr entzückt, aber das hier war sehr unerwartet. Wir sahen auf dem Meer vom Auto aus viele kleine Gruppen Delfine, die hier munter durch das Wasser sprangen, so wie man es aus Tierdokus kennt. Leider aber war das auf die Entfernung nicht gut genug mit meinem Telefon zu erkennen. So muss die Erinnerung daran reichen.
 
 {{< postimg "IMG_20190420_081300.jpg" >}}
 

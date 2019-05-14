@@ -74,7 +74,7 @@ images:
     featured: false
 ---
 
-Nach der [Rückgabe unseres Campervans]({{< relref "/post/rtw-marlborough-canterbury" >}}) ließen wir uns direkt wieder im [Jucy Snooze Hotel](https://goo.gl/maps/mAfTgdPK7At) absetzen, wo wir schon bei unserer [Ankunft]({{< relref "/post/rtw-neuseeland-suedinsel-ostseite" >}}) übernachteten. Nach dem eher anstrengenden Morgen entspannten wir so gut es ging im Hotelzimmer und hatten im Supermarkt nebenan noch ein paar Kleinigkeiten zu essen geholt. Da das Jucy tatsächlich wirklich gutes, kostenloses WLAN hat, konnten wir dann auch mit etwas Verspätung die 8. Staffel _Game of Thrones_ einleiten, was dank Amazon's Streamingmöglichkeiten problemlos auch aus Neuseeland ging.
+Nach der [Rückgabe unseres Campervans]({{< relref "rtw-marlborough-canterbury" >}}) ließen wir uns direkt wieder im [Jucy Snooze Hotel](https://goo.gl/maps/mAfTgdPK7At) absetzen, wo wir schon bei unserer [Ankunft]({{< relref "rtw-neuseeland-suedinsel-ostseite" >}}) übernachteten. Nach dem eher anstrengenden Morgen entspannten wir so gut es ging im Hotelzimmer und hatten im Supermarkt nebenan noch ein paar Kleinigkeiten zu essen geholt. Da das Jucy tatsächlich wirklich gutes, kostenloses WLAN hat, konnten wir dann auch mit etwas Verspätung die 8. Staffel _Game of Thrones_ einleiten, was dank Amazon's Streamingmöglichkeiten problemlos auch aus Neuseeland ging.
 
 {{< postimg "IMG_20190420_183032.jpg" >}}
 
