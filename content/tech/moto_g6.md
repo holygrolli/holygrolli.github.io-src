@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/moto_g6/
+type: post
 categories:
 - tech
 comments: true

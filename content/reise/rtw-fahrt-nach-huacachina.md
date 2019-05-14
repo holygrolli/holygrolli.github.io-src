@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-fahrt-nach-huacachina/
+type: post
 categories:
 - vonoben
 - reise

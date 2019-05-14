@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/automatische-docker-mounts-win/
+type: post
 categories:
 - tech
 comments: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-san-pedro-de-atacama/
+type: post
 categories:
 - reise
 comments: true

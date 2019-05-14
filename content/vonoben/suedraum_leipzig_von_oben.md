@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/suedraum_leipzig_von_oben/
+type: post
 categories:
 - vonoben
 comments: true

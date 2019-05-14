@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/test-alpina-eye-5-tour/
+type: post
 categories:
 - allgemein
 comments: true

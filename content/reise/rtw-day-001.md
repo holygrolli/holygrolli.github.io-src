@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-day-001/
+type: post
 categories:
 - reise
 comments: true

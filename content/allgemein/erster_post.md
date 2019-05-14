@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/erster_post/
+type: post
 categories:
 - allgemein
 date: "2017-01-17T20:59:17+01:00"

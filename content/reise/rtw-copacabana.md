@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-copacabana/
+type: post
 categories:
 - reise
 comments: true

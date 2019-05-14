@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-machu-picchu/
+type: post
 categories:
 - reise
 comments: true

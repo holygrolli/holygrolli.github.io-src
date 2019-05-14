@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-iguazu/
+type: post
 categories:
 - reise
 comments: true

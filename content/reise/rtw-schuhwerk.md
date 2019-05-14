@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-schuhwerk/
+type: post
 categories:
 - reise
 comments: true

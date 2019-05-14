@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/moto_g6_und_glase/
+type: post
 categories:
 - tech
 comments: true

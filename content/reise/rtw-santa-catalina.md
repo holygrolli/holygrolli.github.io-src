@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-santa-catalina/
+type: post
 categories:
 - vonoben
 - reise

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-valparaiso/
+type: post
 categories:
 - reise
 comments: true

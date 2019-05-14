@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-santiago-de-chile/
+type: post
 categories:
 - reise
 comments: true

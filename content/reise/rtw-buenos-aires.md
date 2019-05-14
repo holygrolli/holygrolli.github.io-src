@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-buenos-aires/
+type: post
 categories:
 - reise
 comments: true

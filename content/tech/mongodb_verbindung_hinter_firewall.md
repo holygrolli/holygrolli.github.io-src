@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/mongodb_verbindung_hinter_firewall/
+type: post
 categories:
 - tech
 comments: true

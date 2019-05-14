@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-san-cristobal/
+type: post
 categories:
 - reise
 comments: true

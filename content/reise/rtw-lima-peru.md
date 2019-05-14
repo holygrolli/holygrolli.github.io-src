@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-lima-peru/
+type: post
 categories:
 - reise
 comments: true

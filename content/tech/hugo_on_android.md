@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/hugo_on_android/
+type: post
 categories:
 - tech
 comments: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-auf-nach-galapagos/
+type: post
 categories:
 - reise
 comments: true

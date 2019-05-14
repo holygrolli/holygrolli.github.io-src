@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-cusco-tour-4/
+type: post
 categories:
 - reise
 comments: true

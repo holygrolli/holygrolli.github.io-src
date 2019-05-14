@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-richtung-warrnambool/
+type: post
 categories:
 - reise
 comments: true

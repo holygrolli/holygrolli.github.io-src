@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-fahrt-nach-arequipa/
+type: post
 categories:
 - reise
 comments: true

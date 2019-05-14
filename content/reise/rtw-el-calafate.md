@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-el-calafate/
+type: post
 categories:
 - reise
 comments: true

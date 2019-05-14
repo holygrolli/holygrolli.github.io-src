@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/website_url_test/
+type: post
 categories:
 - tech
 comments: true

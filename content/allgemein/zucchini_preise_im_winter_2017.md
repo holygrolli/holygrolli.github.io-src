@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/zucchini_preise_im_winter_2017/
+type: post
 categories:
 - allgemein
 comments: true

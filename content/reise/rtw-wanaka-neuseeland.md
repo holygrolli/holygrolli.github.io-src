@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-wanaka-neuseeland/
+type: post
 categories:
 - reise
 comments: true

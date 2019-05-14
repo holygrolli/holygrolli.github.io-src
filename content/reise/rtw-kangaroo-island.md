@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-kangaroo-island/
+type: post
 categories:
 - reise
 comments: true

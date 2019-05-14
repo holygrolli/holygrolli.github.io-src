@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-panama-city/
+type: post
 categories:
 - reise
 comments: true

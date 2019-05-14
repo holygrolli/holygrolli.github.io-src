@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-ueber-osten-nach-auckland/
+type: post
 categories:
 - reise
 comments: true

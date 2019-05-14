@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-in-den-nordwesten/
+type: post
 categories:
 - reise
 comments: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-salar-de-uyuni/
+type: post
 categories:
 - reise
 comments: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-puno-tour/
+type: post
 categories:
 - reise
 comments: true

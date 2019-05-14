@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-uyuni-san-pedro/
+type: post
 categories:
 - reise
 comments: true

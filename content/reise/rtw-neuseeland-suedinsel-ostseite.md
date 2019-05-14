@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-neuseeland-suedinsel-ostseite/
+type: post
 categories:
 - reise
 comments: true

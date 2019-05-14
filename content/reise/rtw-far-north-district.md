@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-far-north-district/
+type: post
 categories:
 - reise
 comments: true

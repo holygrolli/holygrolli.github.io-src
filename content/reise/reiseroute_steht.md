@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/reiseroute_steht/
+type: post
 categories:
 - reise
 comments: true

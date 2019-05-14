@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-santacruz-tours/
+type: post
 categories:
 - reise
 comments: true

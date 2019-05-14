@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/google-cloud-run-ausprobiert/
+type: post
 categories:
 - tech
 comments: true

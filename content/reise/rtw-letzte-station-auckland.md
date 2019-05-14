@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-letzte-station-auckland/
+type: post
 categories:
 - reise
 comments: true

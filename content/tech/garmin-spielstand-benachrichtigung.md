@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/garmin-spielstand-benachrichtigung/
+type: post
 categories:
 - tech
 comments: true

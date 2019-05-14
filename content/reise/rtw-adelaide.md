@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-adelaide/
+type: post
 categories:
 - reise
 comments: true

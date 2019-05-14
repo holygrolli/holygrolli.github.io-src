@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-nordwestkueste-neuseeland/
+type: post
 categories:
 - reise
 comments: true

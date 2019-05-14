@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-thames-coromandel/
+type: post
 categories:
 - reise
 comments: true

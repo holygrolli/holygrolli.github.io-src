@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/la-paz/
+type: post
 categories:
 - reise
 comments: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-richtung-queenstown/
+type: post
 categories:
 - reise
 comments: true

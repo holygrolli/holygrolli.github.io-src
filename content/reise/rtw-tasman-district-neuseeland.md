@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-tasman-district-neuseeland/
+type: post
 categories:
 - reise
 comments: true

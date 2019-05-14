@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-westkueste-nordinsel-nz/
+type: post
 categories:
 - reise
 comments: true

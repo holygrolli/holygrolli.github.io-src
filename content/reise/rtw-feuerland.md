@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-feuerland/
+type: post
 categories:
 - reise
 comments: true

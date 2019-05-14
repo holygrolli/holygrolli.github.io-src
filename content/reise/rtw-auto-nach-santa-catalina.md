@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-auto-nach-santa-catalina/
+type: post
 categories:
 - reise
 comments: true

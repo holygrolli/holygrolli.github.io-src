@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-catlins-neuseeland/
+type: post
 categories:
 - reise
 comments: true

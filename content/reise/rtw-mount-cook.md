@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-mount-cook/
+type: post
 categories:
 - reise
 comments: true

@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-el-chalten/
+type: post
 categories:
 - reise
 comments: true

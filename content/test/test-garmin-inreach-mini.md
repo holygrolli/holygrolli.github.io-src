@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/test-garmin-inreach-mini/
+type: post
 categories:
 - tech
 comments: true

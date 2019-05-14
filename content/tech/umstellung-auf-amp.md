@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/umstellung-auf-amp/
+type: post
 categories:
 - tech
 comments: true

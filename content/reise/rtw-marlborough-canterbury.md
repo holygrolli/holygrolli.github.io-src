@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-marlborough-canterbury/
+type: post
 categories:
 - reise
 comments: true

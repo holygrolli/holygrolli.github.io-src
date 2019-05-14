@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/markdown_cheatsheet/
+type: post
 categories:
 - allgemein
 date: "2017-01-12T20:59:17+01:00"

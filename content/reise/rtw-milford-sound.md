@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-milford-sound/
+type: post
 categories:
 - reise
 comments: true

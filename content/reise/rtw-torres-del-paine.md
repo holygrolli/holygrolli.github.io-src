@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/rtw-torres-del-paine/
+type: post
 categories:
 - reise
 comments: true

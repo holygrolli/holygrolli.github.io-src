@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/sie_ist_da_mavic/
+type: post
 categories:
 - vonoben
 comments: true

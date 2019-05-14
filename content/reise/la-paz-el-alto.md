@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/la-paz-el-alto/
+type: post
 categories:
 - reise
 comments: true

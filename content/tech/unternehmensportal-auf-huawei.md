@@ -1,4 +1,7 @@
 ---
+aliases:
+- /post/unternehmensportal-auf-huawei/
+type: post
 categories:
 - tech
 comments: true
