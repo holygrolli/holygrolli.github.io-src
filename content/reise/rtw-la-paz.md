@@ -91,7 +91,7 @@ images:
 
 ## Hexenmarkt
 
-Nach dem Besuch des (angeblich) [größten Markts der Welt]({{< relref "la-paz-el-alto" >}}) könnte man meinen, das war schon alles, was La Paz zu bieten hat. Dem ist aber nicht so! In La Paz befindet sich auch der berühmte [Hexenmarkt](https://goo.gl/maps/uT36qgC4VCS2). Unser Hotel war um die Ecke und wir konnten uns direkt in das Getümmel stürzen. Da der Hexenmarkt jeden Tag ist und nur aus ein paar wenigen Straßenständen, dafür umso mehr regulären Geschäften besteht, ist hier die Hektik und das Treiben nicht so ausgeprägt, wie auf dem Sonntagsmarkt. Dafür sind die Angebote der Händlerinnen umso kurioser. Hier werden getrocknete Babyalpakas komplett mit Fell genauso wie gehäutet verkauft. Dazu gibt es noch verschiedene Mischungen, die auf einer kleinen Feuerschale verbrannt werden konnten, wahrscheinlich um böse Geister zu vertreiben.
+Nach dem Besuch des (angeblich) [größten Markts der Welt]({{< relref "rtw-la-paz-el-alto" >}}) könnte man meinen, das war schon alles, was La Paz zu bieten hat. Dem ist aber nicht so! In La Paz befindet sich auch der berühmte [Hexenmarkt](https://goo.gl/maps/uT36qgC4VCS2). Unser Hotel war um die Ecke und wir konnten uns direkt in das Getümmel stürzen. Da der Hexenmarkt jeden Tag ist und nur aus ein paar wenigen Straßenständen, dafür umso mehr regulären Geschäften besteht, ist hier die Hektik und das Treiben nicht so ausgeprägt, wie auf dem Sonntagsmarkt. Dafür sind die Angebote der Händlerinnen umso kurioser. Hier werden getrocknete Babyalpakas komplett mit Fell genauso wie gehäutet verkauft. Dazu gibt es noch verschiedene Mischungen, die auf einer kleinen Feuerschale verbrannt werden konnten, wahrscheinlich um böse Geister zu vertreiben.
 
 {{< postimg "IMG_20181231_110052.jpg" >}}
 

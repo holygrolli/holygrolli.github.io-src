@@ -261,7 +261,7 @@ Auch muss ich unbedingt das leckere Eis der Kette _Bravissimo_ erwähnen. Hier g
 
 ## Sonderausgaben
 
-Als Sonderausgabe muss bzw. darf ich meine neue Sonnenbrille verbuchen. Nach dem [großen Debakel]({{< relref "test-alpina-eye-5-tour" >}}) mit meiner Alpina Sonnenbrille und der Nichterreichbarkeit des Alpina-Supports habe ich mich in Santiago auf die Suche nach einem ordentlichen Ersatz gemacht. Letztendlich wusste ich genau, was ich wollte, schließlich war ich lange Zeit gut mit der Oakley Flak 2.0 XL unterwegs. Von dem günstigsten Angebot am Airport in Calama für knapp 170€ konnte ich mich noch gerade retten. In den Straßen von Santiago war ich bei über 200€ nicht sehr angetan. Letztlich wurde ich bei der Kette _sunglasseshut_ (wie auch am Airport) fündig und man gab mir noch zusätzlich 20% Rabatt. Wahrscheinlich das günstigste Angebot bei so einem Notkauf.
+Als Sonderausgabe muss bzw. darf ich meine neue Sonnenbrille verbuchen. Nach dem [großen Debakel]({{< relref "alpina-eye-5-tour" >}}) mit meiner Alpina Sonnenbrille und der Nichterreichbarkeit des Alpina-Supports habe ich mich in Santiago auf die Suche nach einem ordentlichen Ersatz gemacht. Letztendlich wusste ich genau, was ich wollte, schließlich war ich lange Zeit gut mit der Oakley Flak 2.0 XL unterwegs. Von dem günstigsten Angebot am Airport in Calama für knapp 170€ konnte ich mich noch gerade retten. In den Straßen von Santiago war ich bei über 200€ nicht sehr angetan. Letztlich wurde ich bei der Kette _sunglasseshut_ (wie auch am Airport) fündig und man gab mir noch zusätzlich 20% Rabatt. Wahrscheinlich das günstigste Angebot bei so einem Notkauf.
 
 {{< postimg "IMG_20190118_110526.jpg" >}}
 
