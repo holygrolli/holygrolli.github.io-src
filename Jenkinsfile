@@ -4,10 +4,12 @@ pipeline {
         buildDiscarder(logRotator(numToKeepStr: '30', artifactNumToKeepStr: '15'))
     }
     parameters {
-        string(name: 'COMMITID', defaultValue: '')
+        string(name: 'COMMITID', defaultValue: '', description: 'commit id of sources to use')
+        booleanParam(name: 'PING', defaultValue: true, description: 'ping google?')
     }
     environment {          
         def BRANCHSPEC = "${params.COMMITID}"
+        def PING = "${params.PING}"
     }
     stages {
         stage ('Init') {
@@ -63,10 +65,22 @@ pipeline {
                             git add . && \
                             git commit -m 'new content from source ${SRCCOMMIT}' && \
                             git push origin master || echo was there a problem
-                            curl 'http://www.google.com/webmasters/sitemaps/ping?sitemap=https://blog.networkchallenge.de/sitemap.xml'
                             """
                     }
                 }
+            }
+        }
+        stage ('Ping Google') {
+            when {
+                allOf {
+                    expression { BRANCH_NAME == 'master' }
+                    expression { PING == true}
+                }
+            }
+            steps {
+                sh """
+                        curl 'http://www.google.com/webmasters/sitemaps/ping?sitemap=https://blog.networkchallenge.de/sitemap.xml'
+                    """
             }
         }
         stage ('Deploy Staging') {
