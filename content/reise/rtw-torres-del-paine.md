@@ -14,7 +14,7 @@ tags:
 - patagonien
 - chile
 title: Torres del Paine, Patagonien
-update: "2019-05-17T20:47:00+10:00"
+lastmod: "2019-05-18T09:34:00+10:00"
 images:
   - src: IMG_20190125_184750.jpg
     width: 3968
