@@ -77,7 +77,7 @@ pipeline {
             when {
                 allOf {
                     expression { BRANCH_NAME == 'master' }
-                    expression { PING == true}
+                    expression { params.PING == true}
                 }
             }
             steps {
@@ -129,7 +129,7 @@ pipeline {
                 sh """
                         sleep 30
                         STATUS=\$(curl -s -o /dev/null -w '%{http_code}' ${LINK})
-                        if [ $STATUS -eq 200 ]; then
+                        if [ \$STATUS -eq 200 ]; then
                             exit 0
                         else
                             exit 1
