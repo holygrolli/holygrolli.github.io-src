@@ -118,6 +118,7 @@ pipeline {
         stage ('OneSignal') {
             when {
                 allOf {
+                    expression { BRANCH_NAME == 'master' }
                     expression { SIGNAL_TITLE }
                 }
             }
@@ -126,10 +127,11 @@ pipeline {
                 TITLE = "${params.SIGNAL_TITLE}"
                 LINK = "${params.URL}"
                 TOKEN = "${env.SIGNAL_BLOG_TOKEN}"
-                APPID = "97296004-33bd-4b2f-b0b9-b1138507f091"
+                APPID = "4373a84e-c094-48e0-9e5e-58d81c8fc1b9"
             }
             steps {
                 sh """
+                        sleep 30
                         cat <<EOF > opensignal
                         {"app_id": "${APPID}",
                             "contents": {"en": "${CONTENT}"},
