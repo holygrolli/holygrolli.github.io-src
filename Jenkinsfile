@@ -115,6 +115,28 @@ pipeline {
                 }
             }
         }
+        stage ('Published ?') {
+            when {
+                allOf {
+                    expression { BRANCH_NAME == 'master' }
+                    expression { params.URL }
+                }
+            }
+            environment {
+                LINK = "${params.URL}"
+            }
+            steps {
+                sh """
+                        sleep 30
+                        STATUS=$(curl -s -o /dev/null -w '%{http_code}' ${LINK})
+                        if [ $STATUS -eq 200 ]; then
+                            exit 0
+                        else
+                            exit 1
+                        fi
+                """
+            }
+        }
         stage ('OneSignal') {
             when {
                 allOf {
@@ -131,7 +153,6 @@ pipeline {
             }
             steps {
                 sh """
-                        sleep 30
                         cat <<EOF > opensignal
                         {"app_id": "${APPID}",
                             "contents": {"en": "${CONTENT}"},
