@@ -6,6 +6,9 @@ pipeline {
     parameters {
         string(name: 'COMMITID', defaultValue: '', description: 'commit id of sources to use')
         booleanParam(name: 'PING', defaultValue: true, description: 'ping google?')
+        string(name: 'SIGNAL_TITLE', defaultValue: '', description: 'Title for OneSignal notification')
+        string(name: 'SIGNAL_CONTENT', defaultValue: '', description: 'Content for OneSignal notification')
+        string(name: 'URL', defaultValue: '', description: 'URL for OneSignal')
     }
     environment {          
         def BRANCHSPEC = "${params.COMMITID}"
@@ -110,6 +113,32 @@ pipeline {
                     sh '''rm -rf /mnt/target/* | echo "nothing to delete"
                     cp -R . /mnt/target'''
                 }
+            }
+        }
+        stage ('OneSignal') {
+            when {
+                allOf {
+                    expression { SIGNAL_TITLE }
+                }
+            }
+            environment {
+                CONTENT = "${params.SIGNAL_CONTENT}"
+                TITLE = "${params.SIGNAL_TITLE}"
+                LINK = "${params.URL}"
+                TOKEN = "${env.SIGNAL_BLOG_TOKEN}"
+                APPID = "97296004-33bd-4b2f-b0b9-b1138507f091"
+            }
+            steps {
+                sh """
+                        cat <<EOF > opensignal
+                        {"app_id": "${APPID}",
+                            "contents": {"en": "${CONTENT}"},
+                            "headings": {"en": "${TITLE}"},
+                            "url": "${LINK}",
+                            "included_segments": ["Subscribed Users"]}
+                        EOF
+                        curl --include --request POST --header "Content-Type: application/json; charset=utf-8" --header "Authorization: Basic ${TOKEN}" --data-binary @opensignal https://onesignal.com/api/v1/notifications
+                    """.stripIndent()
             }
         }
     }
