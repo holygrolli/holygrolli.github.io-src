@@ -128,7 +128,7 @@ pipeline {
             steps {
                 sh """
                         sleep 30
-                        STATUS=$(curl -s -o /dev/null -w '%{http_code}' ${LINK})
+                        STATUS=\$(curl -s -o /dev/null -w '%{http_code}' ${LINK})
                         if [ $STATUS -eq 200 ]; then
                             exit 0
                         else
