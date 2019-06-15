@@ -99,7 +99,7 @@ images:
     height: 1434
     title: 350 km nach Norden
     orientation: l
-    type: postimg
+    type: screenshot
     featured: false
 ---
 
