@@ -8,7 +8,7 @@ date: "2017-01-12T20:59:17+01:00"
 description: Ein Markdown Spickzettel oder "Wie verfasse ich eine Seite"?
 draft: false
 tags:
-- metalsmith
+- hugo
 title: Markdown Cheatsheet
 ---
 
