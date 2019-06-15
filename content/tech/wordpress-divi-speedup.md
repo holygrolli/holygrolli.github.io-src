@@ -5,7 +5,7 @@ categories:
 - tech
 - vonoben
 comments: true
-date: "2019-06-15T00:31:19+10:00"
+date: "2019-06-16T00:31:19+10:00"
 description: Erste Schritte zur Verbesserung der Ladezeiten von Wordpress mit dem Divi Theme. Meine Lösung aus der Misere.
 draft: false
 tags:
