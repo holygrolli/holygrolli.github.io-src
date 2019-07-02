@@ -236,6 +236,6 @@ Am Ende des Tages gab es noch einen schönen Sonnenuntergang vor dem Campingplat
 
 {{< postimg "y2019/IMG_20190617_164904-01.jpeg" >}}
 
-Am 232. Tag der Weltreise verließen wir nun _Byron Bay_, um weiter nach Norden zu fahren, schließlich lag noch eine Menge vor uns und unsere Zeit in Australien neigte sich dem Ende entgegen. Dazu schreibe ich zeitnah mehr. Insgesamt haben wir von Sydney in 10 Tagen etwa 1000 Kilometer zurückgelegt.
+Am 232. Tag der Weltreise verließen wir nun _Byron Bay_, um [weiter nach Norden]({{< relref "rtw-rainbow-beach-fraser-island" >}}) zu fahren, schließlich lag noch eine Menge vor uns und unsere Zeit in Australien neigte sich dem Ende entgegen. Dazu schreibe ich zeitnah mehr. Insgesamt haben wir von Sydney in 10 Tagen etwa 1000 Kilometer zurückgelegt.
 
 {{< screenshot "y2019/sydney-byronbay.png" >}}
