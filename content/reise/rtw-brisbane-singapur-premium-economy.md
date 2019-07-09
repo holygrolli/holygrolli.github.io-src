@@ -36,4 +36,4 @@ Das Frühstück war leider auch nicht wirklich besser. Mangels ordentlicher Alte
 
 Genug mit den Luxusproblemen! Es ist und bleibt ärgerlich und mich würde interessieren, wie es in der Economy Class ausgesehen hat. Wenn man aber bedenkt, dass der Premium Economy Flug einzeln etwa 1200€ gekostet hätte, dann ist das schon peinlich für Singapore Airlines!
 
-Die positiven Erlebnisse in Singapur habe ich in einem eigenen Beitrag untergebracht.
+Die positiven Erlebnisse in Singapur habe ich in einem [eigenen Beitrag]({{< relref "rtw-singapur" >}}) untergebracht.
