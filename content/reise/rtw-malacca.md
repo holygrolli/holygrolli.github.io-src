@@ -2,7 +2,7 @@
 categories:
 - reise
 comments: true
-date: "2019-07-11T05:02:32+08:00"
+date: "2019-07-11T22:42:32+08:00"
 description: Besuch der Stadt Malacca, einem UNESCO Weltkulturerbe
 draft: false
 tags:
