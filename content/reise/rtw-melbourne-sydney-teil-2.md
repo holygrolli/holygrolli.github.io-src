@@ -13,6 +13,7 @@ tags:
 - drohne
 - mavic
 - sunset
+- australien
 title: Von Melbourne nach Sydney - Teil 2
 type: post
 images:

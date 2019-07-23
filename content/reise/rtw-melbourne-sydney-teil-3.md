@@ -13,6 +13,7 @@ tags:
 - melbourne
 - sydney
 - new south wales
+- australien
 title: Von Melbourne nach Sydney - Teil 3
 type: post
 images:

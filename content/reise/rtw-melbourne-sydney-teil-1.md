@@ -11,6 +11,7 @@ tags:
 - sydney
 - victoria
 - new south wales
+- australien
 title: Von Melbourne nach Sydney - Teil 1
 type: post
 images:
