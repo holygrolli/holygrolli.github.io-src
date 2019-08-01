@@ -4,12 +4,13 @@ categories:
 comments: true
 date: "2019-08-01T16:00:00+08:00"
 description: Aufbau einer DevOps-Pipeline für eine Multiservice-Anwendung in Kubernetes 
-draft: true
+draft: false
 tags:
 - devops
 - docker
 - gcp
 - k8s
+- quarkus
 title: Einstieg in Canary Deployments
 type: post
 images:
