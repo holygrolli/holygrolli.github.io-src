@@ -4,7 +4,7 @@ categories:
 comments: true
 date: "2019-08-02T22:30:04+08:00"
 description: Sieben Nächte auf der größten der drei Inseln im Südosten vor Bali
-draft: true
+draft: false
 tags:
 - rtw
 - indonesien
