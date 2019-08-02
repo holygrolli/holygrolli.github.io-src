@@ -3,7 +3,7 @@ categories:
 - tech
 comments: true
 date: "2019-05-28T18:33:45+10:00"
-lastmod: "2019-05-30T21:25:08+10:00"
+lastmod: "2019-08-02T23:05:08+10:00"
 description: Still und heimlich wurden die Zahlungsmöglichkeiten für Garmin Pay erweitert
 draft: false
 tags:
@@ -67,3 +67,7 @@ Am Ende verifiziert man noch seine Kreditkarte per SMS-Code von {{< affiliate re
 Einfacher kann Bezahlen nicht sein! Somit kann ich in Zukunft zum Beispiel beim Joggen auch ohne Telefon kurz noch etwas etwas einkaufen, meine {{< affiliate vivo3 >}} habe ich schließlich immer dabei! Weiterhin bestätigt mich das erneut in meiner damaligen Feststellung, dass Garmin einfach die aktuell besten Smartwatches für Sportler produziert. Ich muss mit meiner Uhr nicht reden können. Sie muss mir Benachrichtigungen anzeigen, sportliche Aktivitäten tracken und vor allem eine lange Akkulaufzeit haben. All das kann ich aus Erfahrung nur bestätigen.
 
 Meine Erfahrungen zu {{< affiliate revolut >}} findet ihr übrigens in [diesem Beitrag]({{< relref "revolut-kreditkarte" >}}).
+
+**Update vom 02.08.19** Wie im Kommentarbereich angemerkt wurde, ist _Revolut_ aktuell nicht mehr auswählbar, dafür ist die _Commerzbank_ dazu gekommen. Ich habe die Pressestelle von _Garmin_ angeschrieben und die Antwort erhalten, dass man daran arbeitet, "Garmin Pay mit Hilfe verschiedener Partner möglichst breit aufzustellen und einem großen Nutzerkreis anbieten zu können. Zu diesen Partnern gehört auch Revolut."
+
+Sobald es dazu etwas Neues gibt, werde ich etwas schreiben.
