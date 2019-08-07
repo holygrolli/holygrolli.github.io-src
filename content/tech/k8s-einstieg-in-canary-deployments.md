@@ -11,6 +11,7 @@ tags:
 - gcp
 - k8s
 - quarkus
+- tutorial
 title: Einstieg in Canary Deployments
 type: post
 images:
