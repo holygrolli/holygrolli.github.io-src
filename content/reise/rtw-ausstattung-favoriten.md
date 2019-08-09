@@ -70,6 +70,12 @@ images:
     orientation: l
     type: postimg
     featured: true
+  - src: IMG_20181113_093208.jpg
+    width: 2976
+    height: 3968
+    title: Ortlieb Duffle RS im Einsatz auf den Galapagosinseln
+    orientation: p
+    type: postimg
 ---
 
 Zum Zeitpunkt des Schreibens dieses Beitrags sind mehr als neun Monate auf Weltreise vergangen. Was die Ausstattung und das Gepäck für die Reise betrifft ist die Haupterkenntnis, dass ich definitiv zuviel mitgenommen habe. Mit dem ersten Tag hat meine Tasche knapp unter 24 Kilogramm gewogen und das ist leider nicht wirklich weniger geworden bei allen Check-Ins an den Flughäfen. Dazu kommen noch einmal knapp 10 Kilogramm Handgepäck. Einfach viel zu viel! Aber es gibt definitiv ein paar Sachen, die haben sich als guter Kauf herausgestellt, egal, ob dieser extra nur für die Weltreise getätigt wurde oder schon eher. Das sind meine Favoriten, die ich jedem ruhigen Gewissens empfehlen kann:
@@ -99,6 +105,12 @@ Mit dem Kauf des MacBooks hatte ich mich gleich nach einem alternativen Ladeger�
 Seit vielen Jahren haben wir auf unseren Reisen nun schon mindestens einen {{< affiliate pacsafe >}} dabei. Dieser flexible Stahlnetzbeutel lässt sich mit einem Schloss und Stahlseil überall festmachen, was nicht so einfach weggetragen werden kann. Das ist sehr praktisch, wenn man keinen Safe im Zimmer hat. Die Travelsafes gibt es in verschiedenen Größen, wir haben einen mit 5 und einen mit 12 Litern Volumen. Letzterer schluckt problemlos Notebook und andere Dinge gleichzeitig.
 
 {{< postimg "y2019/IMG_20190808_150357.jpg" >}}
+
+## Ortlieb Duffle RS
+
+Im Vorfeld habe ich ja lange überlegt, was für eine Tasche man auf eine Reise um die Welt mitnimmt. Ich hatte mich am Ende für die [Ortlieb Duffle RS 85](https://www.ortlieb.com/de/duffle-rs) entschieden, weil ich annahm, dass wir keine 10 Kilometer mit der Tasche auf dem Rücken unterwegs sein würden. Der Vorteil ist die Wasserdichte. Die Tasche ist zudem sehr robust und hat auch noch große Rollen, so dass sie problemlos auch auf unebenem Gelände gezogen werden kann. Durch das Material ist sie sehr robust und bisher unkaputtbar. Und zur Not kann man die 85 Liter auch auf dem Rücken tragen. Leider ist der Handgriff (bauartbedingt) zu nah an der Tasche, so dass man mit langen Beinen doch immer wieder mit dem Fuß hinten die Tasche beim Laufen berührt. Abhilfe würde die _Duffle RG_ schaffen, da diese ein Teleskopgestänge als Griff hat, der aber dann gleich ein paar Kilogramm mehr aufträgt.
+
+{{< postimg "IMG_20181113_093208.jpg" >}}
 
 ## Deo
 
