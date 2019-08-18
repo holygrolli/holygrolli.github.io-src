@@ -6,12 +6,14 @@ categories:
 - tech
 comments: true
 date: "2018-12-13T19:50:11-05:00"
+lastmod: "2019-08-18T08:21:45+02:00"
 description: Ein Huawei-Gerät in Verbindung mit dem Microsoft Unternehmensportal ist
   eine schwierige Kombination
 draft: false
 tags:
 - handy
 - android
+- huawei
 title: Microsoft Unternehmens&shy;portal auf Huawei-Telefonen
 ---
 
@@ -31,3 +33,5 @@ Nichtsdestotrotz bin ich bei meiner Suche im Netz doch noch fündig geworden. In
 Mit der letzten Einstellung wird das recht aggressive Akkumanangement für die App unterbunden und bei einem neuen Anmeldeversuch im Unternehmensportal konnte bei mir _Android for Work_ vollständig installiert werden.
 
 Zusätzlicher Tipp: wenn die Firma noch zusätzlich ein vorkonfiguriertes Exchange-Profil für Gmail ausrollt, dann einfach lange warten. Mein vorzeitig selbst angelegtes Exchange-Konto konnte leider trotzdem nicht genutzt werden. Nach einer kompletten Neuinstallation, warten, immer wieder Einloggen ins Unternehmensportal und auch mal einem Neustart war plötzlich das Exchange-Konto gepusht und nutzbar!
+
+**Update 18.08.2019** in [diesem Beitrag]({{< relref "unternehmensportal-auf-huawei-update-1" >}})
