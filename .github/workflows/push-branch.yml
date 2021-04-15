@@ -21,7 +21,8 @@ jobs:
       - name: Build page
         uses: docker://grolland/aws-cli:hugo
         with:
-          args: cd src && hugo --cleanDestinationDir -d ../target
+          entrypoint: bash
+          args: -c "cd src && hugo --cleanDestinationDir -d ../target"
       - name: Push changes to target
         working-directory: target
         run: |
