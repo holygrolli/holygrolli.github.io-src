@@ -42,4 +42,4 @@ Als Bonus wird nach jedem Durchlauf immer der Buildstatus gesetzt, so dass wiede
 
 Das Ganze im vollständigen JENKINSFILE hier im Gist:
 
-{{< gist adulescentulus 515a795821ca698ff7704cbb7c9c4be3 >}}
+{{< gist holygrolli 515a795821ca698ff7704cbb7c9c4be3 >}}

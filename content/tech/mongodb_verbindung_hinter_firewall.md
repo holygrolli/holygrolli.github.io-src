@@ -33,7 +33,7 @@ Alle drei Verbindungen lauschen lokal auf drei verschiedenen Ports (27017-27019)
 ## MongoDB verbinden
 Für die Verbindung gibt es nun ein `docker-compose`-File, welches das MongoDB-Image (mit den CLI Tools) zur Verfügung stellt. Weiterhin werden noch 3 Container gestartet, um auf die lokalen SSH-Tunnel weiterzuleiten. Wieso 3? Weil jeder der Container auf einer Docker-IP jeweils auf Port 27017 einen Tunnel bereitstellen muss. Docker ermöglicht es uns, dem MongoDB Container diese 3 Container-IPs den Hostnames der Ziel-DB-Knoten zuzuordnen (extra/additional hosts). Dadurch denkt der Client, er verbindet sich mit den 3 Zielhosts und auch SSL macht somit keine Probleme.
 
-{{< gist adulescentulus d4a4977abf1b76d314ee74dc78a144d4 >}}
+{{< gist holygrolli d4a4977abf1b76d314ee74dc78a144d4 >}}
 
 Speichert man die `docker-compose.yml` nun in einem Ordner `mdb`, dann kann man die Container alle starten:
 

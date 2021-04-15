@@ -54,4 +54,4 @@ Das `load_test.log` wird nun mit Prüfergebnissen gefüllt und wir können es ge
 
 Alles herunterladbar als Gist:
 
-{{< gist adulescentulus 4ee663291474cd519a4b948f21e5ab48 >}}
+{{< gist holygrolli 4ee663291474cd519a4b948f21e5ab48 >}}

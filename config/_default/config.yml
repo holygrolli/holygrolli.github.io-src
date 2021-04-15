@@ -3,7 +3,7 @@ baseURL: "https://blog.networkchallenge.de/"
 languageCode: "de-de"
 paginate: 10
 theme: "blomp"
-copyright: "Copyright © ChaosBlog 2018"
+copyright: "Copyright © ChaosBlog 2021"
 disqusShortname: "thechaosblog"
 googleAnalytics: "UA-259583-6"
 
@@ -24,7 +24,7 @@ params:
   - title: "google-plus"
     url: "https://plus.google.com/+AndreasGroll"
   - title: "github"
-    url: "https://github.com/adulescentulus"
+    url: "https://github.com/holygrolli"
   - title: "instagram"
     url: "https://www.instagram.com/holygrolli/"
   authoren:

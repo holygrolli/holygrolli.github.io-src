@@ -1,6 +1,6 @@
 [submodule "themes/startbootstrap-clean-blog"]
 	path = themes/startbootstrap-clean-blog
-	url = https://github.com/adulescentulus/startbootstrap-clean-blog.git
+	url = https://github.com/holygrolli/startbootstrap-clean-blog.git
 [submodule "themes/blomp"]
 	path = themes/blomp
-	url = https://github.com/adulescentulus/hugo-blomp.git
+	url = https://github.com/holygrolli/hugo-blomp.git

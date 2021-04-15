@@ -89,7 +89,7 @@ Nach der Installation des Plugins wechselt man in die zugehörigen Einstellungen
 
 Leider geht's jetzt ans Eingemachte! Damit "Lazy Load" funktioniert müssen an den Bildern bestimmte HTML-Attribute gesetzt werden. Dafür gehen wir nun in Plugins / Plugin Editor und wählen dort "Responsify WP" und dann rechts im Dateibaum auf "includes / img.php". Die vollständige Datei kann bei der Plugin-Version 1.9.11 ersetzt werden:
 
-{{< gist adulescentulus ba1ca4e315a6e66ff5af23758a2f94bc >}}
+{{< gist holygrolli ba1ca4e315a6e66ff5af23758a2f94bc >}}
 
 Nach dem Speichern sind wir grundsätzlich fertig mit unseren Änderungen. Mit der Anpassung an dem Plugin haben wir allerdings eine kleine Hürde für zukünftige Updates vom Plugin _Responsify WP_ geschaffen. Sollte das Plugin aktualisiert werden, braucht es eine erneute Anpassung. Da das Plugin aber schon seit über einem Jahr nicht mehr aktualisiert wurde, hoffe ich einfach, dass das nicht so häufig vorkommt.
 

@@ -1,0 +1,34 @@
+name: push
+on: 
+  push:
+    branches-ignore: 
+      - 'master'
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout src repo
+        uses: actions/checkout@v2
+        with:
+          path: src
+          submodules: true
+      - name: Checkout target repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ github.repository_owner }}/${{ github.repository_owner }}.github.io
+          path: target
+      - name: Build page
+        uses: docker://grolland/aws-cli:hugo
+        with:
+          args: cd src && hugo --cleanDestinationDir -d ../target
+      - name: Push changes to target
+        working-directory: target
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git checkout -b ${GITHUB_REF#refs/heads/}
+          git add .
+          git commit -m "new content from source ${{ github.sha }}"
+          git push -f -u origin ${GITHUB_REF#refs/heads/}
+        
